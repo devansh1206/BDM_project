@@ -1,0 +1,1981 @@
+,Order ID,Customer Name,Category,Sub Category,Order Date,Sales,Discount,Profit
+678,OD3473,Sheeba,Bakery,Breads & Buns,01-01-2022,2737,0.18,1047.95
+139,OD849,Adavan,Oil & Masala,Masalas,01-01-2022,453,0.14,22.65
+689,OD3544,Vinne,Snacks,Cookies,01-01-2022,1970,0.33,544.4928
+691,OD3562,Sabeela,Food Grains,Atta & Flour,01-01-2022,2332,0.31,839.52
+358,OD1890,Vidya,Beverages,Soft Drinks,01-01-2022,2741,0.25,832.07
+667,OD3423,Rumaiza,"Eggs, Meat & Fish",Chicken,01-01-2022,1045,0.18,324.92
+660,OD3391,Yusuf,Fruits & Veggies,Fresh Vegetables,01-01-2022,2193,0.27,592.11
+288,OD1554,Ram,Beverages,Soft Drinks,01-01-2022,1983,0.28,801.54
+276,OD1493,Surya,Oil & Masala,Edible Oil & Ghee,01-01-2022,612,0.2,30.6
+1710,OD8707,Yadav,Snacks,Cookies,01-01-2022,2645,0.29,1179.35
+1561,OD8035,Komal,Food Grains,Dals & Pulses,01-02-2022,1716,0.3,154.44
+1533,OD7925,Rumaiza,Fruits & Veggies,Fresh Vegetables,01-02-2022,1448,0.19,492.32
+1239,OD6409,Roshan,Beverages,Soft Drinks,01-02-2022,903,0.1,144.864
+1240,OD6410,Sudeep,Snacks,Chocolates,01-02-2022,2681,0.15,1049.16
+508,OD2655,Ridhesh,"Eggs, Meat & Fish",Mutton,01-02-2022,866,0.21,423.1
+511,OD2672,Alan,Food Grains,Rice,01-02-2022,1482,0.17,474.24
+231,OD1231,Esther,Oil & Masala,Masalas,01-02-2022,946,0.33,47.3
+519,OD2692,Ramesh,Beverages,Health Drinks,01-02-2022,2616,0.21,685.024
+892,OD4548,Yadav,Beverages,Soft Drinks,01-03-2022,2776,0.12,1174.16
+857,OD4389,Krithika,"Eggs, Meat & Fish",Chicken,01-03-2022,50,0.21,98.44736
+937,OD4775,Amrish,Oil & Masala,Edible Oil & Ghee,01-03-2022,349,0.29,17.45
+1865,OD9427,Sudha,"Eggs, Meat & Fish",Mutton,01-06-2022,547,0.17,107.33568
+835,OD4252,Amy,Bakery,Cakes,01-07-2022,2254,0.22,571.6224000000001
+595,OD3022,Rumaiza,Beverages,Health Drinks,01-07-2022,1139,0.35,234.1152
+178,OD978,Verma,"Eggs, Meat & Fish",Fish,01-07-2022,50,0.14,155.2384
+603,OD3074,Ram,Food Grains,Dals & Pulses,01-07-2022,1368,0.18,615.6
+601,OD3067,James,Oil & Masala,Masalas,01-07-2022,585,0.14,29.25
+581,OD2963,Sudeep,"Eggs, Meat & Fish",Chicken,01-07-2022,50,0.15,24.832
+1109,OD5707,Jonas,Oil & Masala,Edible Oil & Ghee,01-08-2022,50,0.19,2.5
+768,OD3987,Amy,Snacks,Cookies,01-09-2022,1804,0.12,582.54336
+1377,OD7104,Harish,Snacks,Cookies,01-12-2022,2868,0.22,935.04
+1662,OD8481,Hussain,Fruits & Veggies,Organic Vegetables,01-12-2022,1231,0.1,381.61
+1463,OD7590,Shah,Oil & Masala,Masalas,01-12-2022,226,0.26,11.3
+1780,OD8970,Verma,Oil & Masala,Masalas,01-12-2022,983,0.14,49.15
+16,OD131,Haseena,Snacks,Chocolates,02-02-2022,1861,0.29,699.2272
+876,OD4488,Sharon,Bakery,Breads & Buns,02-02-2022,1619,0.27,528.2496
+1503,OD7781,Muneer,"Eggs, Meat & Fish",Mutton,02-02-2022,1214,0.23,400.06
+871,OD4465,Jackson,Snacks,Chocolates,02-02-2022,1361,0.27,539.15328
+1629,OD8327,Peer,Snacks,Chocolates,02-02-2022,1846,0.18,638.272
+17,OD132,Sundar,Beverages,Soft Drinks,02-02-2022,2512,0.28,152.064
+1191,OD6128,Hafiz,Fruits & Veggies,Organic Fruits,02-02-2022,2091,0.11,334.56
+18,OD133,Ram,"Eggs, Meat & Fish",Fish,02-02-2022,50,0.24,72.0896
+343,OD1817,Veena,"Eggs, Meat & Fish",Mutton,02-02-2022,50,0.11,209.87904000000003
+764,OD3978,Ramesh,Snacks,Noodles,02-03-2022,1927,0.2,343.9584
+1774,OD8936,Harish,Food Grains,Organic Staples,02-03-2022,1580,0.1,158.0
+814,OD4181,Anu,"Eggs, Meat & Fish",Fish,02-03-2022,1033,0.31,251.52512
+1772,OD8927,Sabeela,Bakery,Biscuits,02-03-2022,2739,0.14,221.77152
+833,OD4244,Roshan,Snacks,Chocolates,02-03-2022,2783,0.17,188.61120000000005
+1770,OD8922,Roshan,Oil & Masala,Spices,02-03-2022,804,0.1,40.2
+737,OD3862,Surya,Snacks,Cookies,02-03-2022,2289,0.35,350.23104
+1660,OD8470,Muneer,Bakery,Cakes,02-03-2022,2838,0.27,1083.3
+704,OD3655,Aditi,Food Grains,Atta & Flour,02-04-2022,738,0.32,36.9
+1486,OD7712,Sheeba,"Eggs, Meat & Fish",Chicken,02-05-2022,424,0.2,66.51903999999999
+515,OD2678,Ravi,Food Grains,Organic Staples,02-05-2022,1927,0.21,558.83
+1635,OD8368,Jackson,Fruits & Veggies,Fresh Fruits,02-05-2022,2413,0.28,1037.59
+521,OD2699,Alan,Fruits & Veggies,Fresh Vegetables,02-05-2022,2430,0.16,170.1
+1894,OD9586,Jonas,Snacks,Noodles,02-06-2022,2097,0.33,973.65
+1423,OD7351,James,Bakery,Biscuits,02-06-2022,2707,0.27,1184.94
+302,OD1634,Surya,Fruits & Veggies,Fresh Fruits,02-06-2022,2059,0.1,905.96
+1586,OD8177,Vinne,Snacks,Noodles,02-06-2022,2141,0.14,791.744
+196,OD1082,Ridhesh,Beverages,Soft Drinks,02-06-2022,1616,0.2,332.6976
+889,OD4532,Shah,Snacks,Noodles,02-09-2022,2999,0.16,1115.66
+1137,OD5848,Ganesh,Fruits & Veggies,Fresh Vegetables,02-09-2022,588,0.26,170.52
+684,OD3528,Peer,Oil & Masala,Edible Oil & Ghee,02-09-2022,252,0.31,12.6
+286,OD1531,Adavan,Beverages,Soft Drinks,02-09-2022,1925,0.15,840.5
+677,OD3472,Peer,Snacks,Cookies,02-09-2022,1159,0.21,173.87135999999998
+1008,OD5193,Roshan,Fruits & Veggies,Fresh Fruits,02-09-2022,1523,0.35,487.36
+396,OD2129,Arutra,"Eggs, Meat & Fish",Eggs,02-10-2022,967,0.29,436.78
+1704,OD8676,Amrish,Beverages,Soft Drinks,02-10-2022,1085,0.23,315.648
+1336,OD6886,Adavan,Snacks,Noodles,02-11-2022,2658,0.11,1020.3
+1142,OD5870,Jonas,Beverages,Health Drinks,02-11-2022,1330,0.2,227.664
+1388,OD7152,Verma,Food Grains,Dals & Pulses,02-11-2022,2440,0.16,463.6
+188,OD1054,Yusuf,Oil & Masala,Masalas,02-11-2022,778,0.32,38.9
+1568,OD8067,Hussain,Food Grains,Dals & Pulses,02-11-2022,2035,0.32,529.1
+770,OD3991,Ramesh,Snacks,Cookies,03-02-2022,2911,0.24,923.97
+1622,OD8312,Yadav,Snacks,Chocolates,03-02-2022,2330,0.31,149.472
+1257,OD6500,Haseena,Food Grains,Atta & Flour,03-02-2022,765,0.21,198.9
+1501,OD7777,Aditi,Bakery,Breads & Buns,03-02-2022,1323,0.23,487.24416
+1404,OD7254,Sudha,Oil & Masala,Edible Oil & Ghee,03-02-2022,1579,0.18,78.95
+1160,OD5959,Aditi,Beverages,Soft Drinks,03-02-2022,2825,0.13,384.12
+1632,OD8347,Willams,Food Grains,Atta & Flour,03-02-2022,1907,0.2,362.33
+1390,OD7172,Muneer,Oil & Masala,Edible Oil & Ghee,03-02-2022,1158,0.17,57.9
+1378,OD7113,Ravi,Beverages,Health Drinks,03-02-2022,1900,0.22,725.0
+1364,OD7047,Sheeba,Fruits & Veggies,Organic Fruits,03-02-2022,2017,0.3,121.02
+1407,OD7264,Sudeep,"Eggs, Meat & Fish",Chicken,03-02-2022,50,0.26,21.1456
+672,OD3442,Ravi,Snacks,Noodles,03-03-2022,2996,0.11,1114.64
+1072,OD5527,Suresh,Bakery,Cakes,03-03-2022,2441,0.27,889.12
+1205,OD6222,Malik,Snacks,Cookies,03-03-2022,2354,0.22,272.78208
+791,OD4086,Yusuf,"Eggs, Meat & Fish",Eggs,03-03-2022,295,0.23,261.312
+268,OD1421,Sharon,Beverages,Soft Drinks,03-03-2022,1234,0.32,240.19200000000004
+365,OD1928,Adavan,Food Grains,Atta & Flour,03-03-2022,687,0.18,178.62
+1001,OD5150,Arvind,"Eggs, Meat & Fish",Fish,03-03-2022,50,0.35,91.392
+72,OD420,Hussain,Beverages,Health Drinks,03-04-2022,1207,0.32,127.8288
+73,OD421,Shree,"Eggs, Meat & Fish",Fish,03-04-2022,72,0.24,156.30336
+651,OD3320,Alan,Bakery,Breads & Buns,03-04-2022,1441,0.14,465.03936
+1771,OD8924,Peer,Fruits & Veggies,Organic Fruits,03-04-2022,2216,0.13,642.64
+1661,OD8478,Roshan,Food Grains,Dals & Pulses,03-04-2022,502,0.34,50.2
+1769,OD8921,Sabeela,"Eggs, Meat & Fish",Eggs,03-04-2022,50,0.15,200.3456
+1543,OD7968,Ram,"Eggs, Meat & Fish",Eggs,03-05-2022,50,0.24,57.6768
+458,OD2414,Roshan,Food Grains,Dals & Pulses,03-05-2022,1641,0.24,361.02
+1262,OD6524,Rumaiza,Snacks,Chocolates,03-05-2022,1669,0.34,406.39104
+1261,OD6521,Arutra,Bakery,Cakes,03-05-2022,2391,0.28,801.48
+462,OD2419,Amy,Food Grains,Atta & Flour,03-05-2022,2435,0.27,365.25
+460,OD2416,Sudeep,Food Grains,Rice,03-05-2022,2306,0.34,1037.7
+457,OD2411,Arvind,Food Grains,Organic Staples,03-05-2022,1621,0.23,697.03
+459,OD2415,Sundar,Snacks,Noodles,03-05-2022,1237,0.18,352.23552
+1263,OD6526,Sudeep,Bakery,Cakes,03-05-2022,3000,0.23,373.24799999999993
+649,OD3312,Ravi,Oil & Masala,Spices,03-06-2022,335,0.12,16.75
+658,OD3388,Ridhesh,Fruits & Veggies,Organic Fruits,03-06-2022,1840,0.17,478.4
+526,OD2711,Arutra,Fruits & Veggies,Organic Fruits,03-06-2022,1892,0.24,340.56
+239,OD1265,Mathew,Bakery,Cakes,03-06-2022,1367,0.31,384.35904
+1321,OD6801,Sharon,Snacks,Cookies,03-06-2022,1306,0.31,475.7875199999999
+1891,OD9566,Akash,"Eggs, Meat & Fish",Chicken,03-06-2022,50,0.23,103.1424
+1899,OD9612,Aditi,Food Grains,Dals & Pulses,03-06-2022,799,0.1,279.65
+1975,OD9969,Hafiz,Snacks,Noodles,03-06-2022,2581,0.23,914.11
+1897,OD9599,Sabeela,Oil & Masala,Masalas,03-06-2022,232,0.22,11.6
+1908,OD9673,Amy,Beverages,Soft Drinks,03-06-2022,1806,0.27,606.1600000000001
+760,OD3940,Adavan,Beverages,Soft Drinks,03-07-2022,2458,0.19,1105.52
+707,OD3681,Sheeba,Beverages,Soft Drinks,03-07-2022,2011,0.31,487.1664
+1955,OD9871,Hafiz,"Eggs, Meat & Fish",Mutton,03-07-2022,50,0.31,31.54944
+926,OD4727,Amy,Bakery,Breads & Buns,03-08-2022,2879,0.31,892.54
+843,OD4307,Surya,Fruits & Veggies,Organic Vegetables,03-08-2022,1320,0.21,92.4
+54,OD361,Amrish,Snacks,Noodles,03-08-2022,1162,0.13,97.1136
+53,OD360,Ridhesh,Fruits & Veggies,Organic Vegetables,03-08-2022,2297,0.13,528.31
+1616,OD8282,Verma,Beverages,Soft Drinks,03-09-2022,921,0.24,262.584
+927,OD4729,Sharon,Beverages,Soft Drinks,03-09-2022,2838,0.11,526.608
+1077,OD5543,Jonas,Oil & Masala,Masalas,03-09-2022,1027,0.3,51.35
+1042,OD5377,Peer,Food Grains,Atta & Flour,03-10-2022,775,0.2,124.0
+1448,OD7496,Rumaiza,Fruits & Veggies,Fresh Fruits,03-10-2022,1517,0.35,379.25
+1850,OD9305,Mathew,Beverages,Health Drinks,03-10-2022,2625,0.13,711.75
+1690,OD8598,Akash,Beverages,Health Drinks,03-10-2022,1649,0.31,323.7408
+1460,OD7573,Rumaiza,"Eggs, Meat & Fish",Mutton,03-10-2022,933,0.16,290.93120000000005
+277,OD1495,James,Bakery,Cakes,03-10-2022,2852,0.25,1155.76
+1963,OD9904,Hussain,Food Grains,Organic Staples,03-10-2022,942,0.15,329.7
+1564,OD8045,Akash,Bakery,Biscuits,03-10-2022,1206,0.33,335.09376
+1689,OD8596,Kumar,Bakery,Breads & Buns,03-10-2022,1197,0.13,299.16864
+1684,OD8570,Arvind,Food Grains,Rice,03-11-2022,1560,0.19,421.2
+1858,OD9365,Hafiz,Food Grains,Organic Staples,03-11-2022,1023,0.33,337.59
+1692,OD8616,Sheeba,"Eggs, Meat & Fish",Eggs,03-11-2022,50,0.19,190.6176
+629,OD3212,Sudeep,Beverages,Soft Drinks,03-11-2022,2473,0.17,863.36
+1848,OD9303,Surya,Food Grains,Dals & Pulses,03-11-2022,603,0.24,66.33
+1964,OD9907,Adavan,Snacks,Noodles,03-11-2022,2687,0.13,540.9504000000001
+1957,OD9876,Akash,"Eggs, Meat & Fish",Chicken,03-11-2022,593,0.13,128.52224
+798,OD4125,Roshan,Bakery,Biscuits,03-12-2022,2631,0.3,280.76544
+1477,OD7676,Ramesh,Fruits & Veggies,Organic Vegetables,03-12-2022,1961,0.13,196.1
+1588,OD8182,Komal,Oil & Masala,Masalas,03-12-2022,952,0.25,47.6
+1111,OD5722,Veena,Fruits & Veggies,Fresh Vegetables,04-01-2022,1061,0.25,435.01
+1535,OD7939,Peer,Food Grains,Dals & Pulses,04-01-2022,1750,0.34,577.5
+1306,OD6764,Malik,Oil & Masala,Edible Oil & Ghee,04-01-2022,52,0.28,2.6
+1305,OD6761,Veena,Snacks,Noodles,04-01-2022,1633,0.1,589.05792
+1133,OD5833,Vinne,Food Grains,Dals & Pulses,04-01-2022,1100,0.21,209.0
+505,OD2642,Komal,"Eggs, Meat & Fish",Chicken,04-01-2022,236,0.11,294.4256
+503,OD2633,Peer,"Eggs, Meat & Fish",Mutton,04-01-2022,255,0.13,59.59680000000001
+848,OD4333,Muneer,Snacks,Chocolates,04-01-2022,1203,0.31,187.55712000000003
+1560,OD8032,Vinne,Snacks,Noodles,04-01-2022,2893,0.19,277.36128
+939,OD4785,Amrish,"Eggs, Meat & Fish",Chicken,04-01-2022,50,0.24,77.69088
+1106,OD5687,Vidya,Oil & Masala,Spices,04-01-2022,1468,0.14,73.4
+728,OD3798,James,"Eggs, Meat & Fish",Mutton,04-01-2022,953,0.35,231.49056
+1641,OD8408,Harish,"Eggs, Meat & Fish",Chicken,04-02-2022,50,0.16,51.983360000000005
+784,OD4062,Sheeba,Food Grains,Organic Staples,04-02-2022,634,0.27,50.72
+1916,OD9714,Arvind,Oil & Masala,Edible Oil & Ghee,04-02-2022,431,0.26,21.55
+1718,OD8744,Peer,"Eggs, Meat & Fish",Fish,04-02-2022,1245,0.3,751.3499999999999
+348,OD1834,Vidya,Snacks,Noodles,04-02-2022,1792,0.17,666.4384
+164,OD953,Ridhesh,Snacks,Chocolates,04-03-2022,1702,0.3,795.0799999999999
+381,OD2034,Jackson,Fruits & Veggies,Fresh Vegetables,04-03-2022,1610,0.15,627.9
+1910,OD9695,Surya,"Eggs, Meat & Fish",Eggs,04-04-2022,31,0.26,266.8928
+1014,OD5233,Adavan,Snacks,Cookies,04-04-2022,1595,0.28,615.808
+1717,OD8735,Sabeela,Oil & Masala,Masalas,04-04-2022,406,0.13,20.3
+1830,OD9219,Komal,Oil & Masala,Masalas,04-04-2022,253,0.22,12.65
+1719,OD8745,Verma,Snacks,Noodles,04-04-2022,1639,0.31,287.26272
+1912,OD9697,Veronica,Food Grains,Organic Staples,04-04-2022,1714,0.24,702.74
+1461,OD7578,Anu,Fruits & Veggies,Fresh Fruits,04-06-2022,1050,0.23,441.0
+1806,OD9099,Jackson,Snacks,Noodles,04-06-2022,2415,0.31,219.5424
+32,OD233,Komal,Food Grains,Dals & Pulses,04-07-2022,826,0.18,247.8
+33,OD234,Ramesh,Snacks,Cookies,04-07-2022,2446,0.22,478.4832
+31,OD232,Komal,Beverages,Soft Drinks,04-07-2022,1880,0.22,632.8
+1869,OD9442,Sundar,Bakery,Biscuits,04-07-2022,2604,0.18,821.04
+1967,OD9931,Adavan,Bakery,Biscuits,04-07-2022,1963,0.25,588.8159999999999
+35,OD236,Vince,Fruits & Veggies,Organic Fruits,04-07-2022,1983,0.17,773.37
+34,OD235,Mathew,Beverages,Soft Drinks,04-07-2022,2445,0.12,752.15
+1445,OD7447,Vinne,Fruits & Veggies,Organic Vegetables,04-08-2022,1562,0.13,656.04
+1147,OD5892,Harish,Food Grains,Dals & Pulses,04-08-2022,2317,0.11,718.27
+1145,OD5879,Akash,Beverages,Soft Drinks,04-08-2022,2484,0.19,721.0
+1841,OD9272,Akash,Fruits & Veggies,Organic Fruits,04-08-2022,1725,0.13,362.25
+1185,OD6079,Ram,Bakery,Cakes,04-08-2022,2554,0.2,739.304
+1895,OD9587,Amrish,Beverages,Health Drinks,04-08-2022,1430,0.35,355.968
+1892,OD9569,Surya,Food Grains,Organic Staples,04-08-2022,1455,0.24,567.45
+1839,OD9268,Ram,Oil & Masala,Edible Oil & Ghee,04-08-2022,840,0.22,42.0
+427,OD2257,Akash,Fruits & Veggies,Fresh Fruits,04-09-2022,1710,0.22,307.8
+428,OD2258,Vidya,Oil & Masala,Masalas,04-09-2022,1238,0.17,61.9
+169,OD965,Roshan,Snacks,Noodles,04-09-2022,2392,0.28,340.62336
+1414,OD7305,Muneer,"Eggs, Meat & Fish",Eggs,04-09-2022,529,0.28,132.7872
+170,OD966,Yusuf,Bakery,Cakes,04-09-2022,3032,0.29,1053.92
+432,OD2270,Roshan,Bakery,Breads & Buns,04-09-2022,1652,0.13,181.7856
+171,OD967,Esther,Oil & Masala,Edible Oil & Ghee,04-09-2022,1149,0.19,57.45
+1439,OD7411,Shah,Snacks,Chocolates,04-09-2022,2718,0.33,871.86
+172,OD968,Sabeela,Bakery,Breads & Buns,04-09-2022,2829,0.1,462.20544
+506,OD2646,Shah,Bakery,Biscuits,04-09-2022,2195,0.17,275.616
+173,OD969,Rumaiza,Bakery,Cakes,04-09-2022,1720,0.27,751.04
+174,OD970,Krithika,"Eggs, Meat & Fish",Mutton,04-09-2022,281,0.11,45.49632
+466,OD2431,Adavan,Oil & Masala,Spices,04-10-2022,339,0.34,16.95
+1312,OD6776,Vinne,Fruits & Veggies,Fresh Vegetables,04-10-2022,1778,0.2,604.52
+1842,OD9283,Kumar,Fruits & Veggies,Fresh Fruits,04-10-2022,1016,0.18,365.76
+140,OD859,Amrish,Bakery,Biscuits,04-10-2022,1741,0.34,256.31424
+141,OD860,Anu,"Eggs, Meat & Fish",Mutton,04-10-2022,860,0.22,383.84
+308,OD1657,Jonas,Food Grains,Organic Staples,04-10-2022,1471,0.31,176.52
+751,OD3910,Shree,Snacks,Chocolates,04-10-2022,3081,0.11,969.87
+969,OD4943,Sundar,Fruits & Veggies,Fresh Vegetables,04-10-2022,2498,0.24,224.82
+1953,OD9861,Hussain,Snacks,Cookies,04-10-2022,2375,0.2,775.1
+1134,OD5836,Esther,Bakery,Cakes,04-10-2022,2544,0.28,537.4771200000001
+831,OD4233,Ramesh,Fruits & Veggies,Fresh Vegetables,04-11-2022,1149,0.21,68.94
+1826,OD9199,Roshan,"Eggs, Meat & Fish",Chicken,04-11-2022,585,0.27,63.9744
+896,OD4562,Shah,Bakery,Cakes,04-11-2022,2159,0.19,892.42
+1069,OD5519,Yusuf,Snacks,Chocolates,04-11-2022,1769,0.15,689.1759999999999
+800,OD4132,Suresh,Beverages,Health Drinks,04-11-2022,2694,0.33,934.08
+738,OD3864,Muneer,Fruits & Veggies,Fresh Fruits,04-11-2022,774,0.13,317.34
+1032,OD5345,Rumaiza,Fruits & Veggies,Fresh Fruits,04-11-2022,2450,0.32,588.0
+542,OD2770,Amy,Snacks,Chocolates,04-12-2022,2725,0.11,958.75
+540,OD2766,Amy,Bakery,Cakes,04-12-2022,2567,0.14,790.1
+337,OD1798,Roshan,Bakery,Breads & Buns,05-01-2022,1941,0.16,779.312
+810,OD4161,Adavan,Beverages,Soft Drinks,05-01-2022,2569,0.14,156.168
+425,OD2251,Aditi,Food Grains,Dals & Pulses,05-01-2022,1149,0.22,103.41
+333,OD1786,Yadav,Fruits & Veggies,Fresh Fruits,05-01-2022,1827,0.29,694.26
+198,OD1095,Jackson,Snacks,Chocolates,05-01-2022,1551,0.3,164.3328
+1966,OD9924,Ramesh,Oil & Masala,Edible Oil & Ghee,05-01-2022,428,0.32,21.4
+1165,OD5980,Kumar,"Eggs, Meat & Fish",Fish,05-02-2022,50,0.11,66.11967999999999
+856,OD4384,Arvind,Bakery,Biscuits,05-02-2022,1333,0.29,316.656
+886,OD4524,Vinne,"Eggs, Meat & Fish",Mutton,05-02-2022,613,0.18,260.8896
+1563,OD8044,Shah,Beverages,Soft Drinks,05-02-2022,1206,0.1,255.3408
+885,OD4523,Haseena,Beverages,Health Drinks,05-02-2022,940,0.15,124.416
+897,OD4563,Anu,Beverages,Soft Drinks,05-03-2022,1911,0.11,174.0672
+1329,OD6846,Mathew,Food Grains,Organic Staples,05-03-2022,1695,0.3,355.95
+1320,OD6798,James,"Eggs, Meat & Fish",Mutton,05-03-2022,278,0.15,295.44960000000003
+1438,OD7408,Arutra,Beverages,Soft Drinks,05-03-2022,1711,0.15,434.2031999999999
+1412,OD7302,Surya,Oil & Masala,Spices,05-03-2022,50,0.17,2.5
+1440,OD7414,Yadav,Fruits & Veggies,Fresh Fruits,05-03-2022,1061,0.26,169.76
+1183,OD6058,Yusuf,Oil & Masala,Spices,05-03-2022,475,0.23,23.75
+873,OD4483,Sudeep,Fruits & Veggies,Organic Fruits,05-03-2022,2440,0.28,780.8
+1174,OD6024,Ridhesh,Fruits & Veggies,Organic Fruits,05-03-2022,2176,0.22,544.0
+1475,OD7670,Mathew,Snacks,Cookies,05-04-2022,2490,0.29,1018.2
+795,OD4102,Surya,"Eggs, Meat & Fish",Mutton,05-04-2022,50,0.18,272.672
+763,OD3964,Sudha,"Eggs, Meat & Fish",Mutton,05-04-2022,406,0.22,197.34528
+776,OD4012,Sharon,Oil & Masala,Edible Oil & Ghee,05-04-2022,676,0.19,33.8
+582,OD2974,Akash,Fruits & Veggies,Fresh Fruits,05-04-2022,892,0.34,240.84
+777,OD4015,Jonas,Snacks,Cookies,05-04-2022,1803,0.29,841.35
+1437,OD7404,Vince,Bakery,Cakes,05-04-2022,1816,0.22,483.28704
+1436,OD7397,Malik,"Eggs, Meat & Fish",Chicken,05-04-2022,30,0.25,274.496
+790,OD4084,Surya,Fruits & Veggies,Fresh Vegetables,05-04-2022,1411,0.18,465.63
+1634,OD8366,Akash,"Eggs, Meat & Fish",Fish,05-04-2022,476,0.24,349.504
+1197,OD6169,Sundar,Bakery,Breads & Buns,05-04-2022,1660,0.22,721.52
+847,OD4324,Malik,Oil & Masala,Spices,05-05-2022,1402,0.32,70.1
+456,OD2405,Harish,Fruits & Veggies,Fresh Fruits,05-05-2022,1063,0.14,74.41
+213,OD1146,Aditi,Beverages,Health Drinks,05-05-2022,2700,0.12,1005.0
+470,OD2453,Vidya,Oil & Masala,Spices,05-05-2022,50,0.12,2.5
+1444,OD7446,Sharon,Food Grains,Dals & Pulses,05-05-2022,2220,0.3,466.2
+454,OD2399,Veena,Beverages,Soft Drinks,05-05-2022,2239,0.24,917.21
+972,OD4970,Yadav,Fruits & Veggies,Organic Fruits,05-06-2022,1061,0.24,318.3
+1153,OD5930,Veronica,Fruits & Veggies,Fresh Vegetables,05-06-2022,1503,0.15,240.48
+481,OD2533,Esther,"Eggs, Meat & Fish",Mutton,05-06-2022,1060,0.24,283.136
+590,OD3001,Arvind,Fruits & Veggies,Fresh Vegetables,05-06-2022,1077,0.35,430.8
+1820,OD9163,Arutra,Bakery,Cakes,05-06-2022,2551,0.15,633.7936
+423,OD2240,Aditi,Bakery,Cakes,05-06-2022,2222,0.12,140.14079999999998
+480,OD2526,Arvind,"Eggs, Meat & Fish",Mutton,05-06-2022,50,0.14,94.74048
+925,OD4723,Ravi,Beverages,Soft Drinks,05-06-2022,1241,0.11,411.7536
+395,OD2127,Komal,Food Grains,Dals & Pulses,05-06-2022,1816,0.31,127.12
+1381,OD7122,Akash,Snacks,Noodles,05-06-2022,1808,0.15,639.2512
+1013,OD5227,Yusuf,Food Grains,Rice,05-06-2022,2265,0.2,203.85
+1951,OD9858,Vinne,Snacks,Cookies,05-06-2022,2969,0.18,1034.39
+1367,OD7054,Ravi,Fruits & Veggies,Fresh Fruits,05-06-2022,1314,0.26,289.08
+1144,OD5876,Muneer,Fruits & Veggies,Fresh Vegetables,05-07-2022,1392,0.23,417.6
+1090,OD5630,Rumaiza,Bakery,Biscuits,05-07-2022,2199,0.27,718.076
+1148,OD5898,Malik,Bakery,Breads & Buns,05-07-2022,1683,0.35,614.6416
+1349,OD6966,Ram,Beverages,Health Drinks,05-07-2022,1756,0.21,546.7392
+1143,OD5874,Suresh,Food Grains,Organic Staples,05-07-2022,2302,0.16,161.14
+1971,OD9943,Roshan,Beverages,Soft Drinks,05-07-2022,2488,0.32,868.16
+311,OD1670,Amrish,Fruits & Veggies,Fresh Fruits,05-08-2022,1330,0.15,518.7
+1179,OD6037,Amrish,Oil & Masala,Spices,05-08-2022,1243,0.3,62.15
+1978,OD9987,Peer,Bakery,Biscuits,05-08-2022,2799,0.34,265.99104
+1278,OD6614,Yadav,Snacks,Cookies,05-08-2022,2485,0.1,788.12
+598,OD3032,Amy,Oil & Masala,Masalas,05-08-2022,263,0.35,13.15
+1919,OD9718,Arvind,Food Grains,Dals & Pulses,05-09-2022,2288,0.15,228.8
+1646,OD8415,Aditi,Food Grains,Organic Staples,05-09-2022,990,0.3,386.1
+1740,OD8826,Alan,Snacks,Cookies,05-09-2022,2961,0.3,1102.74
+1107,OD5696,Ram,Bakery,Biscuits,05-09-2022,1706,0.21,363.12191999999993
+1730,OD8797,Sabeela,Beverages,Health Drinks,05-09-2022,1770,0.22,658.96
+1731,OD8799,Kumar,Fruits & Veggies,Organic Vegetables,05-09-2022,2226,0.23,400.68
+1238,OD6392,Ram,Beverages,Health Drinks,05-09-2022,1009,0.12,52.6176
+1118,OD5740,Haseena,Food Grains,Rice,05-11-2022,1600,0.13,288.0
+483,OD2556,Jonas,Fruits & Veggies,Organic Vegetables,05-11-2022,2361,0.23,708.3
+1816,OD9155,Shah,Bakery,Biscuits,05-11-2022,1489,0.12,522.3052799999999
+1812,OD9145,Vince,"Eggs, Meat & Fish",Eggs,05-11-2022,865,0.15,105.728
+534,OD2741,Hussain,Snacks,Noodles,05-11-2022,2951,0.23,1005.3
+1818,OD9160,Vidya,Oil & Masala,Spices,05-11-2022,259,0.2,12.95
+489,OD2574,Adavan,Fruits & Veggies,Organic Vegetables,05-11-2022,1702,0.31,374.44
+1681,OD8556,Kumar,Snacks,Noodles,05-11-2022,1461,0.34,342.19584000000003
+491,OD2581,Esther,Oil & Masala,Edible Oil & Ghee,05-11-2022,183,0.25,9.15
+532,OD2735,Arutra,"Eggs, Meat & Fish",Chicken,05-12-2022,50,0.2,102.56384
+1276,OD6609,Hussain,Bakery,Cakes,05-12-2022,1522,0.21,350.50752
+528,OD2724,Krithika,Bakery,Breads & Buns,05-12-2022,1255,0.16,452.736
+1853,OD9321,Haseena,"Eggs, Meat & Fish",Chicken,05-12-2022,50,0.33,136.39679999999998
+1472,OD7648,James,Bakery,Biscuits,05-12-2022,2321,0.31,237.91104
+1462,OD7587,Veronica,Bakery,Biscuits,05-12-2022,2057,0.1,226.59264
+1203,OD6212,Ramesh,Food Grains,Organic Staples,05-12-2022,1074,0.16,375.9
+1513,OD7820,Komal,"Eggs, Meat & Fish",Chicken,05-12-2022,1104,0.1,212.33664
+240,OD1273,Shah,Fruits & Veggies,Organic Vegetables,05-12-2022,1033,0.27,392.54
+1281,OD6628,Esther,"Eggs, Meat & Fish",Fish,05-12-2022,50,0.12,48.19968
+718,OD3752,Verma,Snacks,Chocolates,05-12-2022,2631,0.28,596.6265599999999
+736,OD3852,Vince,Snacks,Chocolates,05-12-2022,2094,0.14,232.34688
+982,OD5041,Ravi,"Eggs, Meat & Fish",Chicken,05-12-2022,50,0.35,154.40895999999998
+956,OD4865,Adavan,Food Grains,Atta & Flour,06-01-2022,1180,0.17,70.8
+1294,OD6700,Surya,Fruits & Veggies,Organic Vegetables,06-01-2022,1530,0.18,367.2
+1344,OD6945,Sudha,Beverages,Health Drinks,06-01-2022,1307,0.33,91.4256
+1546,OD7974,Willams,Food Grains,Dals & Pulses,06-01-2022,1486,0.35,520.1
+1273,OD6580,Veronica,Beverages,Health Drinks,06-01-2022,957,0.16,80.208
+1271,OD6556,Kumar,Oil & Masala,Edible Oil & Ghee,06-01-2022,50,0.14,2.5
+749,OD3904,Suresh,Beverages,Health Drinks,06-01-2022,1372,0.33,587.8656000000001
+413,OD2193,Ram,"Eggs, Meat & Fish",Fish,06-01-2022,724,0.11,280.7808
+416,OD2201,Komal,Food Grains,Rice,06-01-2022,2240,0.3,291.2
+1124,OD5773,James,Oil & Masala,Masalas,06-01-2022,50,0.29,2.5
+1545,OD7973,Shree,Fruits & Veggies,Organic Vegetables,06-01-2022,1531,0.31,505.23
+1962,OD9899,Jackson,Fruits & Veggies,Organic Fruits,06-02-2022,2491,0.33,722.39
+652,OD3323,Ram,"Eggs, Meat & Fish",Eggs,06-02-2022,50,0.3,46.2848
+1852,OD9317,Rumaiza,"Eggs, Meat & Fish",Chicken,06-02-2022,179,0.16,232.99584
+609,OD3116,Malik,Oil & Masala,Edible Oil & Ghee,06-02-2022,50,0.27,2.5
+613,OD3122,Adavan,Fruits & Veggies,Fresh Vegetables,06-02-2022,2145,0.31,600.6
+479,OD2523,Ravi,Snacks,Chocolates,06-02-2022,1673,0.12,537.7017599999999
+813,OD4180,Sharon,"Eggs, Meat & Fish",Eggs,06-03-2022,276,0.34,257.1776
+1396,OD7213,Akash,Oil & Masala,Spices,06-03-2022,1071,0.1,53.55
+804,OD4140,Jonas,Food Grains,Atta & Flour,06-03-2022,1835,0.28,697.3
+1468,OD7629,Ridhesh,Snacks,Chocolates,06-03-2022,2257,0.1,458.12736
+1495,OD7763,Veena,Oil & Masala,Spices,06-03-2022,1258,0.25,62.9
+1060,OD5481,Komal,Oil & Masala,Masalas,06-03-2022,204,0.31,10.2
+1050,OD5447,Rumaiza,Beverages,Soft Drinks,06-03-2022,1111,0.14,92.1456
+24,OD205,Ram,Oil & Masala,Spices,06-03-2022,133,0.3,6.65
+1051,OD5450,Komal,Fruits & Veggies,Organic Fruits,06-03-2022,1609,0.2,353.98
+1625,OD8322,Malik,Snacks,Cookies,06-03-2022,2114,0.19,313.94304000000005
+1585,OD8174,Vince,Oil & Masala,Masalas,06-03-2022,743,0.13,37.15
+836,OD4253,Amrish,Bakery,Biscuits,06-03-2022,1707,0.14,459.09504
+1619,OD8308,Shree,Beverages,Soft Drinks,06-03-2022,1766,0.15,531.1008
+827,OD4223,Haseena,"Eggs, Meat & Fish",Mutton,06-03-2022,359,0.12,127.71327999999998
+1182,OD6047,Haseena,Beverages,Health Drinks,06-03-2022,1036,0.31,54.9504
+1901,OD9623,Shah,Oil & Masala,Spices,06-03-2022,344,0.19,17.2
+323,OD1753,Adavan,Fruits & Veggies,Fresh Fruits,06-03-2022,1646,0.13,510.26
+1379,OD7115,Amrish,Fruits & Veggies,Fresh Vegetables,06-04-2022,1324,0.35,251.56
+781,OD4034,Malik,Food Grains,Organic Staples,06-04-2022,972,0.3,174.96
+1753,OD8873,Verma,Fruits & Veggies,Fresh Fruits,06-04-2022,2346,0.18,258.06
+1752,OD8867,Jonas,"Eggs, Meat & Fish",Fish,06-04-2022,273,0.35,275.3792
+1612,OD8259,Adavan,Bakery,Breads & Buns,06-04-2022,2789,0.15,604.3456
+626,OD3181,Ramesh,Food Grains,Dals & Pulses,06-04-2022,1649,0.27,98.94
+1187,OD6093,Akash,Fruits & Veggies,Organic Fruits,06-04-2022,1831,0.24,530.99
+237,OD1250,Ramesh,Bakery,Cakes,06-04-2022,1576,0.17,690.2848
+948,OD4821,Shah,Fruits & Veggies,Organic Vegetables,06-05-2022,870,0.19,374.1
+1453,OD7532,Mathew,Food Grains,Atta & Flour,06-05-2022,2365,0.23,543.95
+1896,OD9591,Verma,Snacks,Noodles,06-06-2022,2536,0.31,167.2704
+1697,OD8649,Shah,"Eggs, Meat & Fish",Chicken,06-06-2022,936,0.27,218.7264
+120,OD667,Jonas,Food Grains,Rice,06-08-2022,1548,0.14,356.04
+683,OD3523,Anu,"Eggs, Meat & Fish",Eggs,06-08-2022,124,0.1,40.67328
+941,OD4788,Esther,Snacks,Noodles,06-08-2022,2955,0.18,1194.9
+1650,OD8424,Vinne,Fruits & Veggies,Organic Vegetables,06-08-2022,1341,0.3,187.74
+40,OD262,Ravi,Food Grains,Organic Staples,06-08-2022,867,0.18,216.75
+1087,OD5623,Alan,"Eggs, Meat & Fish",Fish,06-08-2022,153,0.19,103.91039999999998
+119,OD666,Jackson,Food Grains,Atta & Flour,06-08-2022,1250,0.3,125.0
+121,OD668,Willams,Beverages,Health Drinks,06-08-2022,2547,0.25,736.75
+698,OD3609,Arvind,Bakery,Biscuits,06-08-2022,2397,0.27,310.5216
+915,OD4659,Arvind,Fruits & Veggies,Fresh Fruits,06-08-2022,2061,0.27,370.98
+1922,OD9726,Alan,Bakery,Biscuits,06-08-2022,1986,0.35,191.60064
+1219,OD6268,Surya,Bakery,Biscuits,06-09-2022,3027,0.25,1295.0700000000002
+789,OD4079,Arutra,Bakery,Breads & Buns,06-09-2022,2702,0.19,972.64
+123,OD671,Shree,"Eggs, Meat & Fish",Fish,06-09-2022,50,0.12,149.19168
+124,OD672,Ram,Oil & Masala,Spices,06-09-2022,776,0.15,38.8
+122,OD670,Roshan,Snacks,Noodles,06-09-2022,1654,0.2,718.568
+83,OD487,Harish,Fruits & Veggies,Organic Fruits,06-10-2022,1968,0.14,649.44
+444,OD2335,Ram,Snacks,Noodles,06-10-2022,1494,0.32,293.51808000000005
+1457,OD7551,Willams,Beverages,Health Drinks,06-10-2022,1640,0.34,635.68
+842,OD4297,Krithika,Beverages,Soft Drinks,06-10-2022,2190,0.19,826.5
+81,OD485,Vince,Snacks,Cookies,06-10-2022,2492,0.19,790.304
+1399,OD7226,Jonas,Snacks,Cookies,06-10-2022,2217,0.28,801.27
+1328,OD6842,Sundar,Oil & Masala,Edible Oil & Ghee,06-10-2022,435,0.19,21.75
+872,OD4476,Vidya,Snacks,Noodles,06-10-2022,1462,0.27,633.7504
+1083,OD5589,Jonas,Beverages,Soft Drinks,06-10-2022,1199,0.15,414.2016
+117,OD644,Verma,Oil & Masala,Spices,06-10-2022,1433,0.14,71.65
+82,OD486,Ramesh,Snacks,Cookies,06-10-2022,2543,0.14,1077.2
+475,OD2498,Kumar,Beverages,Soft Drinks,06-10-2022,1666,0.22,757.04
+1285,OD6653,Jackson,Snacks,Noodles,06-10-2022,2878,0.29,1325.1
+589,OD2999,Veena,Oil & Masala,Spices,06-11-2022,67,0.33,3.35
+1736,OD8818,Aditi,Bakery,Cakes,06-11-2022,1460,0.19,607.744
+995,OD5133,Haseena,Oil & Masala,Edible Oil & Ghee,06-11-2022,1215,0.3,60.75
+1862,OD9391,Verma,Beverages,Health Drinks,06-11-2022,1962,0.22,382.3776
+255,OD1355,Jonas,Oil & Masala,Spices,06-11-2022,295,0.16,14.75
+588,OD2994,Shah,Beverages,Health Drinks,06-11-2022,1007,0.35,349.632
+837,OD4260,Esther,Snacks,Noodles,06-11-2022,2030,0.34,247.104
+1732,OD8805,Malik,Food Grains,Organic Staples,06-11-2022,1077,0.19,226.17
+484,OD2557,Ram,Oil & Masala,Spices,06-11-2022,1345,0.11,67.25
+439,OD2301,Vidya,"Eggs, Meat & Fish",Mutton,06-11-2022,947,0.22,451.4500000000001
+1737,OD8822,Haseena,Snacks,Chocolates,06-11-2022,2375,0.18,611.2
+1738,OD8823,Adavan,Fruits & Veggies,Organic Vegetables,06-11-2022,2379,0.3,785.07
+612,OD3121,Esther,Bakery,Cakes,06-11-2022,1105,0.13,383.9616
+1651,OD8425,Vidya,Bakery,Breads & Buns,06-11-2022,2630,0.23,784.64
+743,OD3887,Harish,Snacks,Chocolates,06-12-2022,2188,0.23,493.93152
+993,OD5125,Komal,Oil & Masala,Masalas,06-12-2022,50,0.33,2.5
+712,OD3729,Verma,Snacks,Noodles,06-12-2022,1943,0.28,823.77
+594,OD3020,Anu,Bakery,Cakes,06-12-2022,2744,0.14,259.33824000000004
+1695,OD8626,Harish,Beverages,Health Drinks,06-12-2022,2089,0.22,364.824
+234,OD1246,Hussain,Snacks,Noodles,06-12-2022,1198,0.21,82.66752
+705,OD3666,Esther,Fruits & Veggies,Fresh Fruits,06-12-2022,1749,0.11,472.23
+327,OD1760,Roshan,Fruits & Veggies,Fresh Fruits,06-12-2022,1184,0.33,106.56
+1033,OD5346,Hussain,Oil & Masala,Edible Oil & Ghee,06-12-2022,19,0.31,0.95
+300,OD1622,Krithika,Oil & Masala,Edible Oil & Ghee,06-12-2022,1359,0.24,67.95
+1864,OD9408,Verma,Beverages,Health Drinks,06-12-2022,1565,0.27,631.24
+1803,OD9067,Muneer,Fruits & Veggies,Fresh Fruits,07-01-2022,1953,0.19,468.72
+1809,OD9113,Sundar,"Eggs, Meat & Fish",Mutton,07-01-2022,238,0.16,357.68
+1810,OD9114,Sheeba,"Eggs, Meat & Fish",Fish,07-01-2022,1025,0.28,277.76
+1716,OD8730,Amrish,Snacks,Chocolates,07-02-2022,2231,0.12,591.8572800000001
+1714,OD8726,Sharon,Beverages,Health Drinks,07-02-2022,2840,0.34,956.4
+1550,OD8001,Alan,Fruits & Veggies,Fresh Fruits,07-03-2022,1492,0.26,119.36
+185,OD1032,Haseena,"Eggs, Meat & Fish",Chicken,07-03-2022,198,0.3,250.5216
+1667,OD8493,Sheeba,Snacks,Noodles,07-03-2022,1106,0.33,113.66784
+317,OD1710,Ridhesh,"Eggs, Meat & Fish",Fish,07-03-2022,50,0.29,194.28864
+347,OD1831,Arutra,Food Grains,Dals & Pulses,07-03-2022,588,0.13,235.2
+1934,OD9761,Arvind,Food Grains,Dals & Pulses,07-03-2022,1143,0.13,434.34
+1277,OD6612,Hafiz,"Eggs, Meat & Fish",Chicken,07-03-2022,50,0.34,51.712
+1015,OD5237,Harish,Oil & Masala,Edible Oil & Ghee,07-03-2022,103,0.26,5.15
+1929,OD9753,Peer,Oil & Masala,Masalas,07-03-2022,500,0.1,25.0
+1930,OD9754,Kumar,Bakery,Breads & Buns,07-03-2022,2864,0.25,1160.3200000000002
+1961,OD9890,Adavan,Food Grains,Atta & Flour,07-03-2022,646,0.11,64.6
+1052,OD5451,Verma,Beverages,Health Drinks,07-03-2022,2637,0.34,690.568
+1783,OD8987,Vidya,Fruits & Veggies,Fresh Fruits,07-03-2022,1589,0.35,715.05
+1782,OD8986,Vidya,Beverages,Health Drinks,07-03-2022,1883,0.17,405.7488
+357,OD1889,Haseena,Snacks,Chocolates,07-03-2022,2996,0.32,1258.4
+1832,OD9235,Suresh,"Eggs, Meat & Fish",Mutton,07-03-2022,1205,0.19,421.5
+1047,OD5415,Haseena,Bakery,Biscuits,07-03-2022,2541,0.12,1037.58
+875,OD4486,Muneer,Beverages,Soft Drinks,07-03-2022,2445,0.27,688.96
+1928,OD9752,Vidya,Oil & Masala,Spices,07-03-2022,686,0.31,34.3
+1237,OD6391,Jackson,Oil & Masala,Spices,07-03-2022,86,0.13,4.3
+1380,OD7121,Ramesh,Fruits & Veggies,Fresh Fruits,07-05-2022,1688,0.1,472.64
+1524,OD7877,Vince,Oil & Masala,Masalas,07-05-2022,50,0.35,2.5
+1358,OD7019,Sheeba,Snacks,Chocolates,07-05-2022,2373,0.22,1009.2
+1158,OD5956,Sharon,Fruits & Veggies,Fresh Vegetables,07-05-2022,842,0.11,227.34
+1372,OD7076,Adavan,Snacks,Noodles,07-05-2022,2583,0.29,205.59744000000003
+1368,OD7057,Veena,Snacks,Cookies,07-05-2022,1348,0.19,155.10528
+224,OD1188,Roshan,Bakery,Cakes,07-06-2022,2541,0.34,1018.17
+21,OD199,Surya,"Eggs, Meat & Fish",Mutton,07-06-2022,152,0.3,273.45919999999995
+22,OD200,Sudha,"Eggs, Meat & Fish",Eggs,07-06-2022,50,0.25,87.296
+366,OD1929,Alan,Fruits & Veggies,Fresh Fruits,07-06-2022,2264,0.28,679.2
+1554,OD8010,Amy,Oil & Masala,Edible Oil & Ghee,07-07-2022,101,0.2,5.05
+194,OD1076,Sheeba,Oil & Masala,Masalas,07-07-2022,50,0.31,2.5
+860,OD4405,Alan,Bakery,Breads & Buns,07-07-2022,1912,0.18,544.1126399999999
+549,OD2812,Yadav,Beverages,Health Drinks,07-07-2022,2845,0.3,176.04
+953,OD4856,Yusuf,Bakery,Cakes,07-07-2022,2428,0.35,1012.92
+406,OD2171,Veena,"Eggs, Meat & Fish",Mutton,07-07-2022,259,0.1,290.82879999999994
+408,OD2173,Krithika,Oil & Masala,Spices,07-07-2022,50,0.34,2.5
+954,OD4862,Sharon,Food Grains,Dals & Pulses,07-07-2022,2258,0.29,361.28
+952,OD4852,Sharon,Beverages,Soft Drinks,07-07-2022,1817,0.27,837.65
+52,OD349,Haseena,"Eggs, Meat & Fish",Chicken,07-08-2022,938,0.13,387.328
+50,OD347,Suresh,Fruits & Veggies,Organic Vegetables,07-08-2022,1113,0.21,356.16
+51,OD348,Roshan,Food Grains,Rice,07-08-2022,1966,0.1,629.12
+912,OD4648,Shah,Snacks,Cookies,07-08-2022,2352,0.23,655.0336
+1890,OD9565,Mathew,Bakery,Biscuits,07-08-2022,1277,0.26,374.35392
+1903,OD9644,Jonas,Bakery,Cakes,07-08-2022,2312,0.19,325.41696
+1167,OD5991,Sharon,Food Grains,Atta & Flour,07-08-2022,2251,0.26,810.36
+1648,OD8421,Esther,"Eggs, Meat & Fish",Fish,07-08-2022,587,0.15,397.544
+346,OD1828,Krithika,Beverages,Health Drinks,07-08-2022,1045,0.11,148.608
+1065,OD5497,Vidya,Fruits & Veggies,Organic Vegetables,07-08-2022,1438,0.35,186.94
+1584,OD8170,Amrish,Bakery,Cakes,07-08-2022,1748,0.3,751.04
+1886,OD9546,Harish,Fruits & Veggies,Organic Fruits,07-08-2022,1184,0.22,189.44
+447,OD2345,Anu,Food Grains,Atta & Flour,07-08-2022,629,0.11,69.19
+1398,OD7222,Surya,Bakery,Breads & Buns,07-08-2022,2174,0.33,163.19232000000002
+902,OD4589,Harish,Bakery,Cakes,07-08-2022,2717,0.26,679.2112000000001
+1161,OD5961,Sudeep,"Eggs, Meat & Fish",Mutton,07-08-2022,249,0.27,244.82304
+1701,OD8665,Veena,Food Grains,Dals & Pulses,07-08-2022,1135,0.31,147.55
+1884,OD9537,Ridhesh,Snacks,Cookies,07-08-2022,2177,0.11,767.72
+1406,OD7259,Verma,Oil & Masala,Spices,07-08-2022,1436,0.34,71.8
+1217,OD6266,Shree,Fruits & Veggies,Fresh Fruits,07-09-2022,1411,0.28,352.75
+713,OD3731,Verma,Food Grains,Organic Staples,07-09-2022,584,0.33,256.96
+717,OD3750,Hafiz,Fruits & Veggies,Organic Vegetables,07-09-2022,1410,0.16,70.5
+666,OD3422,Jackson,Oil & Masala,Masalas,07-09-2022,50,0.21,2.5
+1678,OD8537,Malik,"Eggs, Meat & Fish",Chicken,07-09-2022,50,0.21,231.168
+1226,OD6287,Aditi,Oil & Masala,Edible Oil & Ghee,07-09-2022,482,0.27,24.1
+720,OD3766,Ram,Bakery,Cakes,07-09-2022,2631,0.25,456.2438399999999
+177,OD977,Hafiz,Fruits & Veggies,Fresh Vegetables,07-09-2022,1205,0.3,494.05
+1021,OD5280,Ridhesh,Beverages,Soft Drinks,07-09-2022,2385,0.23,1073.4
+1822,OD9181,Kumar,Bakery,Cakes,07-10-2022,2846,0.1,271.67616
+1442,OD7436,Ridhesh,Fruits & Veggies,Fresh Vegetables,07-10-2022,1604,0.31,577.44
+249,OD1322,Willams,Oil & Masala,Edible Oil & Ghee,07-10-2022,685,0.3,34.25
+628,OD3209,Ridhesh,Food Grains,Dals & Pulses,07-11-2022,1934,0.11,135.38
+1637,OD8372,Willams,Bakery,Biscuits,07-11-2022,1984,0.3,825.92
+1485,OD7711,Kumar,Snacks,Cookies,07-11-2022,2931,0.17,322.23743999999994
+1516,OD7832,Amrish,Snacks,Noodles,07-11-2022,1374,0.16,147.12192000000002
+1474,OD7666,Aditi,Fruits & Veggies,Organic Fruits,07-11-2022,1251,0.24,250.2
+1620,OD8309,Sudha,"Eggs, Meat & Fish",Fish,07-11-2022,50,0.15,223.4624
+984,OD5046,Sheeba,Food Grains,Rice,07-11-2022,1597,0.15,351.34
+732,OD3816,Harish,Fruits & Veggies,Fresh Vegetables,07-12-2022,1486,0.11,653.84
+1370,OD7065,Shah,Snacks,Noodles,08-01-2022,2853,0.18,545.0457600000001
+945,OD4814,Sudha,Oil & Masala,Spices,08-01-2022,743,0.26,37.15
+959,OD4888,Anu,Fruits & Veggies,Organic Fruits,08-01-2022,2415,0.22,869.4
+1331,OD6861,Arutra,Snacks,Cookies,08-01-2022,1332,0.35,227.68128
+597,OD3027,Rumaiza,Fruits & Veggies,Fresh Vegetables,08-01-2022,1905,0.27,476.25
+1574,OD8129,Surya,"Eggs, Meat & Fish",Eggs,08-01-2022,485,0.17,86.272
+1318,OD6785,Jonas,"Eggs, Meat & Fish",Fish,08-03-2022,798,0.21,335.504
+1010,OD5207,Peer,Snacks,Cookies,08-03-2022,2569,0.22,510.36480000000006
+596,OD3023,Haseena,Oil & Masala,Masalas,08-03-2022,50,0.27,2.5
+181,OD1009,James,Snacks,Cookies,08-03-2022,2943,0.34,815.46
+600,OD3055,Suresh,Oil & Masala,Masalas,08-03-2022,95,0.29,4.75
+256,OD1359,Verma,"Eggs, Meat & Fish",Fish,08-03-2022,510,0.33,157.5936
+411,OD2186,Willams,Beverages,Soft Drinks,08-03-2022,923,0.18,90.3744
+1248,OD6472,Ridhesh,Oil & Masala,Spices,08-04-2022,455,0.25,22.75
+1246,OD6460,Sheeba,Fruits & Veggies,Fresh Fruits,08-04-2022,752,0.19,90.24
+1374,OD7093,Amrish,Snacks,Noodles,08-04-2022,2894,0.31,356.76288000000005
+1715,OD8728,Suresh,Fruits & Veggies,Organic Vegetables,08-05-2022,1271,0.12,394.01
+1000,OD5149,Mathew,Beverages,Soft Drinks,08-05-2022,1320,0.29,92.736
+642,OD3270,Akash,Beverages,Health Drinks,08-05-2022,1967,0.26,842.47
+1236,OD6366,Yusuf,Oil & Masala,Edible Oil & Ghee,08-05-2022,50,0.24,2.5
+639,OD3250,Veronica,Fruits & Veggies,Organic Vegetables,08-05-2022,1903,0.16,647.02
+251,OD1328,Arvind,Oil & Masala,Masalas,08-06-2022,810,0.17,40.5
+1846,OD9297,Malik,"Eggs, Meat & Fish",Mutton,08-06-2022,336,0.16,165.15072
+1357,OD7017,Ravi,Beverages,Soft Drinks,08-06-2022,2427,0.25,350.26560000000006
+1843,OD9289,Vince,Beverages,Health Drinks,08-06-2022,1310,0.24,91.728
+247,OD1319,Anu,Bakery,Biscuits,08-06-2022,1352,0.21,441.81504000000007
+1960,OD9884,Sudha,Food Grains,Dals & Pulses,08-06-2022,667,0.19,286.81
+714,OD3738,Jackson,Beverages,Soft Drinks,08-06-2022,1489,0.29,282.2688
+919,OD4681,Veena,"Eggs, Meat & Fish",Mutton,08-07-2022,50,0.19,70.91712
+696,OD3600,Adavan,Bakery,Biscuits,08-07-2022,1374,0.31,160.49664
+1068,OD5516,Harish,Beverages,Soft Drinks,08-07-2022,1048,0.31,111.97440000000002
+362,OD1911,James,Fruits & Veggies,Fresh Vegetables,08-07-2022,971,0.12,368.98
+887,OD4527,Rumaiza,Food Grains,Dals & Pulses,08-07-2022,1167,0.21,245.07
+911,OD4636,Ravi,Bakery,Cakes,08-07-2022,1885,0.31,814.0
+853,OD4354,Ramesh,Food Grains,Dals & Pulses,08-07-2022,1414,0.22,452.48
+947,OD4819,Ram,Fruits & Veggies,Fresh Fruits,08-07-2022,2293,0.21,183.44
+1003,OD5168,Vidya,Oil & Masala,Spices,08-07-2022,50,0.18,2.5
+988,OD5089,Alan,"Eggs, Meat & Fish",Chicken,08-07-2022,1215,0.15,61.824
+918,OD4680,Shree,Bakery,Breads & Buns,08-07-2022,2329,0.34,1043.47
+729,OD3801,Hussain,Oil & Masala,Masalas,08-07-2022,1564,0.3,78.2
+1082,OD5584,Alan,Bakery,Cakes,08-07-2022,2998,0.24,687.0304
+1086,OD5616,Muneer,Snacks,Chocolates,08-07-2022,1841,0.27,557.55648
+340,OD1803,Anu,Beverages,Health Drinks,08-07-2022,1601,0.31,449.6544
+379,OD2031,Ramesh,Oil & Masala,Edible Oil & Ghee,08-07-2022,50,0.33,2.5
+878,OD4495,Krithika,Food Grains,Dals & Pulses,08-07-2022,1079,0.12,53.95
+1272,OD6571,Jackson,Fruits & Veggies,Organic Vegetables,08-10-2022,1284,0.11,205.44
+269,OD1423,Akash,Food Grains,Organic Staples,08-10-2022,1445,0.3,317.9
+1006,OD5182,Ridhesh,Oil & Masala,Masalas,08-10-2022,50,0.3,2.5
+640,OD3253,Ridhesh,Snacks,Cookies,08-10-2022,1135,0.23,83.2032
+1527,OD7885,Jonas,Beverages,Soft Drinks,08-11-2022,1678,0.17,652.096
+1838,OD9266,Ram,Oil & Masala,Masalas,08-11-2022,50,0.23,2.5
+1220,OD6269,Sabeela,Snacks,Noodles,08-11-2022,1361,0.21,197.25120000000004
+1225,OD6286,Arvind,Oil & Masala,Edible Oil & Ghee,08-11-2022,1256,0.32,62.8
+1216,OD6261,Ram,Food Grains,Rice,08-11-2022,1721,0.3,86.05
+1788,OD8998,Komal,Oil & Masala,Masalas,08-11-2022,409,0.22,20.45
+1064,OD5494,Aditi,Fruits & Veggies,Organic Vegetables,08-12-2022,2480,0.23,694.4
+1070,OD5521,Jonas,Snacks,Chocolates,08-12-2022,1483,0.24,198.35712
+1120,OD5743,Amy,Fruits & Veggies,Organic Fruits,08-12-2022,960,0.26,297.6
+1091,OD5636,Ramesh,"Eggs, Meat & Fish",Eggs,08-12-2022,50,0.23,177.25439999999998
+933,OD4750,Amy,Oil & Masala,Edible Oil & Ghee,08-12-2022,1162,0.34,58.1
+819,OD4196,Ridhesh,Fruits & Veggies,Organic Vegetables,08-12-2022,2238,0.22,537.12
+1259,OD6504,Adavan,Bakery,Biscuits,08-12-2022,1610,0.22,87.264
+874,OD4484,Peer,Food Grains,Rice,08-12-2022,1602,0.23,496.62
+1258,OD6502,Kumar,Beverages,Health Drinks,08-12-2022,1257,0.19,246.816
+208,OD1111,Malik,Snacks,Cookies,08-12-2022,1666,0.3,405.25056000000006
+867,OD4459,Sabeela,Bakery,Biscuits,08-12-2022,1550,0.22,279.072
+438,OD2300,Peer,Beverages,Soft Drinks,08-12-2022,2376,0.33,398.3616
+216,OD1155,Peer,Bakery,Cakes,09-01-2022,1265,0.26,436.6656
+1266,OD6539,Veena,Beverages,Health Drinks,09-01-2022,2043,0.35,671.764
+1878,OD9497,Surya,Oil & Masala,Masalas,09-01-2022,1580,0.35,79.0
+1122,OD5759,Veena,Food Grains,Atta & Flour,09-01-2022,1141,0.26,102.69
+930,OD4736,Sheeba,Beverages,Health Drinks,09-01-2022,1011,0.3,202.3632
+1063,OD5493,Ramesh,Oil & Masala,Spices,09-01-2022,145,0.35,7.25
+241,OD1274,Yusuf,Oil & Masala,Edible Oil & Ghee,09-01-2022,50,0.13,2.5
+1181,OD6042,Komal,"Eggs, Meat & Fish",Chicken,09-02-2022,216,0.15,159.49823999999998
+783,OD4056,Adavan,Oil & Masala,Edible Oil & Ghee,09-02-2022,216,0.18,10.8
+1011,OD5212,Adavan,Snacks,Cookies,09-02-2022,2802,0.34,916.56
+606,OD3092,Shah,Beverages,Health Drinks,09-02-2022,1626,0.14,600.208
+1078,OD5551,Willams,Oil & Masala,Masalas,09-02-2022,963,0.29,48.15
+1171,OD6018,Komal,Beverages,Soft Drinks,09-02-2022,1129,0.32,199.4544
+1162,OD5965,Hussain,Food Grains,Organic Staples,09-02-2022,1886,0.28,339.48
+929,OD4732,Adavan,Oil & Masala,Spices,09-02-2022,1088,0.11,54.4
+1795,OD9040,Esther,Food Grains,Atta & Flour,09-02-2022,2225,0.24,845.5
+1391,OD7173,Anu,Snacks,Cookies,09-02-2022,1426,0.19,228.37248
+1395,OD7212,Ramesh,Oil & Masala,Spices,09-02-2022,236,0.23,11.8
+1403,OD7253,Sudeep,"Eggs, Meat & Fish",Mutton,09-02-2022,201,0.14,78.90432000000001
+131,OD702,Komal,Bakery,Breads & Buns,09-02-2022,2686,0.23,396.50688
+858,OD4391,Malik,Fruits & Veggies,Fresh Fruits,09-02-2022,1937,0.12,561.73
+1432,OD7381,Roshan,"Eggs, Meat & Fish",Eggs,09-02-2022,9,0.3,61.9008
+152,OD910,Amy,Food Grains,Dals & Pulses,09-02-2022,2372,0.13,853.92
+153,OD911,Roshan,Fruits & Veggies,Organic Vegetables,09-02-2022,1579,0.25,442.12
+527,OD2712,Yadav,Fruits & Veggies,Organic Vegetables,09-02-2022,1433,0.25,487.22
+154,OD912,Malik,Food Grains,Dals & Pulses,09-02-2022,1734,0.2,329.46
+1800,OD9063,Shree,Oil & Masala,Masalas,09-02-2022,50,0.35,2.5
+364,OD1926,Ram,Snacks,Cookies,09-02-2022,1521,0.1,603.9712
+880,OD4499,Shah,Oil & Masala,Spices,09-02-2022,387,0.14,19.35
+1671,OD8509,Yadav,Beverages,Health Drinks,09-02-2022,1990,0.24,899.6
+1576,OD8142,Kumar,Snacks,Noodles,09-02-2022,1646,0.18,739.736
+1578,OD8156,Mathew,"Eggs, Meat & Fish",Mutton,09-02-2022,50,0.27,65.61792
+1580,OD8163,Rumaiza,Fruits & Veggies,Organic Vegetables,09-02-2022,1567,0.25,548.45
+1658,OD8456,Sudeep,"Eggs, Meat & Fish",Eggs,09-02-2022,50,0.35,117.504
+157,OD933,Veronica,Fruits & Veggies,Fresh Vegetables,09-02-2022,712,0.19,306.16
+1386,OD7143,Sudha,Bakery,Breads & Buns,09-02-2022,2822,0.22,855.5
+883,OD4514,Alan,Snacks,Noodles,09-02-2022,2906,0.25,807.3199999999999
+1382,OD7124,Komal,Fruits & Veggies,Fresh Vegetables,09-02-2022,1832,0.15,201.52
+1366,OD7053,Ramesh,Food Grains,Dals & Pulses,09-02-2022,2086,0.14,625.8
+1373,OD7079,Haseena,"Eggs, Meat & Fish",Eggs,09-02-2022,390,0.2,56.9856
+536,OD2750,Sudeep,Food Grains,Organic Staples,09-02-2022,2189,0.27,897.49
+539,OD2763,Suresh,"Eggs, Meat & Fish",Mutton,09-02-2022,51,0.23,38.43072
+1361,OD7035,Shah,Snacks,Noodles,09-02-2022,2957,0.18,609.112
+1776,OD8948,Aditi,Oil & Masala,Edible Oil & Ghee,09-03-2022,782,0.34,39.1
+132,OD712,Sabeela,Snacks,Noodles,09-03-2022,1678,0.21,447.0681600000001
+1778,OD8961,Suresh,"Eggs, Meat & Fish",Mutton,09-03-2022,334,0.29,125.66528
+260,OD1383,Jonas,"Eggs, Meat & Fish",Mutton,09-03-2022,486,0.21,120.85248
+1665,OD8487,Vinne,Fruits & Veggies,Fresh Fruits,09-03-2022,1158,0.1,138.96
+92,OD537,Sudeep,Beverages,Soft Drinks,09-03-2022,1662,0.22,436.1472
+1466,OD7610,Peer,Oil & Masala,Edible Oil & Ghee,09-03-2022,1201,0.34,60.05
+1664,OD8486,Aditi,Snacks,Chocolates,09-03-2022,2116,0.31,645.76
+1905,OD9655,Vince,Snacks,Chocolates,09-03-2022,3009,0.11,1239.51
+1972,OD9947,Hafiz,Fruits & Veggies,Organic Fruits,09-03-2022,974,0.15,321.42
+1356,OD7014,Verma,Fruits & Veggies,Fresh Fruits,09-03-2022,580,0.1,237.8
+287,OD1550,Surya,Oil & Masala,Edible Oil & Ghee,09-03-2022,50,0.27,2.5
+1572,OD8101,Roshan,Snacks,Noodles,09-03-2022,1701,0.3,715.268
+324,OD1755,Arvind,Food Grains,Dals & Pulses,09-04-2022,2122,0.33,742.7
+1483,OD7706,Surya,Beverages,Health Drinks,09-04-2022,1402,0.17,202.0032
+1768,OD8919,Sudeep,Bakery,Cakes,09-04-2022,2392,0.25,154.8288
+1036,OD5361,Vinne,"Eggs, Meat & Fish",Eggs,09-04-2022,442,0.29,293.2992
+645,OD3290,Ravi,Food Grains,Dals & Pulses,09-04-2022,1494,0.19,209.16
+1141,OD5869,Aditi,Food Grains,Dals & Pulses,09-04-2022,2426,0.2,291.12
+888,OD4531,Aditi,Bakery,Cakes,09-04-2022,2452,0.24,1003.76
+1507,OD7799,Sundar,Beverages,Soft Drinks,09-04-2022,2671,0.13,1199.24
+662,OD3407,Yadav,"Eggs, Meat & Fish",Eggs,09-04-2022,50,0.33,90.84928
+555,OD2849,Harish,Bakery,Breads & Buns,09-04-2022,2576,0.23,971.84
+1212,OD6254,Veronica,Food Grains,Atta & Flour,09-04-2022,1371,0.33,233.07
+1211,OD6252,Haseena,Fruits & Veggies,Organic Vegetables,09-04-2022,795,0.28,286.2
+1027,OD5312,Arvind,"Eggs, Meat & Fish",Mutton,09-04-2022,86,0.15,230.45120000000003
+556,OD2853,Shree,Bakery,Breads & Buns,09-04-2022,3048,0.3,1034.4
+266,OD1412,Hussain,Bakery,Breads & Buns,09-04-2022,2872,0.26,890.72
+1729,OD8791,Sudha,Snacks,Noodles,09-04-2022,1888,0.26,467.38944
+669,OD3435,James,Food Grains,Atta & Flour,09-04-2022,2068,0.17,124.08
+855,OD4365,Vinne,"Eggs, Meat & Fish",Fish,09-04-2022,50,0.19,83.328
+544,OD2778,Mathew,Food Grains,Rice,09-04-2022,1284,0.12,231.12
+1923,OD9730,Willams,Bakery,Biscuits,09-04-2022,2993,0.33,826.46
+1250,OD6488,Sabeela,Snacks,Noodles,09-04-2022,1579,0.17,253.7568
+807,OD4150,James,Food Grains,Dals & Pulses,09-04-2022,1839,0.19,183.9
+1097,OD5653,Esther,Snacks,Noodles,09-04-2022,2382,0.22,755.984
+909,OD4628,Yadav,Beverages,Soft Drinks,09-04-2022,2722,0.26,1221.6799999999998
+611,OD3120,Sudha,"Eggs, Meat & Fish",Eggs,09-04-2022,50,0.34,130.88768
+552,OD2824,Surya,Food Grains,Rice,09-04-2022,671,0.13,33.55
+1076,OD5535,Sabeela,Bakery,Cakes,09-04-2022,2176,0.3,977.68
+551,OD2823,Veronica,"Eggs, Meat & Fish",Mutton,09-04-2022,1091,0.27,234.5984
+1870,OD9449,Arutra,Bakery,Biscuits,09-05-2022,1254,0.35,192.11904
+1058,OD5474,Adavan,Food Grains,Dals & Pulses,09-05-2022,1764,0.33,546.84
+825,OD4207,Harish,"Eggs, Meat & Fish",Eggs,09-05-2022,50,0.21,103.79263999999998
+815,OD4186,Komal,Food Grains,Atta & Flour,09-05-2022,1887,0.14,566.1
+1728,OD8788,Surya,"Eggs, Meat & Fish",Fish,09-05-2022,194,0.31,78.51007999999999
+966,OD4926,Krithika,Bakery,Breads & Buns,09-07-2022,1760,0.27,420.9408
+91,OD533,Veena,Snacks,Noodles,09-07-2022,2502,0.13,946.68
+1408,OD7271,Amrish,Oil & Masala,Masalas,09-07-2022,1469,0.27,73.45
+967,OD4935,Komal,Fruits & Veggies,Organic Fruits,09-07-2022,1549,0.34,77.45
+1088,OD5624,Muneer,Bakery,Cakes,09-07-2022,2933,0.13,1139.88
+354,OD1855,Hussain,Snacks,Cookies,09-07-2022,1477,0.13,378.864
+363,OD1918,Verma,Snacks,Cookies,09-07-2022,2010,0.19,292.3776
+923,OD4706,Kumar,"Eggs, Meat & Fish",Chicken,09-07-2022,137,0.1,75.29983999999999
+1743,OD8831,Sheeba,Bakery,Breads & Buns,09-07-2022,2017,0.13,778.136
+963,OD4917,Arvind,Beverages,Soft Drinks,09-07-2022,2328,0.1,874.8
+433,OD2276,Jackson,Bakery,Cakes,09-07-2022,1211,0.19,52.790400000000005
+999,OD5145,Hussain,Fruits & Veggies,Organic Vegetables,09-07-2022,1294,0.24,439.96
+1450,OD7505,Sudha,Oil & Masala,Edible Oil & Ghee,09-07-2022,637,0.18,31.85
+389,OD2097,Veronica,Fruits & Veggies,Fresh Fruits,09-07-2022,2335,0.18,677.15
+756,OD3932,James,Snacks,Cookies,09-07-2022,1404,0.25,69.46560000000001
+747,OD3898,Ramesh,Bakery,Cakes,09-07-2022,2409,0.12,987.42
+1823,OD9186,Peer,Fruits & Veggies,Organic Fruits,09-07-2022,1749,0.32,542.19
+745,OD3894,Krithika,Fruits & Veggies,Organic Vegetables,09-07-2022,797,0.14,191.28
+1804,OD9094,Ravi,Fruits & Veggies,Fresh Vegetables,09-07-2022,1196,0.15,203.32
+215,OD1154,Rumaiza,Bakery,Breads & Buns,09-07-2022,1754,0.24,139.58784000000003
+400,OD2140,Muneer,Oil & Masala,Spices,09-07-2022,246,0.2,12.3
+209,OD1115,Amrish,"Eggs, Meat & Fish",Eggs,09-07-2022,502,0.34,121.99936
+206,OD1106,Surya,Fruits & Veggies,Organic Vegetables,09-07-2022,566,0.31,249.04
+1590,OD8188,Hafiz,Fruits & Veggies,Organic Fruits,09-08-2022,1603,0.11,625.17
+1917,OD9715,Esther,Snacks,Noodles,09-08-2022,2804,0.27,1247.72
+1526,OD7884,Peer,Food Grains,Organic Staples,09-08-2022,1884,0.1,697.08
+1288,OD6667,Akash,Fruits & Veggies,Fresh Vegetables,09-08-2022,2174,0.13,152.18
+1725,OD8781,Sabeela,"Eggs, Meat & Fish",Fish,09-08-2022,308,0.34,162.14015999999998
+1218,OD6267,Vidya,"Eggs, Meat & Fish",Mutton,09-08-2022,679,0.2,105.82528
+1224,OD6285,Alan,Beverages,Soft Drinks,09-08-2022,1094,0.19,109.9296
+1549,OD7999,Shree,Beverages,Health Drinks,09-08-2022,2714,0.11,627.592
+232,OD1239,Akash,"Eggs, Meat & Fish",Eggs,09-08-2022,11,0.35,37.20192
+1215,OD6260,Anu,Snacks,Noodles,09-08-2022,2411,0.22,406.82304
+1098,OD5655,Ganesh,Bakery,Breads & Buns,09-08-2022,2668,0.26,636.0255999999999
+1556,OD8013,Arutra,Food Grains,Organic Staples,09-08-2022,833,0.13,99.96
+1095,OD5648,Rumaiza,Food Grains,Atta & Flour,09-08-2022,2416,0.27,1087.2
+1040,OD5370,Sabeela,Beverages,Soft Drinks,09-08-2022,1928,0.28,154.0224
+914,OD4655,Harish,"Eggs, Meat & Fish",Fish,09-09-2022,1085,0.14,198.8864
+821,OD4199,Shah,Snacks,Cookies,09-09-2022,1893,0.34,290.45952
+264,OD1405,Arvind,"Eggs, Meat & Fish",Eggs,09-09-2022,1268,0.27,267.6992
+754,OD3921,Hussain,Snacks,Noodles,09-09-2022,2944,0.25,1073.52
+809,OD4160,Esther,Bakery,Breads & Buns,09-09-2022,2409,0.23,742.7
+1178,OD6035,Krithika,Fruits & Veggies,Organic Fruits,09-09-2022,561,0.14,235.62
+818,OD4189,Ramesh,Food Grains,Rice,09-09-2022,2217,0.13,288.21
+304,OD1641,Jonas,Fruits & Veggies,Organic Fruits,09-09-2022,811,0.23,194.64
+1176,OD6027,Aditi,Snacks,Cookies,09-09-2022,3088,0.15,1245.44
+412,OD2191,Ganesh,Beverages,Soft Drinks,09-09-2022,2750,0.21,664.0
+1494,OD7761,Ram,"Eggs, Meat & Fish",Eggs,09-09-2022,353,0.29,95.41632
+417,OD2202,Suresh,Oil & Masala,Spices,09-09-2022,270,0.13,13.5
+418,OD2208,Sabeela,"Eggs, Meat & Fish",Chicken,09-09-2022,568,0.26,153.88672000000005
+1476,OD7675,Veronica,Bakery,Cakes,09-09-2022,2778,0.26,1236.54
+1447,OD7489,James,"Eggs, Meat & Fish",Mutton,09-09-2022,549,0.15,44.7744
+1617,OD8300,Surya,Snacks,Cookies,09-09-2022,2119,0.13,892.41
+1446,OD7476,Vinne,"Eggs, Meat & Fish",Mutton,09-09-2022,913,0.16,524.07
+1435,OD7394,Ravi,Beverages,Soft Drinks,09-09-2022,1064,0.19,334.656
+1434,OD7391,Sabeela,Food Grains,Rice,09-09-2022,2045,0.28,858.9
+620,OD3159,Esther,Food Grains,Atta & Flour,09-09-2022,1374,0.18,82.44
+1519,OD7849,Veena,Snacks,Cookies,09-09-2022,1437,0.29,477.29088
+1604,OD8230,Ravi,Snacks,Cookies,09-09-2022,1609,0.18,122.04864
+1593,OD8197,Muneer,Fruits & Veggies,Fresh Vegetables,09-09-2022,1565,0.35,187.8
+1592,OD8196,Peer,"Eggs, Meat & Fish",Fish,09-09-2022,910,0.29,380.16
+1409,OD7281,Shree,"Eggs, Meat & Fish",Eggs,09-09-2022,50,0.34,91.904
+1362,OD7040,Kumar,Beverages,Soft Drinks,09-09-2022,1625,0.17,546.84
+602,OD3071,Yusuf,Oil & Masala,Spices,09-09-2022,943,0.12,47.15
+584,OD2977,Suresh,"Eggs, Meat & Fish",Eggs,09-09-2022,918,0.24,589.56
+328,OD1773,Roshan,Food Grains,Rice,09-09-2022,2069,0.23,806.91
+497,OD2616,Krithika,Bakery,Cakes,09-10-2022,1464,0.11,462.82752
+1234,OD6338,Ram,Snacks,Cookies,09-10-2022,2558,0.21,1024.46
+1123,OD5761,Sharon,"Eggs, Meat & Fish",Eggs,09-10-2022,459,0.16,370.88
+1,OD42,Arutra,Beverages,Soft Drinks,09-10-2022,2268,0.18,816.44
+471,OD2456,James,Bakery,Breads & Buns,09-10-2022,1332,0.15,518.60736
+504,OD2636,Amrish,Food Grains,Dals & Pulses,09-10-2022,2174,0.2,673.94
+1268,OD6546,James,Snacks,Cookies,09-10-2022,2179,0.32,245.56608000000003
+775,OD4007,James,Beverages,Soft Drinks,09-10-2022,2875,0.14,285.12
+1229,OD6295,Ganesh,Oil & Masala,Masalas,09-10-2022,50,0.1,2.5
+494,OD2599,Arvind,Fruits & Veggies,Fresh Vegetables,09-10-2022,2266,0.34,181.28
+495,OD2611,Veronica,Beverages,Health Drinks,09-10-2022,2399,0.25,518.1408
+496,OD2615,Vince,"Eggs, Meat & Fish",Chicken,09-10-2022,934,0.2,277.44
+499,OD2623,Shree,Fruits & Veggies,Organic Fruits,09-10-2022,2451,0.14,416.67
+1825,OD9194,Surya,Bakery,Breads & Buns,09-10-2022,2445,0.24,709.22
+976,OD5000,Arutra,Snacks,Cookies,09-10-2022,2880,0.28,1120.8
+1039,OD5369,Sundar,Food Grains,Atta & Flour,09-10-2022,1932,0.23,309.12
+974,OD4997,Aditi,Fruits & Veggies,Fresh Fruits,09-10-2022,894,0.18,232.44
+1035,OD5360,James,Food Grains,Organic Staples,09-10-2022,881,0.17,44.05
+676,OD3471,Sheeba,Oil & Masala,Spices,09-11-2022,915,0.23,45.75
+486,OD2560,Sharon,Bakery,Biscuits,09-11-2022,2602,0.27,728.528
+1659,OD8459,Mathew,Bakery,Breads & Buns,09-11-2022,2017,0.3,778.136
+488,OD2569,Haseena,Oil & Masala,Spices,09-11-2022,455,0.18,22.75
+490,OD2577,Veena,Oil & Masala,Masalas,09-11-2022,127,0.22,6.35
+280,OD1503,Anu,Beverages,Health Drinks,09-11-2022,2404,0.34,548.2944
+1866,OD9428,Kumar,"Eggs, Meat & Fish",Mutton,09-11-2022,50,0.34,136.5504
+95,OD553,Shree,Beverages,Soft Drinks,09-11-2022,2736,0.34,807.36
+973,OD4986,Muneer,Food Grains,Atta & Flour,09-11-2022,2261,0.34,972.23
+513,OD2674,Sudha,Bakery,Biscuits,09-11-2022,2456,0.1,1023.84
+516,OD2685,Akash,Snacks,Chocolates,09-11-2022,2862,0.1,234.52416
+1324,OD6812,Yusuf,Bakery,Breads & Buns,09-11-2022,1347,0.15,516.3264
+563,OD2891,Ganesh,Bakery,Breads & Buns,09-11-2022,1429,0.27,272.17728
+565,OD2894,Veronica,Oil & Masala,Spices,09-11-2022,586,0.21,29.3
+792,OD4087,Komal,"Eggs, Meat & Fish",Mutton,09-11-2022,50,0.11,106.4448
+1570,OD8072,Komal,Food Grains,Rice,09-11-2022,1489,0.3,282.91
+492,OD2589,Veronica,Fruits & Veggies,Organic Fruits,09-11-2022,1279,0.33,76.74
+1755,OD8880,Hussain,Snacks,Chocolates,09-11-2022,2552,0.26,202.38336
+656,OD3366,Anu,Snacks,Chocolates,09-11-2022,2208,0.24,911.04
+227,OD1204,Willams,"Eggs, Meat & Fish",Fish,09-11-2022,50,0.1,174.592
+226,OD1199,Peer,Food Grains,Atta & Flour,09-11-2022,560,0.24,50.4
+1756,OD8882,Veronica,Snacks,Cookies,09-11-2022,2963,0.31,610.4079999999999
+401,OD2144,Akash,Fruits & Veggies,Organic Fruits,09-12-2022,1431,0.18,515.16
+1232,OD6324,Rumaiza,Snacks,Chocolates,09-12-2022,3052,0.18,759.056
+592,OD3013,Suresh,Snacks,Noodles,09-12-2022,2688,0.11,947.28
+204,OD1104,Sudeep,Beverages,Health Drinks,09-12-2022,2037,0.33,495.0288
+399,OD2138,Peer,Food Grains,Dals & Pulses,09-12-2022,1804,0.25,126.28
+1230,OD6304,Amy,Beverages,Health Drinks,09-12-2022,966,0.19,48.9024
+398,OD2137,Akash,Oil & Masala,Edible Oil & Ghee,09-12-2022,395,0.11,19.75
+618,OD3139,Vidya,Snacks,Cookies,10-01-2022,2846,0.31,465.73056
+1914,OD9705,Vince,Food Grains,Atta & Flour,10-01-2022,1963,0.28,530.01
+103,OD570,Malik,Food Grains,Rice,10-01-2022,727,0.23,247.18
+100,OD567,Ridhesh,Bakery,Biscuits,10-01-2022,2807,0.33,228.82176
+211,OD1140,Hussain,Fruits & Veggies,Organic Fruits,10-01-2022,1231,0.11,110.79
+101,OD568,Surya,"Eggs, Meat & Fish",Eggs,10-01-2022,679,0.28,296.76800000000003
+78,OD429,Willams,Fruits & Veggies,Organic Vegetables,10-01-2022,913,0.19,374.33
+1974,OD9956,Jackson,"Eggs, Meat & Fish",Chicken,10-01-2022,1125,0.27,293.12
+455,OD2400,Jackson,Beverages,Soft Drinks,10-01-2022,1548,0.2,678.592
+451,OD2361,Amy,"Eggs, Meat & Fish",Eggs,10-01-2022,50,0.11,55.29600000000001
+435,OD2283,Suresh,Food Grains,Organic Staples,10-01-2022,1069,0.35,224.49
+102,OD569,Yusuf,Oil & Masala,Edible Oil & Ghee,10-01-2022,768,0.1,38.4
+942,OD4800,Sundar,Oil & Masala,Masalas,10-02-2022,50,0.21,2.5
+1643,OD8412,Sudha,Fruits & Veggies,Organic Fruits,10-02-2022,704,0.22,70.4
+1887,OD9548,Malik,Beverages,Health Drinks,10-02-2022,922,0.35,157.8528
+1644,OD8413,Yusuf,Oil & Masala,Edible Oil & Ghee,10-02-2022,1,0.29,0.05
+1900,OD9614,Vidya,Food Grains,Organic Staples,10-02-2022,637,0.16,210.21
+1642,OD8411,Vince,"Eggs, Meat & Fish",Mutton,10-02-2022,365,0.12,353.32
+934,OD4754,Suresh,Bakery,Biscuits,10-02-2022,2618,0.18,1087.02
+1279,OD6620,Sudeep,Food Grains,Dals & Pulses,10-02-2022,1099,0.19,98.91
+1906,OD9658,Krithika,Fruits & Veggies,Fresh Vegetables,10-02-2022,664,0.16,232.4
+372,OD1999,Shah,Bakery,Breads & Buns,10-02-2022,2999,0.12,1379.55
+1726,OD8783,Anu,Oil & Masala,Edible Oil & Ghee,10-02-2022,50,0.11,2.5
+1282,OD6629,Peer,Beverages,Health Drinks,10-02-2022,2839,0.25,421.4592
+1131,OD5826,Yadav,Beverages,Soft Drinks,10-02-2022,1733,0.34,345.5136
+1727,OD8785,Ridhesh,Oil & Masala,Masalas,10-02-2022,1003,0.25,50.15
+1724,OD8779,Vidya,Oil & Masala,Masalas,10-02-2022,185,0.25,9.25
+1976,OD9972,Ridhesh,Snacks,Noodles,10-02-2022,1540,0.22,438.5664
+344,OD1824,Ravi,Fruits & Veggies,Fresh Fruits,10-02-2022,1549,0.25,309.8
+1575,OD8139,Willams,Beverages,Health Drinks,10-02-2022,2789,0.26,797.25
+1645,OD8414,Sabeela,Bakery,Cakes,10-02-2022,2829,0.24,577.7568000000001
+711,OD3723,Vince,Food Grains,Atta & Flour,10-02-2022,601,0.15,258.43
+135,OD752,Hafiz,Fruits & Veggies,Organic Fruits,10-02-2022,1589,0.35,190.68
+134,OD751,Ridhesh,Oil & Masala,Edible Oil & Ghee,10-02-2022,942,0.18,47.1
+133,OD750,Adavan,"Eggs, Meat & Fish",Eggs,10-02-2022,832,0.17,197.67296
+1093,OD5643,Sabeela,Snacks,Cookies,10-02-2022,2312,0.14,950.56
+935,OD4755,Ramesh,Beverages,Soft Drinks,10-02-2022,1177,0.16,279.72
+136,OD753,Alan,Food Grains,Rice,10-02-2022,1531,0.14,214.34
+1936,OD9789,Anu,Beverages,Health Drinks,10-03-2022,1539,0.26,360.8352
+812,OD4176,Harish,Bakery,Biscuits,10-03-2022,1235,0.11,416.9664
+822,OD4202,Akash,Fruits & Veggies,Organic Fruits,10-03-2022,2013,0.29,845.46
+531,OD2734,Yadav,Oil & Masala,Edible Oil & Ghee,10-03-2022,878,0.14,43.9
+1275,OD6605,Haseena,Snacks,Chocolates,10-03-2022,2091,0.16,386.4672
+1777,OD8952,Malik,Fruits & Veggies,Organic Fruits,10-03-2022,1899,0.23,778.59
+1200,OD6200,Ridhesh,"Eggs, Meat & Fish",Mutton,10-03-2022,150,0.17,248.832
+374,OD2006,Mathew,Beverages,Soft Drinks,10-03-2022,2076,0.32,337.8816
+1663,OD8485,Yusuf,Oil & Masala,Masalas,10-03-2022,249,0.18,12.45
+1683,OD8569,Vidya,Beverages,Health Drinks,10-04-2022,1130,0.17,199.728
+1907,OD9659,Ganesh,Food Grains,Dals & Pulses,10-05-2022,1848,0.33,702.24
+1479,OD7683,Shah,"Eggs, Meat & Fish",Mutton,10-05-2022,1086,0.29,222.38208
+1201,OD6203,Vince,Oil & Masala,Masalas,10-05-2022,1002,0.19,50.1
+1626,OD8323,Sabeela,Fruits & Veggies,Organic Vegetables,10-05-2022,1199,0.35,515.57
+1199,OD6196,Jackson,Bakery,Breads & Buns,10-05-2022,2300,0.23,929.0
+1488,OD7722,Sudha,"Eggs, Meat & Fish",Fish,10-05-2022,50,0.11,155.38688
+1194,OD6148,Akash,Beverages,Soft Drinks,10-05-2022,1269,0.35,287.8128
+1582,OD8167,Jackson,Fruits & Veggies,Fresh Fruits,10-05-2022,913,0.12,54.78
+1921,OD9725,Vinne,"Eggs, Meat & Fish",Mutton,10-05-2022,612,0.23,176.27136
+176,OD976,Mathew,Bakery,Cakes,10-05-2022,1690,0.21,433.2096
+1583,OD8169,Shah,Food Grains,Rice,10-05-2022,721,0.23,165.83
+1882,OD9532,Hafiz,Beverages,Health Drinks,10-05-2022,2239,0.21,556.1136
+1904,OD9651,Komal,Bakery,Cakes,10-05-2022,2579,0.34,992.65
+1170,OD6014,Hussain,Food Grains,Organic Staples,10-05-2022,1135,0.11,454.0
+175,OD975,Ram,Food Grains,Organic Staples,10-05-2022,617,0.3,197.44
+908,OD4625,Krithika,Bakery,Cakes,10-06-2022,1772,0.19,748.496
+464,OD2427,Sundar,Snacks,Chocolates,10-06-2022,1612,0.34,297.28512
+467,OD2435,Jackson,"Eggs, Meat & Fish",Mutton,10-06-2022,50,0.18,181.10976
+1883,OD9534,Ganesh,Bakery,Biscuits,10-06-2022,2868,0.24,935.04
+1383,OD7131,Suresh,Snacks,Chocolates,10-06-2022,1110,0.3,334.8864
+693,OD3578,Shah,"Eggs, Meat & Fish",Mutton,10-06-2022,1291,0.32,165.80095999999998
+708,OD3688,Mathew,Bakery,Breads & Buns,10-06-2022,2061,0.29,201.96864
+1836,OD9255,Roshan,Beverages,Health Drinks,10-06-2022,2598,0.34,316.512
+1834,OD9252,Roshan,Food Grains,Dals & Pulses,10-06-2022,1268,0.18,266.28
+1698,OD8654,Amy,Beverages,Soft Drinks,10-06-2022,2532,0.13,903.56
+1888,OD9562,Verma,"Eggs, Meat & Fish",Eggs,10-06-2022,634,0.1,488.62
+1958,OD9877,Rumaiza,Bakery,Cakes,10-06-2022,1647,0.31,470.39616000000007
+359,OD1895,Kumar,Bakery,Cakes,10-07-2022,2478,0.26,389.4220800000001
+623,OD3170,Amy,Food Grains,Atta & Flour,10-07-2022,2079,0.12,103.95
+1871,OD9458,Mathew,Oil & Masala,Masalas,10-07-2022,719,0.25,35.95
+1092,OD5642,Sundar,Oil & Masala,Masalas,10-07-2022,548,0.26,27.4
+687,OD3540,Sharon,Fruits & Veggies,Fresh Vegetables,10-07-2022,1715,0.2,343.0
+1089,OD5626,Ram,Beverages,Health Drinks,10-07-2022,2842,0.15,1005.86
+1873,OD9468,Hussain,Beverages,Health Drinks,10-07-2022,2829,0.32,209.8656
+1876,OD9488,Sheeba,Oil & Masala,Masalas,10-07-2022,762,0.33,38.1
+1968,OD9932,Amy,Bakery,Breads & Buns,10-07-2022,1454,0.12,339.41376
+1696,OD8645,Ram,Snacks,Cookies,10-07-2022,2026,0.28,394.26048
+1073,OD5528,Komal,Food Grains,Rice,10-07-2022,1091,0.27,403.67
+1471,OD7642,Ganesh,Fruits & Veggies,Fresh Vegetables,10-08-2022,1979,0.21,197.9
+1615,OD8280,Esther,Oil & Masala,Masalas,10-08-2022,50,0.21,2.5
+1618,OD8302,Veena,Oil & Masala,Masalas,10-08-2022,372,0.18,18.6
+1628,OD8325,Shah,"Eggs, Meat & Fish",Mutton,10-08-2022,50,0.18,60.8256
+298,OD1611,Vince,Bakery,Breads & Buns,10-08-2022,2385,0.24,942.6
+1228,OD6292,Roshan,Oil & Masala,Masalas,10-08-2022,783,0.25,39.15
+517,OD2686,Suresh,Snacks,Noodles,10-09-2022,1877,0.11,797.636
+742,OD3883,Akash,Bakery,Biscuits,10-09-2022,1596,0.23,430.272
+429,OD2262,Verma,Oil & Masala,Spices,10-09-2022,776,0.26,38.8
+1154,OD5932,Sheeba,"Eggs, Meat & Fish",Chicken,10-09-2022,50,0.21,97.4848
+1155,OD5933,Vinne,Snacks,Cookies,10-09-2022,2148,0.28,294.24384000000003
+759,OD3938,Hussain,Fruits & Veggies,Fresh Vegetables,10-09-2022,1963,0.2,569.27
+446,OD2340,Aditi,Snacks,Chocolates,10-09-2022,2317,0.25,504.38592
+1103,OD5678,Sudha,Snacks,Chocolates,10-09-2022,2592,0.2,957.36
+307,OD1652,Sundar,Food Grains,Organic Staples,10-09-2022,980,0.28,245.0
+701,OD3631,Muneer,Beverages,Soft Drinks,10-09-2022,2205,0.23,795.65
+230,OD1227,Yadav,"Eggs, Meat & Fish",Mutton,10-09-2022,50,0.29,155.19744
+273,OD1474,Esther,Beverages,Soft Drinks,10-10-2022,2132,0.29,619.6
+1621,OD8311,Sudha,Fruits & Veggies,Organic Vegetables,10-12-2022,2092,0.25,732.2
+388,OD2093,Sudha,Bakery,Breads & Buns,10-12-2022,2041,0.25,905.22
+291,OD1566,Anu,Food Grains,Rice,10-12-2022,2355,0.3,117.75
+1952,OD9860,Hussain,Food Grains,Organic Staples,10-12-2022,1824,0.13,200.64
+1525,OD7881,Sheeba,Bakery,Breads & Buns,10-12-2022,1152,0.28,200.30976
+1679,OD8552,Jackson,Fruits & Veggies,Organic Vegetables,10-12-2022,1863,0.22,130.41
+297,OD1598,Jackson,Bakery,Cakes,10-12-2022,1718,0.12,502.29504
+1949,OD9852,Sundar,Beverages,Health Drinks,10-12-2022,2900,0.25,468.0
+585,OD2979,Peer,Food Grains,Organic Staples,10-12-2022,661,0.11,257.79
+223,OD1182,Arvind,"Eggs, Meat & Fish",Fish,10-12-2022,719,0.12,316.7296
+1739,OD8824,Willams,Bakery,Cakes,10-12-2022,2018,0.14,441.05472
+1754,OD8877,Amrish,Food Grains,Dals & Pulses,10-12-2022,816,0.28,334.56
+1918,OD9716,Krithika,Oil & Masala,Edible Oil & Ghee,10-12-2022,1155,0.25,57.75
+1817,OD9156,Surya,Fruits & Veggies,Fresh Fruits,10-12-2022,1619,0.12,679.98
+716,OD3747,Sudeep,Fruits & Veggies,Organic Vegetables,10-12-2022,1200,0.18,540.0
+1024,OD5292,Alan,"Eggs, Meat & Fish",Eggs,10-12-2022,50,0.31,111.23712
+1510,OD7809,Peer,Oil & Masala,Edible Oil & Ghee,10-12-2022,50,0.22,2.5
+992,OD5114,Komal,Oil & Masala,Spices,10-12-2022,241,0.23,12.05
+47,OD280,Sabeela,Fruits & Veggies,Fresh Vegetables,10/13/2022,2365,0.31,520.3
+197,OD1086,Ganesh,"Eggs, Meat & Fish",Fish,10/13/2022,821,0.23,548.82
+184,OD1027,Suresh,Food Grains,Atta & Flour,10/13/2022,721,0.21,129.78
+1630,OD8335,Yadav,Bakery,Biscuits,10/13/2022,1597,0.26,413.47584000000006
+44,OD277,Shah,"Eggs, Meat & Fish",Fish,10/13/2022,50,0.17,145.51039999999998
+45,OD278,Ram,Oil & Masala,Masalas,10/13/2022,50,0.2,2.5
+46,OD279,Arutra,Snacks,Chocolates,10/13/2022,1661,0.13,495.02016
+382,OD2037,Muneer,Beverages,Health Drinks,10/13/2022,1873,0.33,647.956
+422,OD2234,Rumaiza,Snacks,Chocolates,10/13/2022,2797,0.27,849.25
+1623,OD8313,Vince,Bakery,Cakes,10/13/2022,1923,0.19,594.3974400000001
+385,OD2070,Yadav,Food Grains,Rice,10/13/2022,1290,0.27,464.4
+1515,OD7831,Arvind,Fruits & Veggies,Fresh Vegetables,10/13/2022,1832,0.16,567.92
+397,OD2133,Vidya,Beverages,Health Drinks,10/13/2022,2889,0.35,322.5744
+421,OD2224,Sudeep,Food Grains,Atta & Flour,10/13/2022,1468,0.27,499.12
+424,OD2244,Sudha,Beverages,Soft Drinks,10/13/2022,1221,0.25,319.2048
+1066,OD5513,Haseena,Beverages,Health Drinks,10/14/2022,1488,0.31,579.6864
+205,OD1105,Vince,Oil & Masala,Masalas,10/14/2022,1489,0.35,74.45
+1828,OD9211,Ravi,"Eggs, Meat & Fish",Mutton,10/14/2022,1020,0.14,699.0
+1824,OD9189,Esther,Oil & Masala,Masalas,10/14/2022,1452,0.19,72.6
+145,OD888,Ganesh,Food Grains,Atta & Flour,10/14/2022,2043,0.16,204.3
+1190,OD6123,Suresh,Oil & Masala,Spices,10/15/2022,668,0.35,33.4
+861,OD4410,Krithika,Fruits & Veggies,Organic Vegetables,10/15/2022,2002,0.29,900.9
+1289,OD6669,Ravi,Oil & Masala,Masalas,10/15/2022,1413,0.31,70.65
+1794,OD9034,Yusuf,"Eggs, Meat & Fish",Eggs,10/15/2022,50,0.13,137.1648
+1244,OD6446,Ganesh,Beverages,Health Drinks,10/15/2022,1320,0.17,503.424
+1489,OD7725,Surya,Snacks,Chocolates,10/15/2022,2401,0.26,912.34
+1115,OD5732,Mathew,Snacks,Chocolates,10/15/2022,2754,0.31,297.76896
+1467,OD7612,Aditi,Bakery,Biscuits,10/15/2022,3079,0.11,635.464
+1101,OD5668,Komal,Food Grains,Rice,10/16/2022,1459,0.1,218.85
+1188,OD6118,Hafiz,Food Grains,Rice,10/16/2022,1468,0.16,528.48
+794,OD4090,Verma,Food Grains,Rice,10/16/2022,1613,0.33,645.2
+1609,OD8255,Arvind,Beverages,Soft Drinks,10/16/2022,2121,0.32,297.3888
+1979,OD9993,Peer,Oil & Masala,Spices,10/16/2022,759,0.15,37.95
+1520,OD7856,Amy,Beverages,Health Drinks,10/16/2022,2713,0.28,801.38
+58,OD397,Ram,Beverages,Soft Drinks,10/17/2022,2026,0.23,280.9728
+57,OD396,Sheeba,Bakery,Cakes,10/17/2022,2438,0.24,1053.58
+599,OD3033,Vinne,Snacks,Chocolates,10/17/2022,1770,0.3,622.288
+1567,OD8052,Roshan,Food Grains,Organic Staples,10/17/2022,1805,0.35,649.8
+1012,OD5221,Ridhesh,"Eggs, Meat & Fish",Eggs,10/19/2022,797,0.27,281.08160000000004
+1874,OD9484,Yadav,Beverages,Soft Drinks,10/19/2022,2316,0.26,736.48
+1330,OD6847,Shah,Beverages,Health Drinks,10/19/2022,1587,0.23,102.5568
+1425,OD7355,Yadav,Fruits & Veggies,Fresh Fruits,10/19/2022,2370,0.26,876.9
+1140,OD5863,Ravi,Fruits & Veggies,Fresh Fruits,10/19/2022,822,0.21,271.26
+1136,OD5843,Suresh,Food Grains,Dals & Pulses,10/19/2022,573,0.25,126.06
+1601,OD8223,Vince,Fruits & Veggies,Organic Vegetables,10/19/2022,2446,0.2,587.04
+1319,OD6790,Anu,"Eggs, Meat & Fish",Chicken,10/19/2022,1110,0.14,201.0624
+1429,OD7374,Surya,Fruits & Veggies,Fresh Vegetables,10/19/2022,571,0.22,245.53
+0,OD35,Anu,Beverages,Health Drinks,10/19/2022,1209,0.32,116.496
+917,OD4679,Ganesh,Snacks,Cookies,10/19/2022,2846,0.27,271.67616
+282,OD1510,Mathew,Beverages,Soft Drinks,10/19/2022,2714,0.14,627.592
+680,OD3488,Haseena,Snacks,Cookies,10/19/2022,2212,0.11,799.664
+74,OD423,Malik,Bakery,Breads & Buns,10/19/2022,1956,0.27,801.72
+75,OD424,Sheeba,Food Grains,Organic Staples,10/19/2022,684,0.21,54.72
+283,OD1515,Sheeba,Beverages,Soft Drinks,10/19/2022,1620,0.31,456.768
+225,OD1192,James,Oil & Masala,Spices,10/20/2022,124,0.18,6.2
+79,OD454,Esther,Oil & Masala,Masalas,10/20/2022,50,0.11,2.5
+478,OD2520,Sundar,Fruits & Veggies,Fresh Vegetables,10/20/2022,793,0.28,333.06
+1749,OD8854,Hafiz,Fruits & Veggies,Organic Fruits,10/20/2022,1023,0.13,306.9
+1316,OD6782,Muneer,Beverages,Soft Drinks,10/20/2022,2731,0.19,1132.4
+1854,OD9331,Shree,Fruits & Veggies,Fresh Fruits,10/20/2022,1313,0.13,407.03
+793,OD4088,Esther,Fruits & Veggies,Organic Vegetables,10/20/2022,1024,0.25,358.4
+787,OD4072,Ravi,Bakery,Biscuits,10/20/2022,1168,0.14,304.26624000000004
+782,OD4035,Shah,Beverages,Health Drinks,10/20/2022,2702,0.11,464.0832
+80,OD455,Ramesh,Bakery,Biscuits,10/20/2022,3017,0.2,1121.78
+1452,OD7525,Verma,Fruits & Veggies,Fresh Fruits,10/20/2022,1178,0.28,176.7
+477,OD2516,Shah,Food Grains,Organic Staples,10/20/2022,807,0.24,347.01
+1334,OD6877,Amrish,Snacks,Cookies,10/20/2022,1690,0.13,527.3856
+476,OD2515,Akash,Fruits & Veggies,Organic Fruits,10/20/2022,925,0.19,379.25
+1611,OD8258,Sudha,Snacks,Cookies,10/20/2022,1891,0.34,816.4
+675,OD3466,Mathew,Food Grains,Dals & Pulses,10/21/2022,870,0.22,60.9
+940,OD4787,Sheeba,Oil & Masala,Spices,10/21/2022,76,0.21,3.8
+89,OD527,Sheeba,Bakery,Cakes,10/21/2022,2836,0.27,309.10464
+90,OD528,Verma,Snacks,Noodles,10/21/2022,2013,0.28,268.58304000000004
+1653,OD8436,Aditi,Oil & Masala,Edible Oil & Ghee,10/21/2022,693,0.11,34.65
+1041,OD5372,James,"Eggs, Meat & Fish",Eggs,10/21/2022,50,0.33,89.94816
+1209,OD6243,Roshan,Snacks,Cookies,10/21/2022,1441,0.1,348.77952000000005
+1534,OD7937,Willams,Oil & Masala,Masalas,10/21/2022,1257,0.31,62.85
+1872,OD9462,Harish,Beverages,Soft Drinks,10/21/2022,1145,0.35,300.384
+1849,OD9304,Sundar,Oil & Masala,Masalas,10/21/2022,50,0.34,2.5
+1247,OD6461,Rumaiza,Food Grains,Organic Staples,10/21/2022,854,0.18,384.3
+1847,OD9301,Krithika,Snacks,Noodles,10/21/2022,2177,0.1,517.76064
+750,OD3907,Vidya,"Eggs, Meat & Fish",Eggs,10/21/2022,50,0.14,141.07648
+1347,OD6953,Ramesh,Fruits & Veggies,Organic Vegetables,10/21/2022,1112,0.13,200.16
+1113,OD5726,Ridhesh,"Eggs, Meat & Fish",Eggs,10/21/2022,429,0.23,250.2144
+1345,OD6947,Veronica,Bakery,Biscuits,10/21/2022,1291,0.15,513.4406399999999
+1860,OD9372,Amrish,Bakery,Biscuits,10/21/2022,2242,0.21,923.96
+1926,OD9740,Haseena,Oil & Masala,Masalas,10/21/2022,1497,0.21,74.85
+214,OD1150,Sundar,Bakery,Breads & Buns,10/22/2022,2457,0.31,1061.37
+1720,OD8747,Jonas,Beverages,Soft Drinks,10/22/2022,2481,0.1,239.7312
+1807,OD9104,Esther,Bakery,Breads & Buns,10/22/2022,1983,0.15,382.37184
+1911,OD9696,Alan,Snacks,Cookies,10/22/2022,2524,0.24,754.112
+1913,OD9704,Vinne,Food Grains,Organic Staples,10/22/2022,540,0.17,178.2
+1915,OD9708,Shree,Fruits & Veggies,Fresh Fruits,10/22/2022,1173,0.32,187.68
+1207,OD6231,Suresh,Bakery,Breads & Buns,10/22/2022,1845,0.27,537.84
+1424,OD7353,Krithika,Fruits & Veggies,Organic Vegetables,10/22/2022,782,0.28,156.4
+461,OD2417,Sharon,"Eggs, Meat & Fish",Chicken,10/22/2022,50,0.16,70.4512
+1603,OD8226,Sudha,"Eggs, Meat & Fish",Chicken,10/22/2022,50,0.28,107.30496
+263,OD1403,Sheeba,Beverages,Health Drinks,10/22/2022,1713,0.34,207.9792
+617,OD3131,Hafiz,Fruits & Veggies,Fresh Vegetables,10/22/2022,1683,0.16,218.79
+1169,OD6009,Harish,Bakery,Cakes,10/23/2022,2136,0.28,975.84
+1007,OD5184,Jackson,Bakery,Breads & Buns,10/23/2022,2678,0.26,1131.2
+681,OD3502,Alan,Snacks,Noodles,10/23/2022,3069,0.26,1287.6
+1057,OD5469,Amy,Snacks,Noodles,10/23/2022,3053,0.28,1183.08
+1227,OD6289,Sheeba,"Eggs, Meat & Fish",Mutton,10/23/2022,50,0.28,67.82976
+1099,OD5664,Veronica,Food Grains,Organic Staples,10/23/2022,2079,0.26,914.76
+1402,OD7241,Sheeba,"Eggs, Meat & Fish",Mutton,10/23/2022,1138,0.15,191.52896
+1389,OD7159,Sharon,Food Grains,Atta & Flour,10/23/2022,1415,0.26,537.7
+644,OD3289,Vince,"Eggs, Meat & Fish",Mutton,10/23/2022,50,0.35,16.0
+520,OD2697,Jackson,Oil & Masala,Masalas,10/23/2022,715,0.29,35.75
+1581,OD8165,Vinne,Food Grains,Organic Staples,10/23/2022,1644,0.29,476.76
+1105,OD5683,Esther,Fruits & Veggies,Fresh Vegetables,10/23/2022,1326,0.18,159.12
+1104,OD5681,Shah,"Eggs, Meat & Fish",Fish,10/23/2022,420,0.35,429.0
+661,OD3404,Vidya,Beverages,Health Drinks,10/23/2022,1146,0.15,429.696
+1100,OD5665,Kumar,Snacks,Chocolates,10/23/2022,2156,0.12,637.7536
+1233,OD6325,Akash,Bakery,Cakes,10/23/2022,2666,0.11,214.20288
+980,OD5019,Muneer,Food Grains,Rice,10/23/2022,2330,0.23,1001.9
+509,OD2663,Yusuf,Food Grains,Atta & Flour,10/23/2022,668,0.34,240.48
+183,OD1017,Amrish,Bakery,Breads & Buns,10/24/2022,1778,0.1,346.04927999999995
+788,OD4075,Suresh,Fruits & Veggies,Fresh Vegetables,10/24/2022,569,0.1,51.21
+1044,OD5390,Ganesh,Fruits & Veggies,Fresh Vegetables,10/26/2022,689,0.27,248.04
+1597,OD8207,Komal,"Eggs, Meat & Fish",Eggs,10/26/2022,1276,0.17,394.624
+6,OD87,Sharon,Food Grains,Rice,10/26/2022,1759,0.1,615.65
+7,OD88,Ramesh,"Eggs, Meat & Fish",Eggs,10/26/2022,463,0.26,372.16
+1441,OD7417,Sudeep,Food Grains,Organic Staples,10/26/2022,2328,0.33,535.44
+320,OD1738,Jonas,Beverages,Soft Drinks,10/26/2022,1085,0.19,98.64
+757,OD3933,Adavan,Bakery,Breads & Buns,10/26/2022,2584,0.34,974.56
+1819,OD9161,Vidya,"Eggs, Meat & Fish",Chicken,10/26/2022,498,0.21,60.85632
+767,OD3985,James,Snacks,Cookies,10/26/2022,1345,0.26,566.4384
+796,OD4116,Ridhesh,"Eggs, Meat & Fish",Eggs,10/26/2022,520,0.32,266.24
+1458,OD7567,Amy,Beverages,Health Drinks,10/27/2022,2734,0.26,993.56
+1456,OD7546,Vidya,Fruits & Veggies,Organic Vegetables,10/27/2022,1625,0.33,325.0
+1110,OD5719,Ridhesh,Beverages,Health Drinks,10/27/2022,2015,0.16,781.4
+1350,OD6980,Esther,Food Grains,Rice,10/27/2022,2323,0.26,278.76
+1935,OD9771,Adavan,Bakery,Breads & Buns,10/27/2022,1629,0.28,266.71680000000003
+1538,OD7951,Vince,Beverages,Health Drinks,10/27/2022,1731,0.18,627.076
+1112,OD5724,Suresh,Food Grains,Rice,10/27/2022,2016,0.12,262.08
+1773,OD8929,Jonas,Snacks,Noodles,10/27/2022,1876,0.15,781.856
+1352,OD6991,Surya,Fruits & Veggies,Fresh Fruits,10/27/2022,2098,0.3,818.22
+1451,OD7516,Akash,Food Grains,Organic Staples,10/27/2022,2117,0.33,550.42
+1537,OD7949,Sudeep,Fruits & Veggies,Fresh Vegetables,10/27/2022,1993,0.13,757.34
+1902,OD9628,Rumaiza,Oil & Masala,Edible Oil & Ghee,10/27/2022,522,0.21,26.1
+572,OD2927,Mathew,Bakery,Breads & Buns,10/28/2022,1431,0.28,445.15008
+574,OD2934,Veena,"Eggs, Meat & Fish",Mutton,10/28/2022,153,0.32,76.20096000000001
+977,OD5004,Yadav,Oil & Masala,Spices,10/28/2022,50,0.3,2.5
+706,OD3679,Sundar,Food Grains,Dals & Pulses,10/28/2022,1701,0.25,714.42
+978,OD5005,Komal,Beverages,Soft Drinks,10/28/2022,2635,0.1,1094.0
+1284,OD6642,Esther,"Eggs, Meat & Fish",Fish,10/28/2022,50,0.35,83.43552
+254,OD1344,Shree,Beverages,Health Drinks,10/28/2022,1117,0.26,433.6416
+510,OD2669,Muneer,Food Grains,Organic Staples,10/28/2022,1564,0.3,422.28
+146,OD899,Adavan,"Eggs, Meat & Fish",Eggs,10/29/2022,447,0.22,408.21
+881,OD4504,Esther,Fruits & Veggies,Organic Vegetables,10/30/2022,2177,0.21,653.1
+1079,OD5557,Sudha,Fruits & Veggies,Organic Vegetables,10/30/2022,2053,0.33,554.31
+891,OD4545,Aditi,Bakery,Cakes,10/30/2022,2240,0.34,988.8
+1640,OD8406,Roshan,Fruits & Veggies,Fresh Fruits,10/30/2022,2317,0.23,486.57
+753,OD3917,Ramesh,Food Grains,Atta & Flour,10/30/2022,2267,0.17,476.07
+921,OD4691,Shree,Oil & Masala,Masalas,10/30/2022,726,0.27,36.3
+1193,OD6135,Amy,Beverages,Health Drinks,10/30/2022,1343,0.24,95.0544
+852,OD4352,Arutra,"Eggs, Meat & Fish",Eggs,10/30/2022,50,0.3,249.61024
+913,OD4652,Sudha,Beverages,Health Drinks,10/30/2022,2026,0.29,769.1
+306,OD1648,Veena,Food Grains,Dals & Pulses,10/30/2022,669,0.3,100.35
+739,OD3866,Sharon,Bakery,Biscuits,10/30/2022,2089,0.22,231.56928
+1721,OD8770,Ganesh,Bakery,Breads & Buns,10/30/2022,2755,0.1,1226.65
+361,OD1909,Mathew,Bakery,Cakes,10/30/2022,1505,0.21,359.6832
+469,OD2444,Ravi,Snacks,Chocolates,10/30/2022,3100,0.33,518.4
+212,OD1145,James,"Eggs, Meat & Fish",Chicken,10/30/2022,50,0.33,57.23136000000001
+210,OD1131,Yadav,Bakery,Breads & Buns,10/30/2022,2431,0.16,189.83808
+1722,OD8776,Veena,Beverages,Soft Drinks,10/30/2022,2597,0.19,474.552
+1723,OD8777,Ravi,Food Grains,Organic Staples,10/30/2022,2126,0.35,850.4
+906,OD4609,Sundar,Snacks,Cookies,10/30/2022,1730,0.14,527.2128
+202,OD1102,Arutra,Snacks,Chocolates,10/30/2022,2273,0.34,902.28
+218,OD1158,Jonas,Fruits & Veggies,Organic Vegetables,10/30/2022,1082,0.21,194.76
+220,OD1162,Ramesh,Oil & Masala,Masalas,10/30/2022,703,0.2,35.15
+1038,OD5365,Krithika,Bakery,Cakes,10/30/2022,2006,0.16,558.8006399999999
+1813,OD9146,Mathew,Snacks,Chocolates,10/31/2022,1185,0.35,444.7872
+1354,OD7005,Shree,"Eggs, Meat & Fish",Chicken,10/31/2022,50,0.16,26.46016
+1573,OD8114,Shah,Oil & Masala,Masalas,10/31/2022,1490,0.23,74.5
+608,OD3115,Yadav,Bakery,Biscuits,11-01-2022,1106,0.29,122.41152
+258,OD1379,Sheeba,Oil & Masala,Edible Oil & Ghee,11-01-2022,1572,0.13,78.6
+525,OD2710,Vidya,"Eggs, Meat & Fish",Fish,11-01-2022,1042,0.2,686.48
+546,OD2797,Yusuf,Oil & Masala,Edible Oil & Ghee,11-01-2022,500,0.23,25.0
+1793,OD9026,Hafiz,Food Grains,Rice,11-02-2022,2411,0.3,626.86
+375,OD2010,Kumar,Beverages,Soft Drinks,11-02-2022,2701,0.23,563.2848
+1666,OD8490,Ramesh,"Eggs, Meat & Fish",Eggs,11-02-2022,50,0.18,117.25824
+1293,OD6690,Adavan,Beverages,Health Drinks,11-02-2022,2268,0.16,779.08
+779,OD4021,Alan,Food Grains,Rice,11-02-2022,1327,0.33,305.21
+1669,OD8505,Roshan,Food Grains,Atta & Flour,11-02-2022,1471,0.18,88.26
+1492,OD7730,Jonas,Bakery,Cakes,11-02-2022,1669,0.14,623.3824
+1297,OD6718,Verma,Beverages,Health Drinks,11-02-2022,1806,0.27,606.1600000000001
+1213,OD6257,Haseena,Fruits & Veggies,Organic Vegetables,11-02-2022,944,0.19,84.96
+1343,OD6926,Anu,Food Grains,Atta & Flour,11-02-2022,1247,0.32,211.99
+877,OD4493,Verma,"Eggs, Meat & Fish",Fish,11-02-2022,339,0.15,369.416
+1602,OD8225,Ramesh,Food Grains,Dals & Pulses,11-02-2022,2422,0.19,1041.46
+1302,OD6740,Sudeep,Beverages,Soft Drinks,11-02-2022,2567,0.11,592.8912
+377,OD2018,Sundar,Beverages,Health Drinks,11-02-2022,1740,0.29,308.73600000000005
+1559,OD8030,Ravi,Bakery,Cakes,11-02-2022,2728,0.21,1044.8
+1801,OD9064,Shree,"Eggs, Meat & Fish",Chicken,11-02-2022,415,0.31,99.2256
+1421,OD7338,Yusuf,Snacks,Chocolates,11-02-2022,3021,0.16,1341.03
+1173,OD6023,Harish,Fruits & Veggies,Fresh Vegetables,11-02-2022,1140,0.26,330.6
+1346,OD6951,Sundar,Oil & Masala,Masalas,11-02-2022,26,0.14,1.3
+1796,OD9041,Peer,Fruits & Veggies,Organic Fruits,11-02-2022,2040,0.23,632.4
+1416,OD7316,Ganesh,Oil & Masala,Edible Oil & Ghee,11-02-2022,618,0.18,30.9
+866,OD4439,Yadav,Fruits & Veggies,Fresh Vegetables,11-02-2022,775,0.33,178.25
+1798,OD9049,Hafiz,Beverages,Health Drinks,11-02-2022,2409,0.35,762.52
+1132,OD5828,Arutra,Fruits & Veggies,Fresh Fruits,11-02-2022,2271,0.11,817.56
+1799,OD9051,Shree,Fruits & Veggies,Fresh Vegetables,11-02-2022,1530,0.26,306.0
+1610,OD8257,Hussain,Snacks,Chocolates,11-03-2022,1108,0.2,79.00416
+627,OD3194,Sabeela,Fruits & Veggies,Fresh Vegetables,11-03-2022,508,0.34,208.28
+638,OD3244,Willams,Fruits & Veggies,Organic Fruits,11-03-2022,2471,0.26,1087.24
+353,OD1850,Sudeep,Beverages,Soft Drinks,11-03-2022,2875,0.31,285.12
+622,OD3168,Willams,"Eggs, Meat & Fish",Eggs,11-03-2022,836,0.26,166.78912
+575,OD2936,Sabeela,Fruits & Veggies,Fresh Vegetables,11-03-2022,2430,0.33,704.7
+1303,OD6744,Sheeba,Oil & Masala,Edible Oil & Ghee,11-03-2022,50,0.16,2.5
+1652,OD8434,Komal,"Eggs, Meat & Fish",Fish,11-03-2022,50,0.17,25.92768
+769,OD3989,Aditi,Snacks,Cookies,11-03-2022,1832,0.28,319.3344
+808,OD4152,Roshan,Beverages,Health Drinks,11-03-2022,1113,0.32,71.87039999999999
+1034,OD5356,Ganesh,Beverages,Soft Drinks,11-03-2022,2562,0.2,342.4608
+1920,OD9722,Krithika,Snacks,Chocolates,11-03-2022,2808,0.23,1094.88
+49,OD326,Ravi,Food Grains,Rice,11-03-2022,1400,0.17,406.0
+69,OD415,Sudha,"Eggs, Meat & Fish",Fish,11-03-2022,1046,0.31,665.78
+1054,OD5455,Ravi,Food Grains,Organic Staples,11-03-2022,2005,0.14,761.9
+893,OD4550,Ram,Snacks,Chocolates,11-03-2022,2019,0.32,744.896
+1514,OD7822,Alan,Food Grains,Organic Staples,11-03-2022,2124,0.15,488.52
+832,OD4243,Arvind,Oil & Masala,Masalas,11-03-2022,50,0.23,2.5
+70,OD416,Arvind,Food Grains,Dals & Pulses,11-03-2022,2130,0.23,937.2
+805,OD4142,Krithika,Oil & Masala,Masalas,11-03-2022,147,0.26,7.35
+990,OD5107,Sudeep,Bakery,Breads & Buns,11-03-2022,2791,0.24,1132.58
+368,OD1970,Veena,Oil & Masala,Masalas,11-03-2022,1504,0.24,75.2
+137,OD762,Krithika,Food Grains,Atta & Flour,11-03-2022,1881,0.11,733.59
+129,OD685,Ram,Snacks,Noodles,11-04-2022,2940,0.29,733.52
+834,OD4248,Malik,Beverages,Soft Drinks,11-04-2022,2275,0.33,594.0
+1748,OD8851,Ridhesh,"Eggs, Meat & Fish",Chicken,11-04-2022,50,0.1,125.3376
+1747,OD8849,Roshan,Fruits & Veggies,Fresh Fruits,11-04-2022,2150,0.15,709.5
+1746,OD8848,Harish,Snacks,Chocolates,11-04-2022,2414,0.14,1098.16
+1745,OD8845,Ridhesh,Snacks,Noodles,11-04-2022,1807,0.25,819.01
+1532,OD7924,Vince,Snacks,Chocolates,11-04-2022,2074,0.12,748.328
+1863,OD9392,Jonas,Oil & Masala,Masalas,11-04-2022,1007,0.29,50.35
+1815,OD9151,Esther,Bakery,Cakes,11-04-2022,1794,0.29,350.74944
+1108,OD5704,Aditi,"Eggs, Meat & Fish",Chicken,11-04-2022,640,0.32,122.4704
+1061,OD5485,Sudha,Oil & Masala,Masalas,11-04-2022,1076,0.29,53.8
+138,OD838,Sudeep,Bakery,Breads & Buns,11-04-2022,1466,0.16,254.39616
+1056,OD5467,Shree,Snacks,Noodles,11-04-2022,1219,0.22,449.24544
+128,OD684,Suresh,Snacks,Chocolates,11-04-2022,2309,0.28,915.24
+1422,OD7347,Vidya,Oil & Masala,Edible Oil & Ghee,11-04-2022,50,0.1,2.5
+1594,OD8199,Suresh,Snacks,Noodles,11-04-2022,2827,0.35,856.75
+806,OD4149,Alan,Snacks,Cookies,11-04-2022,1532,0.12,96.62976
+1223,OD6282,Veronica,Fruits & Veggies,Organic Fruits,11-05-2022,2063,0.18,433.23
+1712,OD8711,Sabeela,Oil & Masala,Edible Oil & Ghee,11-05-2022,169,0.2,8.45
+1713,OD8718,Esther,Fruits & Veggies,Fresh Fruits,11-05-2022,957,0.25,114.84
+243,OD1276,Ganesh,Oil & Masala,Edible Oil & Ghee,11-05-2022,759,0.14,37.95
+244,OD1278,Kumar,Snacks,Chocolates,11-05-2022,2948,0.24,763.52
+1548,OD7996,Ram,Bakery,Biscuits,11-05-2022,1409,0.13,321.52896
+529,OD2728,Adavan,Oil & Masala,Edible Oil & Ghee,11-05-2022,50,0.23,2.5
+1029,OD5323,Arutra,"Eggs, Meat & Fish",Chicken,11-05-2022,132,0.26,252.33408
+14,OD127,Shah,"Eggs, Meat & Fish",Mutton,11-05-2022,1152,0.17,570.24
+554,OD2840,Jonas,Snacks,Cookies,11-05-2022,2024,0.17,612.64
+850,OD4348,Ramesh,Bakery,Breads & Buns,11-05-2022,2109,0.24,182.52864
+981,OD5032,Yusuf,Oil & Masala,Masalas,11-05-2022,50,0.33,2.5
+158,OD938,Haseena,Bakery,Cakes,11-05-2022,2572,0.24,238.53312
+1709,OD8705,Krithika,Beverages,Health Drinks,11-05-2022,1120,0.27,72.576
+15,OD128,Harish,Oil & Masala,Spices,11-05-2022,393,0.23,19.65
+245,OD1310,Harish,Beverages,Health Drinks,11-05-2022,2650,0.22,694.0
+530,OD2729,Vince,Fruits & Veggies,Fresh Fruits,11-05-2022,1020,0.16,71.4
+547,OD2799,Kumar,Beverages,Soft Drinks,11-05-2022,1741,0.3,386.208
+846,OD4321,Jonas,Food Grains,Atta & Flour,11-06-2022,1797,0.16,125.79
+71,OD419,Jackson,Food Grains,Dals & Pulses,11-06-2022,1382,0.1,290.22
+579,OD2950,Malik,Fruits & Veggies,Organic Vegetables,11-06-2022,1077,0.12,463.11
+338,OD1801,Haseena,Food Grains,Dals & Pulses,11-06-2022,1857,0.31,631.38
+1706,OD8686,Sheeba,"Eggs, Meat & Fish",Fish,11-06-2022,224,0.1,309.6576
+679,OD3485,Vinne,Bakery,Cakes,11-06-2022,2663,0.29,178.2432
+253,OD1341,Anu,Fruits & Veggies,Organic Vegetables,11-06-2022,2152,0.26,215.2
+844,OD4310,Sheeba,Food Grains,Organic Staples,11-06-2022,1822,0.28,255.08
+236,OD1249,Amy,"Eggs, Meat & Fish",Mutton,11-06-2022,50,0.17,162.16064
+577,OD2943,Shah,Bakery,Breads & Buns,11-06-2022,2880,0.24,275.7888
+1702,OD8671,Alan,Bakery,Biscuits,11-06-2022,2519,0.29,1067.6
+1927,OD9751,Verma,Fruits & Veggies,Fresh Fruits,11-06-2022,2174,0.32,543.5
+20,OD198,Verma,Food Grains,Organic Staples,11-06-2022,914,0.34,338.18
+8,OD96,Veena,"Eggs, Meat & Fish",Fish,11-06-2022,30,0.13,226.7136
+654,OD3338,Arvind,Food Grains,Dals & Pulses,11-06-2022,1183,0.33,496.86
+1973,OD9952,Vidya,Fruits & Veggies,Organic Vegetables,11-06-2022,1379,0.21,262.01
+313,OD1677,Alan,Bakery,Breads & Buns,11-06-2022,2503,0.22,725.228
+1767,OD8911,Komal,Bakery,Breads & Buns,11-06-2022,2320,0.29,953.6
+727,OD3797,Ridhesh,Oil & Masala,Edible Oil & Ghee,11-06-2022,50,0.17,2.5
+1764,OD8902,Ridhesh,Beverages,Health Drinks,11-06-2022,1908,0.2,818.28
+1761,OD8894,Yusuf,Fruits & Veggies,Fresh Fruits,11-06-2022,958,0.34,249.08
+1760,OD8892,Hussain,Beverages,Soft Drinks,11-06-2022,2341,0.19,743.48
+1759,OD8891,Ravi,Oil & Masala,Masalas,11-06-2022,1117,0.33,55.85
+1758,OD8887,Verma,Beverages,Soft Drinks,11-06-2022,2459,0.21,296.49600000000004
+580,OD2959,Yusuf,Beverages,Health Drinks,11-06-2022,1622,0.2,404.7264
+573,OD2928,Hussain,Bakery,Breads & Buns,11-06-2022,2106,0.32,977.7
+748,OD3900,Rumaiza,Food Grains,Organic Staples,11-06-2022,2431,0.33,704.99
+1067,OD5515,Krithika,"Eggs, Meat & Fish",Fish,11-07-2022,429,0.12,280.0448
+924,OD4716,Sudeep,Food Grains,Dals & Pulses,11-07-2022,1791,0.35,483.57
+463,OD2421,Vidya,Snacks,Noodles,11-07-2022,2819,0.16,1276.36
+316,OD1701,Arvind,Snacks,Cookies,11-07-2022,1279,0.11,445.85856
+1942,OD9813,Rumaiza,Fruits & Veggies,Fresh Fruits,11-07-2022,769,0.27,261.46
+1127,OD5796,Arvind,Snacks,Noodles,11-07-2022,1157,0.25,307.99872
+1943,OD9820,Amy,Food Grains,Atta & Flour,11-07-2022,2153,0.33,645.9
+724,OD3778,Sabeela,Fruits & Veggies,Fresh Vegetables,11-07-2022,1601,0.35,640.4
+1043,OD5388,Willams,Fruits & Veggies,Organic Fruits,11-07-2022,1010,0.35,141.4
+1028,OD5313,Surya,Food Grains,Organic Staples,11-07-2022,1011,0.21,384.18
+1779,OD8964,Vinne,Snacks,Cookies,11-08-2022,2028,0.34,765.488
+1168,OD6008,Muneer,Bakery,Cakes,11-08-2022,2748,0.34,519.64416
+1198,OD6186,Akash,Bakery,Biscuits,11-09-2022,2807,0.17,917.96
+1286,OD6657,Sundar,Snacks,Noodles,11-09-2022,3049,0.19,1083.6799999999998
+9,OD97,Sudha,Food Grains,Atta & Flour,11-09-2022,1856,0.21,723.84
+1969,OD9933,Ravi,"Eggs, Meat & Fish",Fish,11-09-2022,512,0.26,96.41984
+1970,OD9937,Jonas,Bakery,Biscuits,11-09-2022,1264,0.27,355.69152
+1469,OD7636,Jonas,Oil & Masala,Masalas,11-09-2022,333,0.25,16.65
+1283,OD6639,Kumar,Bakery,Biscuits,11-09-2022,2852,0.22,953.08
+1292,OD6684,Sundar,Oil & Masala,Masalas,11-09-2022,727,0.13,36.35
+1614,OD8276,Arvind,Bakery,Biscuits,11-09-2022,2256,0.14,879.6
+1552,OD8006,Peer,Snacks,Chocolates,11-09-2022,2446,0.2,798.104
+1114,OD5731,Ramesh,Bakery,Biscuits,11-09-2022,1922,0.19,755.24
+355,OD1884,Ram,"Eggs, Meat & Fish",Eggs,11-09-2022,638,0.29,188.2112
+1705,OD8683,Arutra,Fruits & Veggies,Organic Fruits,11-10-2022,558,0.19,50.22
+1789,OD9008,Ravi,Beverages,Soft Drinks,11-10-2022,1734,0.25,288.144
+1757,OD8884,James,Beverages,Health Drinks,11-10-2022,2179,0.3,512.3520000000001
+879,OD4497,James,"Eggs, Meat & Fish",Fish,11-10-2022,1139,0.21,265.3312
+1125,OD5787,Jackson,Snacks,Noodles,11-10-2022,1329,0.19,289.73376
+1539,OD7952,Hussain,Food Grains,Atta & Flour,11-10-2022,1406,0.14,365.56
+1333,OD6870,Adavan,Bakery,Breads & Buns,11-10-2022,2796,0.21,455.36256
+1540,OD7956,Veronica,Bakery,Breads & Buns,11-10-2022,2425,0.21,1066.5
+1116,OD5733,Ganesh,Food Grains,Atta & Flour,11-10-2022,663,0.25,212.16
+1251,OD6489,Sudha,Beverages,Soft Drinks,11-10-2022,1187,0.19,237.98880000000003
+1071,OD5526,Kumar,Snacks,Noodles,11-10-2022,2085,0.25,968.25
+1577,OD8153,Adavan,Oil & Masala,Masalas,11-10-2022,713,0.12,35.65
+907,OD4617,Ridhesh,Snacks,Noodles,11-10-2022,1885,0.17,618.112
+1420,OD7331,Rumaiza,Food Grains,Atta & Flour,11-10-2022,1573,0.22,487.63
+1536,OD7941,James,Snacks,Cookies,11-10-2022,2077,0.21,861.26
+500,OD2624,Verma,Bakery,Breads & Buns,11-11-2022,2884,0.24,513.07776
+928,OD4730,Ram,Beverages,Health Drinks,11-11-2022,930,0.21,175.536
+946,OD4816,Jackson,"Eggs, Meat & Fish",Mutton,11-11-2022,50,0.17,148.4288
+630,OD3216,Arvind,Food Grains,Rice,11-11-2022,2454,0.26,834.36
+641,OD3257,Aditi,Food Grains,Dals & Pulses,11-11-2022,2069,0.23,744.84
+1851,OD9312,Harish,Food Grains,Atta & Flour,11-11-2022,1689,0.15,692.49
+1805,OD9096,Esther,Snacks,Noodles,11-11-2022,1401,0.25,110.73024
+148,OD902,Yusuf,"Eggs, Meat & Fish",Fish,11-11-2022,33,0.32,246.20544
+147,OD901,Sheeba,Snacks,Chocolates,11-11-2022,1345,0.26,64.368
+839,OD4278,Shree,Food Grains,Organic Staples,11-11-2022,979,0.23,58.74
+1309,OD6769,Komal,Snacks,Chocolates,11-11-2022,2400,0.25,840.0
+695,OD3586,Suresh,Food Grains,Atta & Flour,11-11-2022,1625,0.2,682.5
+865,OD4424,Muneer,Food Grains,Dals & Pulses,11-11-2022,1436,0.34,373.36
+201,OD1098,Akash,Beverages,Soft Drinks,11-11-2022,2157,0.32,797.38
+1670,OD8508,Sudeep,Bakery,Breads & Buns,11-11-2022,2561,0.12,809.86
+591,OD3008,Hafiz,Food Grains,Dals & Pulses,11-12-2022,1196,0.22,131.56
+655,OD3363,Esther,Food Grains,Organic Staples,11-12-2022,1974,0.18,829.08
+1413,OD7303,Sudha,Fruits & Veggies,Fresh Vegetables,11-12-2022,1603,0.34,609.14
+1682,OD8562,Jackson,"Eggs, Meat & Fish",Eggs,11-12-2022,50,0.13,127.62624
+1249,OD6477,Hussain,Beverages,Health Drinks,11-12-2022,2043,0.26,567.8208
+1636,OD8370,Jonas,Oil & Masala,Edible Oil & Ghee,11-12-2022,50,0.29,2.5
+1932,OD9756,Sabeela,Bakery,Breads & Buns,11-12-2022,2595,0.23,1137.9
+1542,OD7965,Muneer,Oil & Masala,Edible Oil & Ghee,11-12-2022,1559,0.34,77.95
+674,OD3451,Surya,Beverages,Soft Drinks,11-12-2022,1585,0.21,597.24
+849,OD4338,Hussain,Bakery,Biscuits,11-12-2022,1619,0.19,738.032
+1827,OD9204,Yusuf,Snacks,Chocolates,11-12-2022,1172,0.26,375.59808
+1821,OD9174,Amrish,"Eggs, Meat & Fish",Mutton,11-12-2022,1297,0.3,204.55424
+1814,OD9148,Yusuf,Bakery,Biscuits,11-12-2022,2854,0.35,795.056
+84,OD506,Hafiz,Beverages,Health Drinks,11-12-2022,2512,0.18,547.4304
+548,OD2808,Ravi,Beverages,Soft Drinks,11-12-2022,1843,0.28,688.744
+869,OD4463,Ravi,Bakery,Biscuits,11-12-2022,2072,0.13,888.8
+1656,OD8453,Ravi,Oil & Masala,Spices,11-12-2022,1210,0.29,60.5
+1762,OD8898,Ravi,Fruits & Veggies,Fresh Vegetables,11-12-2022,2151,0.35,795.87
+657,OD3372,Ravi,Bakery,Breads & Buns,11-12-2022,1466,0.17,209.50272
+1931,OD9755,Verma,Food Grains,Rice,11-12-2022,1429,0.32,457.28
+826,OD4212,Harish,"Eggs, Meat & Fish",Mutton,11-12-2022,50,0.25,52.0192
+1933,OD9760,Surya,"Eggs, Meat & Fish",Chicken,11-12-2022,157,0.27,48.63488
+583,OD2975,Veronica,Oil & Masala,Masalas,11-12-2022,1031,0.16,51.55
+36,OD237,Shah,Bakery,Cakes,11-12-2022,1250,0.16,426.8159999999999
+1657,OD8454,Esther,Snacks,Chocolates,11-12-2022,3008,0.32,332.88192
+859,OD4395,Arvind,Fruits & Veggies,Organic Vegetables,11-12-2022,2184,0.34,414.96
+1591,OD8190,Yusuf,Oil & Masala,Masalas,11-12-2022,207,0.12,10.35
+1946,OD9848,Kumar,Snacks,Chocolates,11-12-2022,1298,0.28,241.2288
+1947,OD9850,Ridhesh,Bakery,Breads & Buns,11-12-2022,1498,0.3,681.904
+586,OD2988,Ganesh,Beverages,Soft Drinks,11-12-2022,2751,0.32,575.5248
+1555,OD8012,Peer,Fruits & Veggies,Fresh Vegetables,11/13/2022,1562,0.14,109.34
+576,OD2939,Suresh,Bakery,Breads & Buns,11/13/2022,2514,0.34,264.59136
+570,OD2913,Surya,Food Grains,Atta & Flour,11/13/2022,1585,0.31,634.0
+1531,OD7909,Arutra,"Eggs, Meat & Fish",Fish,11/13/2022,417,0.16,57.95327999999999
+578,OD2944,Amy,Beverages,Health Drinks,11/13/2022,1967,0.32,873.81
+1363,OD7046,Kumar,Snacks,Noodles,11/13/2022,1885,0.27,814.0
+1530,OD7907,Yusuf,Beverages,Health Drinks,11/13/2022,983,0.26,184.6944
+371,OD1984,Malik,Oil & Masala,Masalas,11/13/2022,1276,0.25,63.8
+1529,OD7903,Amy,"Eggs, Meat & Fish",Fish,11/13/2022,50,0.27,97.536
+694,OD3585,Akash,Food Grains,Dals & Pulses,11/13/2022,735,0.24,154.35
+5,OD85,Amy,Fruits & Veggies,Organic Fruits,11/13/2022,1044,0.1,344.52
+863,OD4419,Verma,"Eggs, Meat & Fish",Chicken,11/13/2022,56,0.34,167.19872
+1235,OD6360,Ridhesh,Fruits & Veggies,Fresh Fruits,11/13/2022,2158,0.31,366.86
+1049,OD5443,Ganesh,Snacks,Cookies,11/13/2022,2742,0.15,899.76
+938,OD4782,Surya,Oil & Masala,Spices,11/13/2022,337,0.15,16.85
+991,OD5109,Vince,Oil & Masala,Spices,11/13/2022,140,0.1,7.0
+1085,OD5609,Ram,Fruits & Veggies,Organic Vegetables,11/13/2022,868,0.26,78.12
+868,OD4460,Rumaiza,Beverages,Health Drinks,11/13/2022,2530,0.34,636.76
+1152,OD5927,Surya,Food Grains,Rice,11/13/2022,945,0.19,349.65
+1128,OD5797,Hussain,Beverages,Health Drinks,11/13/2022,2199,0.32,883.62
+1775,OD8945,Veena,Oil & Masala,Edible Oil & Ghee,11/13/2022,50,0.25,2.5
+1937,OD9793,Sudeep,Oil & Masala,Masalas,11/13/2022,440,0.33,22.0
+114,OD616,Vidya,Food Grains,Atta & Flour,11/14/2022,753,0.23,301.2
+113,OD615,Anu,Snacks,Noodles,11/14/2022,1749,0.25,765.308
+1711,OD8708,Verma,Fruits & Veggies,Fresh Fruits,11/14/2022,1290,0.28,528.9
+647,OD3300,Sabeela,Beverages,Soft Drinks,11/14/2022,1225,0.11,95.04
+735,OD3843,Alan,Beverages,Soft Drinks,11/14/2022,951,0.14,119.016
+901,OD4583,Veena,Oil & Masala,Spices,11/14/2022,50,0.27,2.5
+523,OD2704,Shah,Fruits & Veggies,Organic Vegetables,11/14/2022,1221,0.14,61.05
+1019,OD5245,Veronica,Food Grains,Organic Staples,11/14/2022,2444,0.22,146.64
+1290,OD6674,James,"Eggs, Meat & Fish",Chicken,11/14/2022,474,0.14,51.42528
+168,OD961,Yusuf,Snacks,Chocolates,11/14/2022,1761,0.32,729.416
+329,OD1780,Malik,Bakery,Biscuits,11/15/2022,2434,0.15,772.208
+330,OD1781,Ramesh,Bakery,Cakes,11/15/2022,2236,0.33,226.16064
+1959,OD9879,Roshan,Bakery,Breads & Buns,11/16/2022,1792,0.25,812.56
+350,OD1837,Suresh,Food Grains,Organic Staples,11/16/2022,1072,0.21,257.28
+964,OD4922,Vince,Oil & Masala,Edible Oil & Ghee,11/16/2022,1151,0.26,57.55
+1544,OD7970,Roshan,Fruits & Veggies,Fresh Vegetables,11/16/2022,902,0.33,198.44
+448,OD2346,Arvind,Oil & Masala,Masalas,11/16/2022,166,0.1,8.3
+1600,OD8216,Sabeela,Beverages,Soft Drinks,11/16/2022,1677,0.14,294.2208
+1889,OD9563,Shree,Food Grains,Dals & Pulses,11/16/2022,853,0.24,255.9
+473,OD2464,Vinne,Food Grains,Atta & Flour,11/16/2022,1059,0.35,254.16
+1596,OD8202,Sundar,Fruits & Veggies,Organic Vegetables,11/16/2022,1152,0.25,414.72
+900,OD4577,Veronica,Bakery,Cakes,11/16/2022,1345,0.14,514.944
+207,OD1107,Ravi,Snacks,Chocolates,11/16/2022,1953,0.3,719.552
+352,OD1840,Anu,Food Grains,Rice,11/16/2022,2012,0.21,784.68
+434,OD2280,Alan,Food Grains,Atta & Flour,11/16/2022,2391,0.29,239.1
+971,OD4955,Sudeep,"Eggs, Meat & Fish",Eggs,11/16/2022,493,0.22,354.672
+1295,OD6708,James,Beverages,Health Drinks,11/16/2022,1048,0.19,195.9552
+1417,OD7317,Yusuf,Snacks,Chocolates,11/16/2022,1113,0.22,372.31488
+904,OD4595,Krithika,Oil & Masala,Edible Oil & Ghee,11/16/2022,305,0.32,15.25
+351,OD1838,Muneer,Bakery,Cakes,11/16/2022,2165,0.23,270.432
+1025,OD5298,Sheeba,Bakery,Cakes,11/17/2022,1654,0.17,769.16
+391,OD2108,Ramesh,Fruits & Veggies,Organic Vegetables,11/17/2022,2370,0.21,545.1
+1605,OD8232,Sundar,Snacks,Cookies,11/17/2022,1413,0.12,224.77824
+1608,OD8248,Harish,Bakery,Breads & Buns,11/17/2022,2250,0.29,943.5
+723,OD3773,Ridhesh,Snacks,Noodles,11/17/2022,2371,0.28,831.3
+543,OD2776,Suresh,Fruits & Veggies,Organic Fruits,11/17/2022,600,0.24,198.0
+830,OD4228,Mathew,Bakery,Biscuits,11/17/2022,1184,0.27,90.82368
+1522,OD7873,Verma,Beverages,Soft Drinks,11/17/2022,1023,0.31,161.4816
+778,OD4016,Ravi,Food Grains,Organic Staples,11/17/2022,1493,0.29,522.55
+1287,OD6658,Sudeep,Snacks,Noodles,11/17/2022,2364,0.24,548.6745599999999
+296,OD1596,Arutra,Beverages,Soft Drinks,11/17/2022,2424,0.3,1009.6
+1059,OD5479,Veronica,Bakery,Biscuits,11/17/2022,1121,0.15,378.12096
+1505,OD7789,Sudeep,Fruits & Veggies,Organic Vegetables,11/17/2022,682,0.12,54.56
+281,OD1508,Suresh,Fruits & Veggies,Fresh Vegetables,11/17/2022,1865,0.26,279.75
+979,OD5016,Mathew,Oil & Masala,Edible Oil & Ghee,11/17/2022,1085,0.13,54.25
+1511,OD7815,Willams,"Eggs, Meat & Fish",Eggs,11/17/2022,50,0.26,248.37120000000004
+442,OD2322,Sheeba,Beverages,Health Drinks,11/18/2022,2063,0.1,574.7328
+802,OD4135,Peer,Snacks,Chocolates,11/18/2022,2505,0.28,985.8
+436,OD2290,Sudeep,"Eggs, Meat & Fish",Mutton,11/18/2022,50,0.31,175.29856
+1119,OD5741,Adavan,Fruits & Veggies,Fresh Vegetables,11/18/2022,2496,0.29,299.52
+1030,OD5328,Shree,Snacks,Noodles,11/18/2022,2032,0.1,901.44
+803,OD4139,Sudeep,"Eggs, Meat & Fish",Eggs,11/18/2022,50,0.24,68.8896
+1677,OD8534,Veronica,Fruits & Veggies,Organic Fruits,11/18/2022,2012,0.25,442.64
+668,OD3426,Komal,Food Grains,Dals & Pulses,11/18/2022,1116,0.17,111.6
+272,OD1462,Roshan,Beverages,Soft Drinks,11/18/2022,1620,0.32,509.472
+961,OD4905,Vince,Fruits & Veggies,Fresh Vegetables,11/18/2022,1663,0.11,432.38
+1307,OD6765,Krithika,Food Grains,Rice,11/18/2022,668,0.24,273.88
+1308,OD6768,Peer,Snacks,Chocolates,11/18/2022,1238,0.21,407.91168
+449,OD2348,Verma,Fruits & Veggies,Organic Vegetables,11/18/2022,603,0.12,229.14
+1310,OD6771,Surya,Snacks,Noodles,11/18/2022,1588,0.33,495.10656
+452,OD2371,Willams,"Eggs, Meat & Fish",Mutton,11/18/2022,1127,0.13,398.48
+1311,OD6774,Shree,Fruits & Veggies,Fresh Fruits,11/18/2022,936,0.35,327.6
+1253,OD6491,Amy,Food Grains,Organic Staples,11/18/2022,1020,0.29,51.0
+1254,OD6493,Adavan,Bakery,Cakes,11/18/2022,1851,0.18,825.42
+1428,OD7373,Hafiz,Snacks,Noodles,11/18/2022,1952,0.1,233.6256
+1256,OD6495,Yadav,Oil & Masala,Masalas,11/18/2022,380,0.25,19.0
+1313,OD6778,Amy,Food Grains,Atta & Flour,11/18/2022,2091,0.32,899.13
+905,OD4605,Sudha,Fruits & Veggies,Fresh Fruits,11/19/2022,635,0.19,215.9
+1655,OD8445,Willams,Fruits & Veggies,Organic Fruits,11/19/2022,981,0.1,166.77
+383,OD2045,Sundar,Snacks,Cookies,11/19/2022,1600,0.26,728.0
+274,OD1479,Shah,"Eggs, Meat & Fish",Mutton,11/19/2022,50,0.35,106.97728
+386,OD2076,Shah,Beverages,Soft Drinks,11/19/2022,2583,0.19,676.312
+93,OD547,Yadav,Snacks,Chocolates,11/19/2022,2004,0.3,509.48352
+321,OD1741,Aditi,Oil & Masala,Edible Oil & Ghee,11/19/2022,759,0.11,37.95
+94,OD548,Komal,Bakery,Cakes,11/19/2022,1488,0.23,583.09632
+1214,OD6258,Jonas,"Eggs, Meat & Fish",Eggs,11/19/2022,776,0.2,315.39199999999994
+568,OD2908,Sabeela,"Eggs, Meat & Fish",Mutton,11/19/2022,50,0.23,125.52192
+1405,OD7257,Yadav,Beverages,Soft Drinks,11/19/2022,906,0.1,189.4464
+182,OD1011,Shah,"Eggs, Meat & Fish",Eggs,11/19/2022,512,0.15,96.41984
+507,OD2653,Amrish,Food Grains,Rice,11/19/2022,1149,0.35,195.33
+1096,OD5652,Willams,Beverages,Soft Drinks,11/19/2022,2186,0.18,437.2128
+512,OD2673,Ridhesh,Food Grains,Dals & Pulses,11/19/2022,1179,0.27,506.97
+772,OD4000,Hussain,Snacks,Chocolates,11/19/2022,1845,0.25,782.66
+1751,OD8863,Malik,Food Grains,Organic Staples,11/19/2022,1822,0.34,273.3
+965,OD4925,Peer,Food Grains,Dals & Pulses,11/19/2022,2319,0.21,533.37
+1392,OD7181,Yusuf,Snacks,Noodles,11/19/2022,1131,0.1,110.10816
+1151,OD5911,Ridhesh,Fruits & Veggies,Fresh Vegetables,11/19/2022,1802,0.12,630.7
+780,OD4024,Suresh,Oil & Masala,Spices,11/19/2022,1216,0.16,60.8
+797,OD4117,Muneer,Fruits & Veggies,Organic Vegetables,11/19/2022,2074,0.15,414.8
+233,OD1243,Vidya,Oil & Masala,Edible Oil & Ghee,11/19/2022,50,0.29,2.5
+339,OD1802,Ravi,Beverages,Soft Drinks,11/19/2022,1764,0.35,589.2479999999999
+48,OD304,Muneer,Snacks,Cookies,11/19/2022,2690,0.25,505.6128
+514,OD2677,Vidya,Fruits & Veggies,Organic Vegetables,11/19/2022,2173,0.28,217.3
+949,OD4836,Muneer,Snacks,Cookies,11/20/2022,1753,0.11,794.948
+426,OD2254,Hussain,Snacks,Noodles,11/20/2022,2447,0.18,891.04
+430,OD2266,Esther,Beverages,Health Drinks,11/20/2022,2705,0.35,730.15
+403,OD2146,Rumaiza,Oil & Masala,Spices,11/20/2022,152,0.33,7.6
+305,OD1644,Akash,Bakery,Biscuits,11/20/2022,1232,0.23,262.10304
+1129,OD5798,Shree,"Eggs, Meat & Fish",Fish,11/20/2022,1174,0.13,194.47808
+97,OD560,Kumar,"Eggs, Meat & Fish",Fish,11/20/2022,50,0.25,137.62560000000002
+369,OD1976,Akash,Beverages,Soft Drinks,11/20/2022,1122,0.15,384.6816
+1551,OD8004,Jonas,"Eggs, Meat & Fish",Fish,11/20/2022,13,0.24,43.47392
+1553,OD8007,Adavan,Food Grains,Organic Staples,11/20/2022,1412,0.22,254.16
+392,OD2111,Vidya,Snacks,Chocolates,11/20/2022,1949,0.22,396.28224
+98,OD561,Yadav,Bakery,Breads & Buns,11/20/2022,2151,0.21,811.8299999999999
+187,OD1053,James,Oil & Masala,Edible Oil & Ghee,11/20/2022,833,0.25,41.65
+1694,OD8619,Hafiz,Oil & Masala,Edible Oil & Ghee,11/20/2022,50,0.11,2.5
+643,OD3271,Ravi,Snacks,Noodles,11/20/2022,2683,0.19,1008.22
+326,OD1758,Sharon,"Eggs, Meat & Fish",Fish,11/20/2022,660,0.28,518.4
+309,OD1663,Haseena,Bakery,Biscuits,11/20/2022,1967,0.15,212.59584
+970,OD4944,Willams,Beverages,Soft Drinks,11/21/2022,2834,0.29,1295.3
+903,OD4594,Veena,Snacks,Chocolates,11/21/2022,2263,0.34,738.812
+290,OD1561,Shree,Food Grains,Rice,11/21/2022,636,0.31,248.04
+1977,OD9976,Mathew,Beverages,Health Drinks,11/21/2022,2285,0.13,597.168
+1075,OD5533,Sudha,Fruits & Veggies,Organic Fruits,11/21/2022,2412,0.13,964.8
+341,OD1808,Esther,Bakery,Biscuits,11/21/2022,3029,0.11,1393.05
+931,OD4737,Suresh,Oil & Masala,Spices,11/21/2022,25,0.12,1.25
+1879,OD9507,Sharon,"Eggs, Meat & Fish",Mutton,11/21/2022,752,0.35,79.95392
+1885,OD9538,Hussain,Snacks,Chocolates,11/21/2022,3024,0.23,781.76
+1504,OD7785,Ramesh,Oil & Masala,Masalas,11/21/2022,40,0.33,2.0
+410,OD2181,Akash,Snacks,Noodles,11/21/2022,2497,0.21,295.02144
+1881,OD9514,Surya,"Eggs, Meat & Fish",Eggs,11/21/2022,801,0.28,400.35
+1480,OD7689,Shah,"Eggs, Meat & Fish",Mutton,11/21/2022,50,0.31,23.63392
+405,OD2163,Ravi,Fruits & Veggies,Fresh Vegetables,11/21/2022,953,0.3,324.02
+1877,OD9493,Shree,Oil & Masala,Masalas,11/21/2022,419,0.25,20.95
+671,OD3441,Hussain,Snacks,Noodles,11/22/2022,1577,0.35,168.8256
+1222,OD6275,Akash,"Eggs, Meat & Fish",Fish,11/23/2022,845,0.35,497.55
+76,OD426,Arvind,Beverages,Soft Drinks,11/23/2022,1656,0.21,162.7776
+10,OD107,Sundar,Beverages,Health Drinks,11/23/2022,940,0.12,155.51999999999998
+11,OD108,Willams,Snacks,Cookies,11/23/2022,1136,0.34,305.64864
+284,OD1521,Jackson,Snacks,Cookies,11/23/2022,2858,0.25,999.98
+1221,OD6270,Amy,Food Grains,Organic Staples,11/23/2022,2012,0.19,442.64
+663,OD3411,Sudha,Fruits & Veggies,Organic Fruits,11/23/2022,784,0.25,109.76
+1296,OD6709,Alan,Snacks,Cookies,11/23/2022,2310,0.28,265.9392
+12,OD109,Vidya,"Eggs, Meat & Fish",Eggs,11/23/2022,50,0.21,79.70816
+77,OD427,Sudha,Beverages,Health Drinks,11/23/2022,981,0.2,309.5568
+1351,OD6986,Adavan,Snacks,Chocolates,11/23/2022,1320,0.19,149.2992
+1210,OD6248,Arvind,Food Grains,Organic Staples,11/23/2022,1399,0.13,251.82
+376,OD2011,Kumar,Oil & Masala,Spices,11/23/2022,1527,0.33,76.35
+1009,OD5198,Harish,Fruits & Veggies,Organic Fruits,11/23/2022,561,0.11,61.71
+1094,OD5646,Harish,Bakery,Breads & Buns,11/23/2022,1243,0.28,322.22016
+1016,OD5241,Shree,Snacks,Cookies,11/23/2022,1311,0.28,393.15456
+192,OD1066,Surya,Fruits & Veggies,Organic Fruits,11/23/2022,1939,0.1,135.73
+228,OD1205,Sharon,"Eggs, Meat & Fish",Chicken,11/24/2022,688,0.15,212.66432
+1557,OD8022,Sharon,Bakery,Biscuits,11/24/2022,3058,0.23,254.84544
+229,OD1206,Vidya,Oil & Masala,Spices,11/24/2022,270,0.27,13.5
+1459,OD7570,Ram,Fruits & Veggies,Fresh Vegetables,11/24/2022,2452,0.29,343.28
+96,OD554,Yadav,Beverages,Health Drinks,11/24/2022,2096,0.21,122.112
+443,OD2329,Harish,Beverages,Health Drinks,11/24/2022,2735,0.16,1087.3
+1599,OD8213,Ravi,Bakery,Biscuits,11/24/2022,1551,0.16,197.19936
+303,OD1640,Peer,Fruits & Veggies,Organic Vegetables,11/24/2022,959,0.25,402.78
+1867,OD9434,Hafiz,Food Grains,Dals & Pulses,11/24/2022,1718,0.13,257.7
+1861,OD9384,Sharon,"Eggs, Meat & Fish",Eggs,11/24/2022,1010,0.13,303.744
+1455,OD7544,Sudha,"Eggs, Meat & Fish",Fish,11/24/2022,633,0.1,122.00448000000002
+1384,OD7132,Amrish,Fruits & Veggies,Fresh Fruits,11/24/2022,1517,0.28,394.42
+1371,OD7072,Suresh,Bakery,Cakes,11/24/2022,1859,0.15,607.6288
+616,OD3129,Alan,Food Grains,Rice,11/24/2022,1756,0.25,684.84
+1074,OD5532,Arvind,Food Grains,Rice,11/24/2022,1825,0.29,237.25
+615,OD3127,Hussain,Bakery,Breads & Buns,11/24/2022,2516,0.13,397.30176
+482,OD2537,Sudeep,Oil & Masala,Spices,11/24/2022,1496,0.17,74.8
+700,OD3616,Vidya,"Eggs, Meat & Fish",Mutton,11/24/2022,111,0.11,214.79424
+1172,OD6019,Jackson,Bakery,Breads & Buns,11/24/2022,1830,0.3,613.6479999999999
+1252,OD6490,Vince,Bakery,Biscuits,11/24/2022,1365,0.28,594.864
+702,OD3635,Jackson,Fruits & Veggies,Fresh Fruits,11/24/2022,1310,0.22,65.5
+1431,OD7380,Willams,Snacks,Cookies,11/24/2022,2012,0.12,390.38976
+1314,OD6779,Veena,Oil & Masala,Edible Oil & Ghee,11/24/2022,644,0.18,32.2
+1304,OD6755,Ram,Beverages,Soft Drinks,11/24/2022,1857,0.33,419.61599999999993
+726,OD3794,Muneer,Bakery,Breads & Buns,11/24/2022,1399,0.24,428.00832
+279,OD1502,Suresh,"Eggs, Meat & Fish",Chicken,11/25/2022,978,0.14,133.81632000000002
+1130,OD5825,Anu,Snacks,Cookies,11/25/2022,3058,0.26,760.424
+1569,OD8068,Suresh,Beverages,Soft Drinks,11/25/2022,2669,0.12,926.08
+845,OD4316,Adavan,Bakery,Breads & Buns,11/25/2022,1371,0.2,426.33216
+332,OD1784,Aditi,Beverages,Health Drinks,11/25/2022,2400,0.16,1080.0
+569,OD2910,Suresh,Beverages,Health Drinks,11/25/2022,2595,0.22,410.904
+659,OD3390,Sundar,Fruits & Veggies,Fresh Vegetables,11/25/2022,2134,0.26,618.86
+685,OD3532,Anu,Beverages,Soft Drinks,11/25/2022,2883,0.28,1118.71
+841,OD4295,Amrish,Snacks,Cookies,11/25/2022,2257,0.28,624.9376000000001
+1766,OD8909,Kumar,Fruits & Veggies,Fresh Vegetables,11/25/2022,505,0.33,126.25
+1018,OD5244,Suresh,Bakery,Biscuits,11/25/2022,1699,0.1,512.74944
+1327,OD6839,Yadav,Oil & Masala,Edible Oil & Ghee,11/25/2022,867,0.2,43.35
+360,OD1902,Alan,Bakery,Breads & Buns,11/25/2022,1862,0.22,588.79872
+1676,OD8531,Mathew,Beverages,Health Drinks,11/26/2022,2479,0.27,508.9392
+387,OD2077,Krithika,Oil & Masala,Edible Oil & Ghee,11/26/2022,50,0.12,2.5
+1674,OD8525,Vinne,Beverages,Soft Drinks,11/26/2022,2526,0.32,795.28
+1675,OD8529,Anu,Food Grains,Organic Staples,11/26/2022,627,0.12,257.07
+1944,OD9831,Kumar,"Eggs, Meat & Fish",Mutton,11/26/2022,50,0.12,207.61088
+1945,OD9840,Peer,Food Grains,Organic Staples,11/26/2022,2426,0.29,145.56
+983,OD5044,Yusuf,Food Grains,Atta & Flour,11/26/2022,2405,0.22,793.65
+1045,OD5394,Willams,Oil & Masala,Spices,11/26/2022,752,0.3,37.6
+242,OD1275,Sharon,"Eggs, Meat & Fish",Fish,11/26/2022,1197,0.27,706.74
+1845,OD9294,Sabeela,Oil & Masala,Spices,11/26/2022,1319,0.18,65.95
+1427,OD7372,Verma,Bakery,Breads & Buns,11/26/2022,3049,0.28,838.78
+1855,OD9333,Vince,Snacks,Cookies,11/26/2022,2354,0.33,1019.14
+1443,OD7440,Surya,Bakery,Breads & Buns,11/26/2022,1560,0.1,199.0656
+85,OD511,Haseena,Fruits & Veggies,Organic Fruits,11/26/2022,1850,0.29,777.0
+86,OD512,Shah,Bakery,Breads & Buns,11/26/2022,1498,0.33,139.65696
+1415,OD7314,Rumaiza,"Eggs, Meat & Fish",Chicken,11/26/2022,50,0.29,153.06752
+1491,OD7728,Krithika,Beverages,Soft Drinks,11/27/2022,1573,0.18,456.0624
+799,OD4130,Vince,Snacks,Noodles,11/27/2022,3047,0.35,1131.98
+1084,OD5599,Ram,Bakery,Biscuits,11/27/2022,1579,0.12,558.26496
+533,OD2740,Esther,Oil & Masala,Spices,11/27/2022,44,0.16,2.2
+1342,OD6924,Hussain,Beverages,Health Drinks,11/27/2022,1647,0.31,197.5248
+1348,OD6955,Vinne,"Eggs, Meat & Fish",Eggs,11/27/2022,93,0.2,152.26367999999997
+1624,OD8319,Sudeep,Snacks,Chocolates,11/27/2022,1815,0.21,724.88
+553,OD2839,Amrish,Bakery,Biscuits,11/27/2022,2333,0.15,740.696
+824,OD4204,Hafiz,Snacks,Chocolates,11/27/2022,1523,0.16,698.104
+349,OD1836,Vidya,"Eggs, Meat & Fish",Eggs,11/27/2022,50,0.26,61.35296000000001
+156,OD915,Sabeela,Food Grains,Rice,11/27/2022,2048,0.26,552.96
+155,OD914,Mathew,Bakery,Cakes,11/27/2022,2004,0.29,412.43904
+936,OD4757,Sudha,Food Grains,Organic Staples,11/27/2022,776,0.34,155.2
+159,OD948,Amy,Snacks,Chocolates,11/28/2022,3080,0.19,428.544
+1829,OD9216,Jackson,"Eggs, Meat & Fish",Mutton,11/28/2022,50,0.19,138.42432000000002
+162,OD951,Malik,Oil & Masala,Masalas,11/28/2022,51,0.15,2.55
+1387,OD7150,Surya,Beverages,Health Drinks,11/28/2022,1239,0.33,169.1424
+163,OD952,Amy,Food Grains,Atta & Flour,11/28/2022,2279,0.16,113.95
+1688,OD8585,Arvind,Beverages,Health Drinks,11/28/2022,2505,0.14,810.45
+1589,OD8187,Surya,"Eggs, Meat & Fish",Fish,11/28/2022,1274,0.28,739.0799999999999
+1687,OD8584,Arvind,Snacks,Cookies,11/28/2022,1612,0.33,489.64608
+161,OD950,Malik,Food Grains,Dals & Pulses,11/28/2022,546,0.11,65.52
+453,OD2374,Hussain,Food Grains,Rice,11/28/2022,1575,0.33,598.5
+160,OD949,Shree,Beverages,Soft Drinks,11/28/2022,2839,0.26,280.9728
+884,OD4515,Verma,Bakery,Biscuits,11/28/2022,1821,0.26,400.87872
+325,OD1757,Amrish,Fruits & Veggies,Fresh Fruits,11/29/2022,2123,0.11,891.66
+334,OD1788,Sundar,Snacks,Chocolates,11/29/2022,1592,0.25,274.26816
+1055,OD5463,Jonas,Oil & Masala,Edible Oil & Ghee,11/30/2022,742,0.25,37.1
+1547,OD7989,Muneer,"Eggs, Meat & Fish",Chicken,11/30/2022,370,0.21,287.68
+1835,OD9254,Veena,Snacks,Cookies,11/30/2022,2687,0.18,967.84
+1840,OD9269,Amy,Oil & Masala,Masalas,11/30/2022,50,0.33,2.5
+1956,OD9874,Vinne,Bakery,Biscuits,11/30/2022,2352,0.31,1000.8
+1647,OD8419,Sharon,Snacks,Cookies,11/30/2022,2942,0.33,1236.8
+648,OD3308,Veronica,"Eggs, Meat & Fish",Eggs,11/30/2022,813,0.21,103.06560000000002
+1941,OD9806,Yusuf,Food Grains,Organic Staples,11/30/2022,1837,0.31,753.17
+142,OD880,Vidya,Bakery,Cakes,11/30/2022,2795,0.19,637.336
+167,OD956,Vince,Fruits & Veggies,Organic Vegetables,11/30/2022,1011,0.22,161.76
+143,OD881,Veronica,Beverages,Health Drinks,11/30/2022,2133,0.21,823.88
+336,OD1796,Vince,"Eggs, Meat & Fish",Mutton,11/30/2022,50,0.2,152.2176
+721,OD3767,Peer,Food Grains,Atta & Flour,11/30/2022,1998,0.25,319.68
+193,OD1072,Roshan,"Eggs, Meat & Fish",Mutton,11/30/2022,456,0.16,343.424
+1750,OD8861,Ridhesh,Food Grains,Dals & Pulses,11/30/2022,1974,0.24,197.4
+342,OD1811,Akash,Bakery,Breads & Buns,12-01-2022,2673,0.28,942.63
+110,OD584,Hussain,Fruits & Veggies,Fresh Fruits,12-01-2022,1483,0.29,281.77
+109,OD583,Ramesh,Food Grains,Atta & Flour,12-01-2022,750,0.16,165.0
+108,OD582,Suresh,Beverages,Soft Drinks,12-01-2022,1222,0.13,142.0416
+1353,OD6997,Arutra,Bakery,Breads & Buns,12-01-2022,2706,0.32,400.30848
+190,OD1060,Sudha,Bakery,Biscuits,12-01-2022,2036,0.33,816.96
+1196,OD6161,Ridhesh,Bakery,Breads & Buns,12-01-2022,1850,0.32,324.0
+1857,OD9346,Roshan,Beverages,Health Drinks,12-01-2022,2394,0.31,650.344
+1965,OD9912,Yusuf,Oil & Masala,Spices,12-01-2022,1547,0.14,77.35
+1017,OD5242,Veronica,Fruits & Veggies,Organic Fruits,12-01-2022,856,0.11,171.2
+1703,OD8672,Anu,"Eggs, Meat & Fish",Chicken,12-01-2022,1063,0.19,650.46
+312,OD1676,Rumaiza,Fruits & Veggies,Organic Fruits,12-01-2022,2344,0.2,421.92
+910,OD4629,Jonas,Bakery,Biscuits,12-01-2022,2179,0.25,518.41728
+112,OD586,Veronica,Snacks,Cookies,12-01-2022,1442,0.22,305.54496
+1484,OD7710,Yusuf,Bakery,Biscuits,12-01-2022,2183,0.1,136.7712
+898,OD4568,Arutra,Oil & Masala,Edible Oil & Ghee,12-01-2022,566,0.25,28.3
+275,OD1480,Sabeela,Oil & Masala,Spices,12-01-2022,50,0.14,2.5
+111,OD585,Ramesh,"Eggs, Meat & Fish",Fish,12-01-2022,50,0.3,159.17056
+1639,OD8398,James,Beverages,Health Drinks,12-01-2022,1486,0.23,265.8528
+27,OD208,Haseena,"Eggs, Meat & Fish",Eggs,12-01-2022,699,0.25,184.73472
+37,OD259,Esther,Beverages,Soft Drinks,12-01-2022,1060,0.29,418.17599999999993
+30,OD211,Hafiz,Fruits & Veggies,Organic Vegetables,12-01-2022,609,0.3,207.06
+26,OD207,Verma,"Eggs, Meat & Fish",Chicken,12-01-2022,269,0.15,357.088
+1517,OD7835,Suresh,Snacks,Chocolates,12-01-2022,1491,0.29,153.96479999999997
+1833,OD9249,Shah,Oil & Masala,Edible Oil & Ghee,12-01-2022,313,0.23,15.65
+39,OD261,Sabeela,Oil & Masala,Masalas,12-01-2022,378,0.14,18.9
+774,OD4003,Akash,Bakery,Biscuits,12-01-2022,1812,0.29,230.37696
+1686,OD8578,Hafiz,"Eggs, Meat & Fish",Mutton,12-01-2022,291,0.12,152.6784
+28,OD209,Esther,"Eggs, Meat & Fish",Mutton,12-01-2022,994,0.2,78.63296
+752,OD3915,Veena,Beverages,Soft Drinks,12-01-2022,1174,0.3,312.07680000000005
+899,OD4576,Sudha,Fruits & Veggies,Fresh Vegetables,12-01-2022,1207,0.14,120.7
+29,OD210,Amrish,Beverages,Soft Drinks,12-01-2022,2342,0.29,704.9200000000001
+407,OD2172,Yadav,Food Grains,Dals & Pulses,12-01-2022,1000,0.18,100.0
+38,OD260,Shree,Bakery,Breads & Buns,12-01-2022,2714,0.32,617.5072
+1242,OD6423,Komal,Fruits & Veggies,Organic Fruits,12-02-2022,1656,0.16,513.36
+1204,OD6218,Hussain,Snacks,Cookies,12-02-2022,1386,0.1,149.40287999999998
+1206,OD6225,Veronica,Snacks,Cookies,12-02-2022,3024,0.11,1148.4
+771,OD3994,James,Food Grains,Rice,12-02-2022,1257,0.22,389.67
+235,OD1248,Komal,"Eggs, Meat & Fish",Fish,12-02-2022,838,0.21,104.34560000000002
+1245,OD6456,Shree,Oil & Masala,Masalas,12-02-2022,856,0.17,42.8
+195,OD1079,Vinne,Fruits & Veggies,Fresh Vegetables,12-02-2022,2097,0.26,880.74
+1243,OD6424,Komal,Oil & Masala,Edible Oil & Ghee,12-02-2022,934,0.1,46.7
+1598,OD8211,Sudeep,Food Grains,Rice,12-02-2022,692,0.31,235.28
+1638,OD8374,Krithika,"Eggs, Meat & Fish",Mutton,12-02-2022,304,0.12,107.80672
+1631,OD8338,Vidya,Fruits & Veggies,Fresh Fruits,12-02-2022,1109,0.18,432.51
+1270,OD6553,Veronica,Snacks,Noodles,12-02-2022,1394,0.31,109.76256
+1269,OD6547,Yadav,Bakery,Cakes,12-02-2022,2500,0.1,1022.0
+1202,OD6211,Veena,Fruits & Veggies,Fresh Fruits,12-02-2022,1802,0.16,90.1
+1267,OD6541,Harish,Snacks,Noodles,12-02-2022,2841,0.27,1263.63
+1627,OD8324,James,"Eggs, Meat & Fish",Chicken,12-02-2022,386,0.11,301.4144
+1265,OD6537,Ridhesh,Beverages,Soft Drinks,12-02-2022,1432,0.23,657.28
+801,OD4133,Aditi,Fruits & Veggies,Organic Fruits,12-02-2022,1359,0.27,312.57
+1264,OD6531,James,Oil & Masala,Edible Oil & Ghee,12-02-2022,531,0.1,26.55
+1875,OD9485,Harish,Bakery,Breads & Buns,12-02-2022,1112,0.32,291.96288
+1208,OD6234,Rumaiza,"Eggs, Meat & Fish",Eggs,12-02-2022,1066,0.15,629.06
+1433,OD7385,Sheeba,"Eggs, Meat & Fish",Fish,12-02-2022,783,0.31,453.54
+420,OD2220,Ramesh,Fruits & Veggies,Fresh Fruits,12-02-2022,2019,0.25,524.94
+402,OD2145,Rumaiza,Fruits & Veggies,Fresh Fruits,12-02-2022,1097,0.27,285.22
+522,OD2701,Shree,Fruits & Veggies,Organic Vegetables,12-02-2022,2032,0.29,243.84
+1365,OD7048,Amrish,Fruits & Veggies,Organic Vegetables,12-02-2022,1337,0.32,93.59
+950,OD4843,James,Beverages,Soft Drinks,12-02-2022,2349,0.25,1057.56
+1454,OD7534,Amrish,"Eggs, Meat & Fish",Eggs,12-02-2022,925,0.22,443.75
+1487,OD7714,Hafiz,Fruits & Veggies,Organic Fruits,12-02-2022,660,0.2,145.2
+1004,OD5173,Komal,"Eggs, Meat & Fish",Chicken,12-02-2022,708,0.29,482.28
+1523,OD7875,Sabeela,Beverages,Health Drinks,12-02-2022,1712,0.16,724.8
+1498,OD7770,Rumaiza,Bakery,Biscuits,12-02-2022,2974,0.22,1035.94
+390,OD2102,Vince,"Eggs, Meat & Fish",Fish,12-02-2022,348,0.34,110.96064
+493,OD2595,Shah,"Eggs, Meat & Fish",Eggs,12-02-2022,271,0.21,45.18912
+614,OD3126,Malik,Fruits & Veggies,Organic Fruits,12-03-2022,523,0.14,120.29
+820,OD4198,Ram,"Eggs, Meat & Fish",Mutton,12-03-2022,736,0.11,551.84
+1668,OD8503,Willams,Beverages,Health Drinks,12-03-2022,2744,0.13,786.0
+262,OD1400,Adavan,Fruits & Veggies,Organic Fruits,12-03-2022,1946,0.32,252.98
+811,OD4163,Veena,"Eggs, Meat & Fish",Eggs,12-03-2022,380,0.19,202.24
+610,OD3118,Arutra,Beverages,Health Drinks,12-03-2022,2493,0.28,1141.85
+265,OD1407,Muneer,Snacks,Cookies,12-03-2022,2228,0.35,196.92288
+607,OD3093,Sharon,Bakery,Breads & Buns,12-03-2022,2317,0.2,918.12
+485,OD2559,Haseena,Bakery,Breads & Buns,12-03-2022,2266,0.26,518.19264
+987,OD5088,Veronica,Food Grains,Atta & Flour,12-03-2022,2325,0.12,1046.25
+261,OD1389,Peer,"Eggs, Meat & Fish",Mutton,12-03-2022,50,0.14,84.18816000000001
+997,OD5140,Amrish,Food Grains,Atta & Flour,12-03-2022,1722,0.18,309.96
+996,OD5137,Haseena,Snacks,Cookies,12-03-2022,1656,0.14,617.0176
+755,OD3924,Veena,"Eggs, Meat & Fish",Fish,12-03-2022,620,0.11,519.0
+378,OD2029,Ganesh,Oil & Masala,Spices,12-03-2022,0,0.15,0.0
+838,OD4271,Muneer,Oil & Masala,Edible Oil & Ghee,12-03-2022,50,0.27,2.5
+734,OD3834,Arutra,"Eggs, Meat & Fish",Eggs,12-03-2022,50,0.18,150.79424
+692,OD3575,Harish,"Eggs, Meat & Fish",Fish,12-03-2022,1132,0.2,155.21792
+1020,OD5266,Sabeela,Beverages,Soft Drinks,12-03-2022,1536,0.26,196.3008
+285,OD1529,Mathew,Beverages,Health Drinks,12-03-2022,1758,0.25,811.1
+289,OD1558,Anu,Fruits & Veggies,Organic Vegetables,12-04-2022,2343,0.27,820.05
+632,OD3223,Esther,Snacks,Cookies,12-04-2022,1585,0.32,221.2704
+550,OD2818,Sabeela,Oil & Masala,Masalas,12-04-2022,1199,0.28,59.95
+1241,OD6421,Yadav,Fruits & Veggies,Organic Fruits,12-04-2022,519,0.11,36.33
+295,OD1578,Malik,Bakery,Biscuits,12-04-2022,1768,0.21,100.9152
+998,OD5144,Muneer,Beverages,Health Drinks,12-04-2022,2010,0.34,731.3
+1175,OD6025,Willams,Beverages,Soft Drinks,12-04-2022,2869,0.31,284.4288
+766,OD3984,Sudeep,Oil & Masala,Spices,12-04-2022,1565,0.26,78.25
+1180,OD6041,Veena,Food Grains,Organic Staples,12-04-2022,951,0.34,389.91
+1005,OD5176,Akash,Bakery,Biscuits,12-04-2022,1219,0.13,342.28224
+1418,OD7319,Willams,"Eggs, Meat & Fish",Chicken,12-04-2022,50,0.19,120.4224
+1121,OD5751,Esther,Oil & Masala,Spices,12-04-2022,222,0.18,11.1
+1426,OD7361,Aditi,Snacks,Cookies,12-04-2022,1206,0.27,376.98048
+1062,OD5487,Hussain,"Eggs, Meat & Fish",Mutton,12-04-2022,1008,0.1,494.88
+1595,OD8200,Arutra,Fruits & Veggies,Fresh Vegetables,12-04-2022,2480,0.3,744.0
+294,OD1577,Arvind,Oil & Masala,Edible Oil & Ghee,12-04-2022,239,0.24,11.95
+1102,OD5676,Jonas,"Eggs, Meat & Fish",Eggs,12-04-2022,590,0.32,155.8016
+653,OD3330,Amy,Snacks,Noodles,12-04-2022,1235,0.12,274.32
+1649,OD8422,Komal,Oil & Masala,Masalas,12-05-2022,683,0.29,34.15
+126,OD675,Adavan,Food Grains,Organic Staples,12-05-2022,2421,0.11,387.36
+535,OD2747,Sheeba,"Eggs, Meat & Fish",Fish,12-05-2022,529,0.32,267.968
+1397,OD7220,Shree,Fruits & Veggies,Fresh Fruits,12-05-2022,567,0.19,175.77
+920,OD4684,Amrish,Snacks,Cookies,12-05-2022,1301,0.1,218.03904
+545,OD2782,Hafiz,Beverages,Soft Drinks,12-05-2022,1142,0.29,106.848
+186,OD1035,Sabeela,Food Grains,Atta & Flour,12-05-2022,1540,0.21,569.8
+125,OD674,Arutra,"Eggs, Meat & Fish",Eggs,12-05-2022,92,0.29,152.14592
+127,OD676,Vidya,Bakery,Cakes,12-05-2022,1804,0.19,749.024
+1166,OD5983,Ramesh,"Eggs, Meat & Fish",Eggs,12-05-2022,633,0.31,56.30976
+394,OD2116,Vinne,Beverages,Health Drinks,12-05-2022,2631,0.32,608.668
+1924,OD9733,Ridhesh,Food Grains,Dals & Pulses,12-05-2022,2051,0.21,102.55
+1742,OD8829,Anu,"Eggs, Meat & Fish",Chicken,12-05-2022,50,0.17,28.34944
+1741,OD8828,Ravi,Snacks,Chocolates,12-05-2022,1924,0.15,771.968
+932,OD4749,Shree,"Eggs, Meat & Fish",Eggs,12-05-2022,860,0.14,105.472
+1163,OD5969,Haseena,"Eggs, Meat & Fish",Chicken,12-05-2022,375,0.26,137.088
+1734,OD8810,James,Bakery,Cakes,12-05-2022,1907,0.26,780.308
+593,OD3015,Komal,Food Grains,Organic Staples,12-05-2022,1390,0.14,542.1
+1587,OD8179,Vinne,Oil & Masala,Edible Oil & Ghee,12-05-2022,854,0.21,42.7
+1317,OD6784,Rumaiza,Oil & Masala,Edible Oil & Ghee,12-06-2022,1373,0.12,68.65
+786,OD4070,Malik,"Eggs, Meat & Fish",Fish,12-07-2022,624,0.1,46.69440000000001
+951,OD4851,Jackson,Bakery,Breads & Buns,12-07-2022,2170,0.32,975.1
+1360,OD7028,Harish,"Eggs, Meat & Fish",Fish,12-07-2022,720,0.28,267.77599999999995
+1375,OD7102,Krithika,"Eggs, Meat & Fish",Eggs,12-07-2022,1299,0.35,271.8656
+1355,OD7007,Yusuf,Oil & Masala,Spices,12-07-2022,698,0.11,34.9
+322,OD1744,Hafiz,Oil & Masala,Masalas,12-07-2022,1484,0.17,74.2
+1898,OD9604,Yusuf,"Eggs, Meat & Fish",Fish,12-07-2022,1229,0.27,278.0032
+99,OD566,Amrish,Fruits & Veggies,Fresh Fruits,12-07-2022,1527,0.16,305.4
+1048,OD5425,Jackson,"Eggs, Meat & Fish",Chicken,12-07-2022,1254,0.18,706.14
+64,OD410,Krithika,"Eggs, Meat & Fish",Eggs,12-08-2022,50,0.14,33.9968
+409,OD2178,Veronica,Fruits & Veggies,Fresh Vegetables,12-08-2022,1026,0.19,266.76
+1481,OD7699,Amy,Snacks,Cookies,12-08-2022,1843,0.28,171.83232
+65,OD411,Krithika,Bakery,Cakes,12-08-2022,2131,0.28,805.23
+537,OD2754,Mathew,"Eggs, Meat & Fish",Fish,12-08-2022,50,0.28,28.016639999999995
+955,OD4863,Muneer,Oil & Masala,Masalas,12-08-2022,273,0.15,13.65
+1464,OD7596,Malik,Fruits & Veggies,Organic Fruits,12-08-2022,1944,0.1,855.36
+441,OD2317,Sabeela,Bakery,Breads & Buns,12-08-2022,2257,0.27,601.0768
+66,OD412,Harish,Snacks,Cookies,12-08-2022,2955,0.14,1053.6
+63,OD409,Surya,Beverages,Soft Drinks,12-08-2022,2593,0.33,1099.13
+238,OD1258,Shah,Bakery,Breads & Buns,12-08-2022,2374,0.15,367.85664
+67,OD413,Jonas,Oil & Masala,Edible Oil & Ghee,12-08-2022,17,0.19,0.85
+450,OD2356,Jonas,"Eggs, Meat & Fish",Eggs,12-08-2022,437,0.15,281.7344
+1781,OD8972,Adavan,Fruits & Veggies,Organic Vegetables,12-08-2022,1759,0.3,422.16
+68,OD414,Ridhesh,Bakery,Breads & Buns,12-08-2022,2033,0.25,750.272
+1002,OD5160,Sudha,Food Grains,Atta & Flour,12-08-2022,552,0.14,138.0
+1496,OD7765,Willams,Food Grains,Rice,12-08-2022,1608,0.31,369.84
+631,OD3218,Yadav,Beverages,Soft Drinks,12-08-2022,2470,0.32,596.16
+61,OD407,Sharon,Food Grains,Rice,12-08-2022,904,0.17,63.28
+62,OD408,Ravi,Fruits & Veggies,Fresh Fruits,12-08-2022,958,0.18,182.02
+621,OD3161,Jackson,Fruits & Veggies,Fresh Vegetables,12-08-2022,1812,0.22,108.72
+541,OD2767,Harish,Beverages,Health Drinks,12-08-2022,2590,0.12,1010.3
+538,OD2759,Hussain,Snacks,Chocolates,12-08-2022,1872,0.35,649.504
+1315,OD6780,Rumaiza,"Eggs, Meat & Fish",Mutton,12-08-2022,991,0.25,201.92256000000003
+1508,OD7804,Akash,Bakery,Cakes,12-08-2022,1332,0.2,366.81984
+271,OD1441,Anu,Oil & Masala,Masalas,12-08-2022,1416,0.1,70.8
+203,OD1103,Surya,Fruits & Veggies,Organic Fruits,12-08-2022,1108,0.25,409.96
+314,OD1688,Sudeep,Beverages,Health Drinks,12-08-2022,1858,0.17,826.94
+625,OD3178,Mathew,Food Grains,Rice,12-08-2022,977,0.19,439.65
+60,OD406,Kumar,Food Grains,Atta & Flour,12-08-2022,762,0.31,198.12
+1518,OD7836,Sudeep,Snacks,Cookies,12-09-2022,2149,0.23,613.0288
+1790,OD9009,Ramesh,Oil & Masala,Edible Oil & Ghee,12-09-2022,313,0.21,15.65
+1521,OD7869,Willams,Fruits & Veggies,Organic Fruits,12-09-2022,570,0.19,222.3
+502,OD2631,Ganesh,Bakery,Cakes,12-09-2022,1848,0.15,709.184
+42,OD270,Suresh,Beverages,Soft Drinks,12-09-2022,2012,0.11,812.56
+634,OD3230,Alan,Fruits & Veggies,Fresh Fruits,12-09-2022,1108,0.14,166.2
+559,OD2863,Sundar,Fruits & Veggies,Organic Vegetables,12-09-2022,1297,0.33,479.89
+1146,OD5886,Ganesh,Fruits & Veggies,Fresh Fruits,12-09-2022,1856,0.16,686.72
+633,OD3225,Shah,Food Grains,Rice,12-09-2022,781,0.26,132.77
+3,OD77,Arvind,Fruits & Veggies,Organic Fruits,12-09-2022,1250,0.27,75.0
+1791,OD9019,Verma,"Eggs, Meat & Fish",Mutton,12-09-2022,307,0.35,208.32768
+4,OD78,Anu,Snacks,Noodles,12-09-2022,1958,0.31,786.656
+498,OD2622,Komal,Snacks,Chocolates,12-09-2022,2820,0.15,1165.8
+501,OD2627,Sabeela,Beverages,Soft Drinks,12-09-2022,2453,0.13,354.7584
+1410,OD7284,Verma,Snacks,Chocolates,12-09-2022,2794,0.27,1155.66
+561,OD2872,Harish,Oil & Masala,Masalas,12-09-2022,50,0.23,2.5
+673,OD3450,Komal,Snacks,Cookies,12-09-2022,2338,0.26,977.82
+1672,OD8513,Haseena,Snacks,Noodles,12-09-2022,1880,0.16,837.6
+1673,OD8520,Jackson,Oil & Masala,Edible Oil & Ghee,12-09-2022,223,0.26,11.15
+566,OD2897,Ramesh,Food Grains,Rice,12-09-2022,1227,0.34,441.72
+773,OD4002,Willams,Oil & Masala,Masalas,12-09-2022,1182,0.22,59.1
+41,OD269,Adavan,Bakery,Cakes,12-09-2022,2107,0.16,312.49152000000004
+650,OD3315,Aditi,Snacks,Noodles,12-09-2022,1604,0.26,537.82272
+560,OD2869,Krithika,Food Grains,Dals & Pulses,12-09-2022,2374,0.32,284.88
+975,OD4999,Muneer,Fruits & Veggies,Organic Vegetables,12-09-2022,1794,0.17,699.66
+1338,OD6903,Sundar,Beverages,Soft Drinks,12-09-2022,2386,0.27,736.22
+564,OD2893,Verma,Snacks,Chocolates,12-09-2022,2134,0.24,503.64287999999993
+2,OD76,Veronica,Beverages,Soft Drinks,12-09-2022,1889,0.12,278.7408
+25,OD206,Vinne,"Eggs, Meat & Fish",Mutton,12-09-2022,798,0.29,71.60832
+636,OD3237,Alan,"Eggs, Meat & Fish",Mutton,12-09-2022,604,0.18,240.14848
+986,OD5083,Amy,Fruits & Veggies,Organic Vegetables,12-09-2022,1265,0.34,392.15
+985,OD5077,Mathew,Bakery,Biscuits,12-09-2022,1165,0.31,107.3952
+1339,OD6913,Anu,Bakery,Breads & Buns,12-09-2022,1858,0.34,260.85888
+474,OD2474,Jonas,Bakery,Cakes,12-10-2022,2141,0.29,292.91328
+189,OD1056,Willams,Beverages,Health Drinks,12-10-2022,1415,0.22,423.864
+191,OD1061,Willams,Fruits & Veggies,Organic Fruits,12-10-2022,2464,0.35,837.76
+199,OD1096,Ridhesh,Food Grains,Rice,12-10-2022,745,0.15,149.0
+472,OD2461,Peer,"Eggs, Meat & Fish",Mutton,12-10-2022,889,0.32,203.21792
+1744,OD8839,Vinne,Food Grains,Rice,12-10-2022,1478,0.27,517.3
+1512,OD7818,Ram,Snacks,Chocolates,12-10-2022,2131,0.13,582.02496
+1322,OD6806,Mathew,Beverages,Soft Drinks,12-10-2022,1239,0.34,60.408
+1184,OD6067,Shah,Beverages,Health Drinks,12-10-2022,1784,0.32,498.24
+1787,OD8997,Sheeba,Snacks,Chocolates,12-10-2022,3086,0.34,1269.54
+1940,OD9802,Jackson,Food Grains,Rice,12-10-2022,788,0.34,86.68
+1939,OD9801,Arutra,Food Grains,Organic Staples,12-10-2022,1536,0.22,583.68
+1326,OD6836,Amy,Fruits & Veggies,Organic Vegetables,12-10-2022,1435,0.12,373.1
+415,OD2199,Surya,Beverages,Health Drinks,12-10-2022,2771,0.12,443.85120000000006
+257,OD1369,Malik,Snacks,Cookies,12-10-2022,1163,0.35,165.38688
+404,OD2162,Adavan,Oil & Masala,Spices,12-10-2022,50,0.21,2.5
+1502,OD7780,Amrish,Snacks,Noodles,12-10-2022,2955,0.14,1312.65
+1562,OD8042,Adavan,Oil & Masala,Spices,12-10-2022,352,0.27,17.6
+994,OD5128,Rumaiza,Fruits & Veggies,Fresh Vegetables,12-10-2022,2113,0.18,169.04
+1031,OD5342,Ram,Oil & Masala,Masalas,12-10-2022,50,0.32,2.5
+587,OD2991,Sharon,Beverages,Soft Drinks,12-10-2022,2881,0.28,535.896
+715,OD3745,Harish,Fruits & Veggies,Organic Fruits,12-11-2022,876,0.21,61.32
+731,OD3811,Ganesh,Snacks,Noodles,12-11-2022,2827,0.35,307.86048000000005
+55,OD390,Shree,Bakery,Biscuits,12-11-2022,2882,0.19,197.1648
+1763,OD8901,Verma,"Eggs, Meat & Fish",Mutton,12-11-2022,882,0.24,372.992
+725,OD3779,Ganesh,Snacks,Noodles,12-11-2022,2399,0.26,279.78048
+1765,OD8907,Harish,Fruits & Veggies,Fresh Fruits,12-11-2022,2232,0.21,959.76
+56,OD391,Jonas,Bakery,Breads & Buns,12-11-2022,2894,0.18,896.44
+1022,OD5287,Sheeba,Beverages,Health Drinks,12-11-2022,2601,0.12,860.3
+1189,OD6119,Willams,"Eggs, Meat & Fish",Fish,12-11-2022,50,0.35,129.92000000000002
+384,OD2062,Amrish,Snacks,Noodles,12-11-2022,2378,0.21,851.18
+1231,OD6307,Surya,Snacks,Chocolates,12-11-2022,2161,0.27,1002.45
+1186,OD6085,Shree,Food Grains,Rice,12-11-2022,2435,0.15,146.1
+699,OD3614,Willams,Fruits & Veggies,Organic Fruits,12-11-2022,1868,0.35,747.2
+219,OD1161,Veena,Fruits & Veggies,Organic Fruits,12-11-2022,1405,0.29,266.95
+217,OD1157,Akash,Snacks,Chocolates,12-11-2022,2853,0.14,506.1139199999999
+1579,OD8160,Sundar,Fruits & Veggies,Organic Vegetables,12-11-2022,509,0.2,50.9
+1449,OD7497,Peer,Oil & Masala,Edible Oil & Ghee,12-11-2022,1189,0.13,59.45
+1528,OD7891,Peer,Bakery,Cakes,12-11-2022,1750,0.17,806.0
+310,OD1669,Suresh,Oil & Masala,Masalas,12-11-2022,685,0.27,34.25
+465,OD2429,Sabeela,Food Grains,Dals & Pulses,12-11-2022,2132,0.16,533.0
+710,OD3697,Suresh,"Eggs, Meat & Fish",Chicken,12-11-2022,50,0.29,23.04
+1613,OD8267,Vinne,Fruits & Veggies,Organic Vegetables,12-11-2022,1336,0.15,561.12
+894,OD4552,Shree,Oil & Masala,Spices,12/13/2022,50,0.18,2.5
+862,OD4415,Ravi,Bakery,Biscuits,12/13/2022,2692,0.19,1032.2
+851,OD4350,Yadav,Oil & Masala,Spices,12/13/2022,544,0.12,27.2
+487,OD2564,Ravi,Oil & Masala,Edible Oil & Ghee,12/13/2022,50,0.31,2.5
+1177,OD6028,Harish,Bakery,Breads & Buns,12/13/2022,1502,0.13,483.18336
+356,OD1885,Amy,Beverages,Health Drinks,12/13/2022,2216,0.35,575.3088
+1893,OD9580,Anu,"Eggs, Meat & Fish",Fish,12/14/2022,50,0.13,66.90816000000001
+1948,OD9851,Suresh,"Eggs, Meat & Fish",Fish,12/14/2022,848,0.28,316.1088
+1950,OD9854,Arvind,Fruits & Veggies,Organic Fruits,12/14/2022,860,0.11,215.0
+1954,OD9865,Adavan,Snacks,Noodles,12/14/2022,2060,0.32,708.0799999999999
+1680,OD8555,Muneer,Snacks,Cookies,12/14/2022,2267,0.28,720.104
+968,OD4940,Haseena,Oil & Masala,Masalas,12/14/2022,157,0.25,7.85
+1831,OD9222,Esther,Fruits & Veggies,Fresh Vegetables,12/14/2022,991,0.13,287.39
+1691,OD8609,Ganesh,Snacks,Cookies,12/14/2022,2663,0.12,427.78368
+1607,OD8247,Haseena,Fruits & Veggies,Fresh Fruits,12/14/2022,1557,0.15,513.81
+468,OD2443,Peer,Snacks,Chocolates,12/14/2022,1864,0.22,776.384
+1909,OD9677,Roshan,Fruits & Veggies,Fresh Fruits,12/14/2022,557,0.18,206.09
+1606,OD8242,Suresh,Oil & Masala,Masalas,12/14/2022,669,0.31,33.45
+1844,OD9291,Veronica,Bakery,Biscuits,12/14/2022,2899,0.27,1150.63
+221,OD1164,Komal,Beverages,Soft Drinks,12/14/2022,1340,0.24,500.832
+1837,OD9258,Anu,Oil & Masala,Masalas,12/14/2022,693,0.17,34.65
+1699,OD8659,Anu,Oil & Masala,Masalas,12/14/2022,50,0.12,2.5
+222,OD1168,Vince,"Eggs, Meat & Fish",Fish,12/14/2022,621,0.34,167.82336
+278,OD1498,Sudeep,"Eggs, Meat & Fish",Chicken,12/14/2022,54,0.25,257.024
+870,OD4464,Ram,Beverages,Soft Drinks,12/15/2022,2206,0.18,208.0512
+864,OD4420,Krithika,Beverages,Soft Drinks,12/15/2022,2665,0.12,643.6
+1700,OD8664,Anu,"Eggs, Meat & Fish",Mutton,12/15/2022,837,0.12,156.4416
+1369,OD7060,Rumaiza,Fruits & Veggies,Organic Fruits,12/15/2022,641,0.34,275.63
+1080,OD5572,Ram,Bakery,Biscuits,12/15/2022,2519,0.23,165.8016
+1797,OD9045,Roshan,Fruits & Veggies,Fresh Fruits,12/16/2022,1610,0.11,724.5
+1332,OD6862,James,Snacks,Chocolates,12/16/2022,2262,0.23,344.63232
+1325,OD6824,Esther,Beverages,Health Drinks,12/16/2022,2469,0.24,800.01
+1792,OD9022,Suresh,"Eggs, Meat & Fish",Mutton,12/16/2022,50,0.12,45.44512000000001
+1135,OD5841,Veronica,Beverages,Health Drinks,12/16/2022,2046,0.22,284.4288
+1565,OD8046,Aditi,"Eggs, Meat & Fish",Chicken,12/16/2022,50,0.25,28.9792
+1566,OD8047,Yusuf,Fruits & Veggies,Fresh Fruits,12/16/2022,2141,0.24,256.92
+1335,OD6879,Hafiz,Fruits & Veggies,Fresh Fruits,12/16/2022,2066,0.25,681.78
+1323,OD6808,Amy,Food Grains,Atta & Flour,12/16/2022,2457,0.31,761.67
+1138,OD5857,Krithika,Snacks,Noodles,12/16/2022,3050,0.14,1353.5
+1139,OD5858,Verma,Beverages,Soft Drinks,12/16/2022,1797,0.13,523.0368000000001
+635,OD3234,Alan,Food Grains,Organic Staples,12/16/2022,1699,0.19,526.69
+1856,OD9337,Yadav,"Eggs, Meat & Fish",Chicken,12/16/2022,50,0.26,91.9296
+292,OD1567,Sundar,Bakery,Cakes,12/17/2022,2158,0.32,323.06688
+116,OD630,Harish,Beverages,Soft Drinks,12/17/2022,1951,0.27,223.344
+115,OD629,Esther,Beverages,Soft Drinks,12/17/2022,966,0.2,309.7152
+785,OD4069,Shree,Snacks,Noodles,12/17/2022,2442,0.1,572.93568
+1808,OD9112,Kumar,Snacks,Cookies,12/17/2022,1786,0.18,122.96448
+319,OD1734,Veronica,Oil & Masala,Masalas,12/17/2022,672,0.13,33.6
+740,OD3877,Arutra,Food Grains,Organic Staples,12/17/2022,832,0.28,41.6
+1733,OD8809,Sharon,Bakery,Cakes,12/17/2022,2843,0.2,542.6265599999999
+23,OD204,Akash,Oil & Masala,Masalas,12/17/2022,50,0.12,2.5
+703,OD3643,Aditi,Snacks,Chocolates,12/17/2022,2498,0.16,1040.22
+1482,OD7705,Alan,Bakery,Biscuits,12/17/2022,2209,0.35,721.316
+1341,OD6920,James,Beverages,Health Drinks,12/17/2022,2228,0.25,552.7872
+1465,OD7599,Adavan,Fruits & Veggies,Fresh Vegetables,12/17/2022,721,0.34,64.89
+445,OD2339,Rumaiza,Beverages,Health Drinks,12/18/2022,1747,0.24,752.27
+733,OD3819,Ravi,Fruits & Veggies,Organic Fruits,12/18/2022,1716,0.26,652.08
+697,OD3601,Krithika,Fruits & Veggies,Fresh Vegetables,12/18/2022,759,0.14,174.57
+293,OD1573,Willams,Fruits & Veggies,Organic Fruits,12/18/2022,824,0.25,123.6
+730,OD3803,Akash,Food Grains,Rice,12/18/2022,1958,0.15,489.5
+1149,OD5899,Muneer,"Eggs, Meat & Fish",Fish,12/18/2022,305,0.32,46.2336
+301,OD1630,Sudeep,Oil & Masala,Edible Oil & Ghee,12/18/2022,1075,0.34,53.75
+604,OD3083,Peer,Food Grains,Organic Staples,12/18/2022,1764,0.24,776.16
+722,OD3768,Sharon,Oil & Masala,Masalas,12/18/2022,50,0.22,2.5
+1430,OD7375,Roshan,Beverages,Soft Drinks,12/18/2022,1929,0.21,198.1584
+1880,OD9508,Willams,Beverages,Health Drinks,12/18/2022,1001,0.15,328.8672
+1571,OD8086,Sharon,Food Grains,Dals & Pulses,12/18/2022,855,0.24,128.25
+989,OD5098,Amrish,Beverages,Health Drinks,12/18/2022,2267,0.34,457.0416
+440,OD2304,Muneer,Snacks,Noodles,12/18/2022,2475,0.21,717.5
+758,OD3934,Yadav,Bakery,Breads & Buns,12/18/2022,1132,0.14,248.20992
+437,OD2291,Ram,Food Grains,Organic Staples,12/18/2022,1255,0.16,263.55
+765,OD3979,Ravi,Snacks,Cookies,12/18/2022,2901,0.34,1289.4299999999998
+431,OD2267,Veena,Snacks,Chocolates,12/18/2022,2732,0.11,918.28
+746,OD3896,Vince,Fruits & Veggies,Organic Fruits,12/18/2022,1415,0.11,283.0
+259,OD1381,Vinne,"Eggs, Meat & Fish",Eggs,12/18/2022,1274,0.27,394.176
+373,OD2001,Amy,Bakery,Breads & Buns,12/19/2022,1758,0.22,650.2816
+605,OD3090,Vidya,Fruits & Veggies,Organic Fruits,12/19/2022,1721,0.2,653.98
+916,OD4661,Vidya,"Eggs, Meat & Fish",Chicken,12/19/2022,1093,0.25,353.63199999999995
+419,OD2218,Muneer,Bakery,Biscuits,12/19/2022,1690,0.1,749.36
+370,OD1981,Sudha,Food Grains,Rice,12/19/2022,1665,0.2,599.4
+1385,OD7133,Komal,Food Grains,Organic Staples,12/20/2022,1253,0.11,313.25
+1394,OD7187,Roshan,Bakery,Breads & Buns,12/20/2022,1494,0.35,185.37984
+1411,OD7287,Jackson,Beverages,Soft Drinks,12/20/2022,1791,0.19,100.152
+1419,OD7324,Vince,Oil & Masala,Masalas,12/20/2022,1500,0.31,75.0
+1401,OD7239,Rumaiza,Food Grains,Organic Staples,12/20/2022,1618,0.19,728.1
+87,OD514,Arutra,Oil & Masala,Masalas,12/21/2022,50,0.29,2.5
+854,OD4360,Veronica,Bakery,Biscuits,12/21/2022,1416,0.23,141.0048
+958,OD4877,Anu,"Eggs, Meat & Fish",Eggs,12/21/2022,50,0.29,35.93216
+88,OD515,Verma,Beverages,Health Drinks,12/21/2022,2752,0.27,764.48
+1493,OD7746,Sudha,Food Grains,Rice,12/21/2022,926,0.14,101.86
+567,OD2904,Mathew,Snacks,Cookies,12/21/2022,1990,0.15,883.8
+1026,OD5304,Akash,Food Grains,Dals & Pulses,12/21/2022,2232,0.14,803.52
+619,OD3141,Suresh,Snacks,Chocolates,12/21/2022,1865,0.2,682.912
+719,OD3764,Esther,Oil & Masala,Edible Oil & Ghee,12/21/2022,1136,0.16,56.8
+1654,OD8437,Jackson,Bakery,Biscuits,12/21/2022,2452,0.26,948.2
+709,OD3689,Willams,Food Grains,Atta & Flour,12/21/2022,614,0.34,165.78
+943,OD4803,Sundar,Snacks,Noodles,12/22/2022,2561,0.14,927.52
+688,OD3542,Ridhesh,Beverages,Soft Drinks,12/22/2022,1454,0.18,656.512
+1633,OD8361,Hussain,Beverages,Soft Drinks,12/22/2022,2315,0.32,193.032
+19,OD145,Vinne,"Eggs, Meat & Fish",Mutton,12/22/2022,1203,0.2,339.824
+962,OD4907,Kumar,Beverages,Health Drinks,12/22/2022,1436,0.13,609.712
+335,OD1795,Ram,Food Grains,Atta & Flour,12/22/2022,2359,0.17,518.98
+179,OD1002,Kumar,Beverages,Health Drinks,12/22/2022,1072,0.34,396.7488
+267,OD1415,Sheeba,Oil & Masala,Spices,12/22/2022,526,0.17,26.3
+664,OD3416,Arutra,Fruits & Veggies,Fresh Vegetables,12/22/2022,2322,0.16,673.38
+665,OD3417,Willams,Fruits & Veggies,Organic Fruits,12/22/2022,2293,0.25,321.02
+957,OD4867,Shah,Fruits & Veggies,Fresh Fruits,12/22/2022,843,0.13,160.17
+571,OD2915,Veena,Fruits & Veggies,Fresh Fruits,12/22/2022,2451,0.21,318.63
+944,OD4809,Komal,Beverages,Health Drinks,12/22/2022,1397,0.14,287.136
+270,OD1425,Akash,"Eggs, Meat & Fish",Eggs,12/22/2022,66,0.35,84.26496
+829,OD4227,Vinne,Bakery,Cakes,12/22/2022,1358,0.1,406.04544
+1126,OD5789,Muneer,Food Grains,Dals & Pulses,12/22/2022,1102,0.17,352.64
+1053,OD5453,Sheeba,Snacks,Noodles,12/22/2022,1696,0.15,726.0799999999999
+817,OD4188,Kumar,Oil & Masala,Edible Oil & Ghee,12/22/2022,1242,0.13,62.1
+1473,OD7660,Arutra,Snacks,Chocolates,12/22/2022,1403,0.19,416.2751999999999
+624,OD3174,Adavan,Beverages,Soft Drinks,12/22/2022,1881,0.11,298.5696
+1478,OD7678,Anu,Oil & Masala,Edible Oil & Ghee,12/22/2022,50,0.1,2.5
+414,OD2198,James,Food Grains,Atta & Flour,12/22/2022,859,0.35,42.95
+1490,OD7726,Veronica,Snacks,Cookies,12/22/2022,1755,0.19,518.9184
+1693,OD8618,Jackson,Bakery,Breads & Buns,12/22/2022,2053,0.15,577.48032
+823,OD4203,Muneer,Food Grains,Atta & Flour,12/22/2022,1188,0.31,522.72
+180,OD1006,Ravi,Snacks,Chocolates,12/22/2022,2776,0.19,800.48
+1291,OD6675,Ravi,Oil & Masala,Spices,12/22/2022,481,0.13,24.05
+1300,OD6738,Shah,Fruits & Veggies,Organic Fruits,12/23/2022,1375,0.32,233.75
+1299,OD6728,Shah,Snacks,Noodles,12/23/2022,1957,0.16,117.24479999999996
+1280,OD6627,Veena,Bakery,Breads & Buns,12/23/2022,1982,0.25,597.024
+1301,OD6739,Harish,Fruits & Veggies,Fresh Fruits,12/23/2022,2342,0.32,772.86
+518,OD2689,Adavan,Snacks,Noodles,12/23/2022,1559,0.12,281.71584
+1298,OD6721,Muneer,Fruits & Veggies,Fresh Fruits,12/23/2022,1613,0.3,290.34
+828,OD4226,Ganesh,Bakery,Breads & Buns,12/23/2022,2336,0.29,509.96736
+1685,OD8573,Adavan,Snacks,Chocolates,12/23/2022,1864,0.2,305.78688
+816,OD4187,Sabeela,Oil & Masala,Edible Oil & Ghee,12/23/2022,1425,0.25,71.25
+1274,OD6603,Ram,Beverages,Health Drinks,12/23/2022,999,0.12,163.8864
+1164,OD5976,Jonas,Bakery,Breads & Buns,12/23/2022,1498,0.13,93.10464000000002
+331,OD1783,Hafiz,Beverages,Health Drinks,12/23/2022,1414,0.27,262.8288
+144,OD883,Arvind,Bakery,Breads & Buns,12/23/2022,2737,0.31,812.88
+1558,OD8023,Sudeep,Food Grains,Atta & Flour,12/23/2022,1396,0.13,307.12
+524,OD2706,Arutra,Oil & Masala,Edible Oil & Ghee,12/23/2022,47,0.25,2.35
+1707,OD8691,Anu,Food Grains,Atta & Flour,12/24/2022,953,0.21,428.85
+1509,OD7808,Anu,Bakery,Cakes,12/24/2022,2804,0.16,828.96
+1708,OD8695,Ridhesh,Snacks,Chocolates,12/24/2022,1438,0.12,463.38048
+744,OD3890,Yusuf,Snacks,Chocolates,12/24/2022,2829,0.26,734.96
+380,OD2032,Akash,Beverages,Soft Drinks,12/24/2022,2496,0.35,870.72
+741,OD3881,Jackson,Fruits & Veggies,Fresh Vegetables,12/24/2022,2174,0.24,391.32
+59,OD405,Alan,Oil & Masala,Masalas,12/24/2022,1357,0.15,67.85
+1925,OD9737,Vince,Snacks,Noodles,12/24/2022,2645,0.14,459.38880000000006
+1393,OD7185,Sudeep,Oil & Masala,Edible Oil & Ghee,12/24/2022,50,0.27,2.5
+318,OD1727,Arvind,Oil & Masala,Masalas,12/24/2022,88,0.1,4.4
+1046,OD5411,Peer,Oil & Masala,Masalas,12/24/2022,113,0.25,5.65
+1400,OD7230,Ramesh,Fruits & Veggies,Fresh Vegetables,12/24/2022,1628,0.24,423.28
+1735,OD8813,Vidya,"Eggs, Meat & Fish",Mutton,12/24/2022,560,0.3,108.1344
+299,OD1616,Hussain,Beverages,Health Drinks,12/24/2022,1387,0.11,326.8944
+895,OD4556,Ramesh,"Eggs, Meat & Fish",Eggs,12/24/2022,445,0.18,92.6464
+1159,OD5958,Shree,Oil & Masala,Edible Oil & Ghee,12/24/2022,1334,0.28,66.7
+200,OD1097,Amrish,Food Grains,Rice,12/25/2022,1850,0.3,388.5
+682,OD3503,Kumar,Snacks,Chocolates,12/25/2022,2714,0.15,807.36
+686,OD3538,Peer,Bakery,Breads & Buns,12/25/2022,1890,0.19,675.856
+1784,OD8992,Muneer,Food Grains,Atta & Flour,12/25/2022,1196,0.23,346.84
+1786,OD8996,Vidya,Beverages,Soft Drinks,12/25/2022,1294,0.15,154.48319999999998
+1938,OD9800,Krithika,Fruits & Veggies,Fresh Vegetables,12/25/2022,2167,0.12,195.03
+1506,OD7797,Ramesh,Beverages,Health Drinks,12/25/2022,2006,0.31,462.528
+1037,OD5364,Ram,"Eggs, Meat & Fish",Mutton,12/25/2022,766,0.25,171.12064000000004
+1470,OD7637,Sabeela,Snacks,Chocolates,12/25/2022,1200,0.15,145.152
+1497,OD7768,Hafiz,Beverages,Soft Drinks,12/25/2022,1102,0.3,70.7616
+761,OD3962,Anu,Fruits & Veggies,Organic Fruits,12/25/2022,702,0.29,210.6
+250,OD1326,Hussain,"Eggs, Meat & Fish",Fish,12/25/2022,1244,0.23,264.4736
+690,OD3560,Ganesh,Bakery,Cakes,12/25/2022,2454,0.1,893.28
+762,OD3963,Krithika,Oil & Masala,Masalas,12/25/2022,32,0.12,1.6
+670,OD3439,Peer,Beverages,Soft Drinks,12/25/2022,948,0.3,94.6944
+13,OD111,Sundar,Food Grains,Dals & Pulses,12/25/2022,1487,0.12,505.58
+562,OD2888,Hussain,Beverages,Soft Drinks,12/25/2022,1936,0.2,420.2496
+130,OD689,Shah,Oil & Masala,Masalas,12/25/2022,50,0.27,2.5
+960,OD4890,Suresh,Bakery,Biscuits,12/25/2022,2558,0.34,1024.46
+1785,OD8993,Muneer,Bakery,Breads & Buns,12/25/2022,1884,0.32,510.31296
+1023,OD5291,Roshan,Oil & Masala,Edible Oil & Ghee,12/25/2022,583,0.23,29.15
+646,OD3295,Ganesh,Fruits & Veggies,Fresh Vegetables,12/25/2022,732,0.12,51.24
+315,OD1699,Shree,Snacks,Cookies,12/25/2022,2841,0.29,464.69376
+1359,OD7027,Vinne,Snacks,Noodles,12/26/2022,1925,0.28,160.272
+1255,OD6494,Arutra,Fruits & Veggies,Organic Vegetables,12/26/2022,741,0.16,244.53
+637,OD3239,Haseena,Fruits & Veggies,Fresh Vegetables,12/26/2022,1066,0.1,341.12
+1859,OD9366,Surya,Food Grains,Organic Staples,12/26/2022,1579,0.25,521.07
+1541,OD7964,Sheeba,Beverages,Soft Drinks,12/27/2022,2633,0.19,1070.87
+1260,OD6514,Amrish,Food Grains,Dals & Pulses,12/27/2022,1342,0.24,67.1
+166,OD955,Sharon,Oil & Masala,Spices,12/28/2022,63,0.1,3.15
+165,OD954,James,Fruits & Veggies,Fresh Vegetables,12/28/2022,1992,0.15,338.64
+1156,OD5937,Esther,Food Grains,Rice,12/28/2022,633,0.22,69.63
+1150,OD5910,Akash,Food Grains,Organic Staples,12/28/2022,2394,0.3,335.16
+1157,OD5943,Hafiz,Fruits & Veggies,Fresh Fruits,12/28/2022,900,0.3,252.0
+107,OD574,Ridhesh,Fruits & Veggies,Fresh Vegetables,12/28/2022,681,0.23,286.02
+105,OD572,Hussain,Bakery,Breads & Buns,12/28/2022,1962,0.18,649.1584
+890,OD4538,Verma,Food Grains,Atta & Flour,12/28/2022,735,0.23,95.55
+106,OD573,James,Bakery,Biscuits,12/28/2022,2226,0.24,950.4
+104,OD571,Muneer,Bakery,Cakes,12/28/2022,1579,0.1,716.912
+1868,OD9440,Vidya,"Eggs, Meat & Fish",Eggs,12/28/2022,806,0.19,123.24864
+840,OD4291,Krithika,Fruits & Veggies,Fresh Vegetables,12/28/2022,2315,0.17,972.3
+1376,OD7103,Amy,"Eggs, Meat & Fish",Eggs,12/28/2022,50,0.29,32.512
+1811,OD9124,Peer,Snacks,Chocolates,12/28/2022,1850,0.13,825.0
+43,OD271,Esther,Snacks,Noodles,12/28/2022,1364,0.11,277.24032
+1117,OD5738,Sharon,"Eggs, Meat & Fish",Fish,12/28/2022,1151,0.16,757.95
+1802,OD9066,Anu,Food Grains,Dals & Pulses,12/28/2022,1423,0.16,213.45
+1337,OD6891,Ridhesh,Bakery,Biscuits,12/28/2022,1532,0.27,563.6736
+1192,OD6132,James,Oil & Masala,Masalas,12/28/2022,1034,0.1,51.7
+345,OD1827,Surya,Food Grains,Atta & Flour,12/29/2022,865,0.19,311.4
+1081,OD5580,Sundar,"Eggs, Meat & Fish",Fish,12/29/2022,375,0.35,258.56
+367,OD1961,Ramesh,Oil & Masala,Spices,12/29/2022,1384,0.2,69.2
+1340,OD6914,Arvind,Beverages,Health Drinks,12/29/2022,2282,0.15,783.42
+252,OD1336,Rumaiza,Beverages,Health Drinks,12/29/2022,1561,0.28,434.6784
+558,OD2861,Ramesh,"Eggs, Meat & Fish",Mutton,12/29/2022,684,0.19,309.7856
+248,OD1321,Surya,Bakery,Biscuits,12/29/2022,1555,0.17,715.7
+393,OD2115,Yusuf,Oil & Masala,Masalas,12/29/2022,579,0.29,28.95
+882,OD4512,Yusuf,Oil & Masala,Edible Oil & Ghee,12/29/2022,50,0.14,2.5
+246,OD1314,Aditi,Oil & Masala,Masalas,12/29/2022,399,0.31,19.95
+1195,OD6157,Veronica,"Eggs, Meat & Fish",Fish,12/29/2022,605,0.16,494.2000000000001
+557,OD2860,Rumaiza,Beverages,Soft Drinks,12/29/2022,1388,0.32,512.1792
+150,OD908,Arvind,Snacks,Cookies,12/30/2022,2454,0.2,985.98
+149,OD907,Veena,Snacks,Chocolates,12/30/2022,1840,0.34,750.5600000000001
+1500,OD7775,Anu,Oil & Masala,Edible Oil & Ghee,12/30/2022,97,0.2,4.85
+118,OD646,Hussain,"Eggs, Meat & Fish",Eggs,12/30/2022,456,0.31,76.30848
+922,OD4697,Veena,Beverages,Soft Drinks,12/30/2022,2090,0.19,194.688
+1499,OD7774,Shree,Food Grains,Organic Staples,12/30/2022,548,0.25,164.4
+151,OD909,Mathew,Snacks,Chocolates,12/30/2022,1767,0.28,746.156

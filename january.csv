@@ -1,0 +1,35 @@
+,Order ID,Category,Sub Category,Order Date,Sales,Discount,Profit
+0,OD3473,Bakery,Breads & Buns,01-01-2022,2737,0.18,1047.95
+1,OD849,Oil & Masala,Masalas,01-01-2022,453,0.14,22.65
+2,OD3544,Snacks,Cookies,01-01-2022,1970,0.33,544.4928
+3,OD3562,Food Grains,Atta & Flour,01-01-2022,2332,0.31,839.52
+4,OD1890,Beverages,Soft Drinks,01-01-2022,2741,0.25,832.07
+5,OD3423,"Eggs, Meat & Fish",Chicken,01-01-2022,1045,0.18,324.92
+6,OD3391,Fruits & Veggies,Fresh Vegetables,01-01-2022,2193,0.27,592.11
+7,OD1554,Beverages,Soft Drinks,01-01-2022,1983,0.28,801.54
+8,OD1493,Oil & Masala,Edible Oil & Ghee,01-01-2022,612,0.2,30.6
+9,OD8707,Snacks,Cookies,01-01-2022,2645,0.29,1179.35
+10,OD8035,Food Grains,Dals & Pulses,01-02-2022,1716,0.3,154.44
+11,OD7925,Fruits & Veggies,Fresh Vegetables,01-02-2022,1448,0.19,492.32
+12,OD6409,Beverages,Soft Drinks,01-02-2022,903,0.1,144.864
+13,OD6410,Snacks,Chocolates,01-02-2022,2681,0.15,1049.16
+14,OD2655,"Eggs, Meat & Fish",Mutton,01-02-2022,866,0.21,423.1
+15,OD2672,Food Grains,Rice,01-02-2022,1482,0.17,474.24
+16,OD1231,Oil & Masala,Masalas,01-02-2022,946,0.33,47.3
+17,OD2692,Beverages,Health Drinks,01-02-2022,2616,0.21,685.024
+18,OD4548,Beverages,Soft Drinks,01-03-2022,2776,0.12,1174.16
+19,OD4389,"Eggs, Meat & Fish",Chicken,01-03-2022,50,0.21,98.44736
+20,OD4775,Oil & Masala,Edible Oil & Ghee,01-03-2022,349,0.29,17.45
+21,OD9427,"Eggs, Meat & Fish",Mutton,01-06-2022,547,0.17,107.33568
+22,OD4252,Bakery,Cakes,01-07-2022,2254,0.22,571.6224000000001
+23,OD3022,Beverages,Health Drinks,01-07-2022,1139,0.35,234.1152
+24,OD978,"Eggs, Meat & Fish",Fish,01-07-2022,50,0.14,155.2384
+25,OD3074,Food Grains,Dals & Pulses,01-07-2022,1368,0.18,615.6
+26,OD3067,Oil & Masala,Masalas,01-07-2022,585,0.14,29.25
+27,OD2963,"Eggs, Meat & Fish",Chicken,01-07-2022,50,0.15,24.832
+28,OD5707,Oil & Masala,Edible Oil & Ghee,01-08-2022,50,0.19,2.5
+29,OD3987,Snacks,Cookies,01-09-2022,1804,0.12,582.54336
+30,OD7104,Snacks,Cookies,01-12-2022,2868,0.22,935.04
+31,OD8481,Fruits & Veggies,Organic Vegetables,01-12-2022,1231,0.1,381.61
+32,OD7590,Oil & Masala,Masalas,01-12-2022,226,0.26,11.3
+33,OD8970,Oil & Masala,Masalas,01-12-2022,983,0.14,49.15
